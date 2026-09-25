@@ -23,7 +23,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/29cm.jpg",
       "sha256": "8f89826a739c697cc67dc080fd831072789c58f7cbba8409d8bd49d29c70ad65",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "anthropic",
@@ -44,7 +51,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/anthropic.jpg",
       "sha256": "0d895cd1709842ca31d91c534917573f32a815445d45986d2c3c3ad9ac22a5e0",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "arc-browser",
@@ -65,7 +79,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/arc-browser.jpg",
       "sha256": "738d4610cc78f3d32396b8287da3006f01497c65fc90d39cf15aa35e79aad167",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "basement-studio",
@@ -86,7 +107,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/basement-studio.jpg",
       "sha256": "280154e87a9c088da95d9dee91091b8d114bd53e4a48226f663d14812cc2d47f",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "clerk",
@@ -107,7 +135,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/clerk.jpg",
       "sha256": "5231d52fa18654e4a7afb9a1c1f70477565f5de18f2a3984d7b6d07d3c273d08",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "cursor",
@@ -128,7 +163,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/cursor.jpg",
       "sha256": "6e72c4712383689b0d5864b1039f0ed4ea4b19d7be37e3eff03b03b0f686fa75",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "darkroom",
@@ -149,7 +191,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/darkroom.jpg",
       "sha256": "5336e8f8380b2f7edf328cab2018b52f647bd16836529066fa7f21b9f1fe8e50",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "family-co",
@@ -170,7 +219,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/family-co.jpg",
       "sha256": "aae52849bdb96bdbb5a38f67802230cd2bd1c5ff5a8b3c49670aa076e05153ad",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "fora-travel",
@@ -191,7 +247,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/fora-travel.jpg",
       "sha256": "28fb27e9bc0a600cea70275e3f787428df37dfc8677433c5272ec4f23d0c70ab",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "illoca-unseen",
@@ -212,7 +275,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/illoca-unseen.jpg",
       "sha256": "353810ca5b8d358fe3cb20de46587d38139a3eb4ab35be35d96af737d6cba7b6",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "linear",
@@ -233,7 +303,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/linear.jpg",
       "sha256": "507e44deb5d81808f73247136225ff57f045ea747ef01a77954b11a9be87ef67",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "mobbin-mcp",
@@ -254,7 +331,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/mobbin-mcp.jpg",
       "sha256": "4a787eb539de185669595c44ec1ff87af99e5db06ad3cef47c190aa18342d8b1",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "resend",
@@ -262,7 +346,14 @@
       "url": "https://resend.com/",
       "status": "not-published",
       "checked_at": "2026-09-25",
-      "reason": "Authenticated redirect or account-related state detected; no current screenshot published."
+      "reason": "Authenticated redirect or account-related state detected; no current screenshot published.",
+      "analysis_coverage": {
+        "desktop_still": "not-published",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "rive",
@@ -283,7 +374,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/rive.jpg",
       "sha256": "a957e3a1eb396d11221a6d9b6e85399ea1f1637ae3616507d60768ff70290777",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "stripe",
@@ -291,7 +389,14 @@
       "url": "https://stripe.com/",
       "status": "not-published",
       "checked_at": "2026-09-25",
-      "reason": "Authenticated redirect or account-related state detected; no current screenshot published."
+      "reason": "Authenticated redirect or account-related state detected; no current screenshot published.",
+      "analysis_coverage": {
+        "desktop_still": "not-published",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "teenage-engineering",
@@ -312,7 +417,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/teenage-engineering.jpg",
       "sha256": "aa8688927c041ca080f894c94d25443bcacd9def5d9c968fbe801c0cd4427bdb",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "toss",
@@ -335,7 +447,14 @@
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
       "resolved_url": "https://toss.im/en-us",
       "locale": "English",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "vercel",
@@ -356,7 +475,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/vercel.jpg",
       "sha256": "90414703cd74168520a32a5b18549cb61320cac3cf5bd5647209c63d6ecb92cf",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "wearedirect",
@@ -377,7 +503,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/wearedirect.jpg",
       "sha256": "e66e06a9d688acfa9080e6f972e79cc34c732a27e4fcafbbd46e6839f9cf4940",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     },
     {
       "id": "aesop",
@@ -398,7 +531,14 @@
       "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/aesop.jpg",
       "sha256": "396e7dbd458e5d517fea98af1546cb8fee353e6260bda1fda5611f02e129b835",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG"
+      "image_format": "JPEG",
+      "analysis_coverage": {
+        "desktop_still": "reviewed",
+        "full_page": "not-audited",
+        "interactions": "not-audited",
+        "mobile": "not-audited",
+        "motion": "not-audited"
+      }
     }
   ]
 }

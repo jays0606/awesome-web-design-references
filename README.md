@@ -10,13 +10,13 @@ Maintained by **Jaeho / VibeRick**. Start with a visual direction, understand wh
 
 - **18 desktop screenshots captured and visually reviewed on September 25, 2026.**
 - Original observations, suitable use cases, and cautions for each captured example.
-- Six reusable English prompts for choosing a direction, adapting references, improving an interface, focused iteration, exploring alternatives, and final review.
+- Three English workflows: **Ideate**, **Improve**, and **Review**.
 - An optional `reference-led-design` skill using the open Agent Skills format.
 - Three earlier screenshots retained as a dated archive.
 
 Two additional candidates are recorded without a new public screenshot because account-related states were detected. This is a maintained personal selection, not a comprehensive ranking. Captures represent one desktop state; they do not certify accessibility, mobile behavior, motion quality, or business outcomes.
 
-## Start here
+## Find a direction
 
 | Direction | Examples | Useful for |
 |---|---|---|
@@ -28,7 +28,7 @@ Two additional candidates are recorded without a new public screenshot because a
 
 ## Use without installation
 
-Give your agent the repository URL, your brief, and access to your real content. Ask it to read `REFERENCES.json`, inspect the most relevant images, and adapt specific design principles. Start with one primary reference; add a second only for a different need.
+Give your agent the repository URL, your brief, and access to your real content. Ask it to read `REFERENCES.json`, inspect the most relevant images, and adapt specific design principles. Choose references by project fit; there is no mandatory shortlist. Inspect selected live sites when layout, interaction, or motion matters.
 
 ```text
 Read this repository's README.md and REFERENCES.json.
@@ -40,6 +40,19 @@ Verify the result at desktop and mobile widths, and report what remains untested
 ```
 
 See [PROMPTS.md](PROMPTS.md) for complete workflows. The library complements frontend implementation skills; it does not require a particular framework or replace your design system.
+
+## Browser tools and analysis depth
+
+The skill supplies instructions and a reference catalog. It does not bundle
+Playwright, a browser, or an animation analyzer. It uses whichever browser tools
+your agent already has to inspect selected sites: scrolling, navigation, state
+changes, responsive layouts, and motion where supported.
+
+**The current collection is a visual discovery library, not a completed deep
+analysis of every site.** All 18 new captures cover one desktop state. Full-page
+structure, mobile journeys, keyboard interactions, and animation behavior have
+not been systematically audited. Live inspection should fill the relevant gaps
+for the project at hand; unavailable checks must remain marked as untested.
 
 ## Optional skill installation
 
