@@ -1,0 +1,102 @@
+[
+  {
+    "id": "29cm",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "anthropic",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "arc-browser",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "basement-studio",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "clerk",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "cursor",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "darkroom",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "family-co",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "fora-travel",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "illoca-unseen",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "linear",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "mobbin-mcp",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "resend",
+    "status": "not-published",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "rive",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "stripe",
+    "status": "not-published",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "teenage-engineering",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "toss",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "vercel",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "wearedirect",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "aesop",
+    "status": "captured-and-visually-reviewed",
+    "date": "2026-09-25"
+  }
+]

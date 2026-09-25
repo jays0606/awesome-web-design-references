@@ -1,45 +1,68 @@
-# VibeRick Design References
+# Awesome Web Design References
 
-제가 선호하는 웹사이트를 모으고, 어떤 부분을 참고하면 좋은지 정리한 디자인 큐레이션입니다. **깔끔하고 실용적인 방향부터 개성 있는 브랜드 표현까지**, 내 프로젝트에 맞는 예시를 고르는 출발점으로 사용하세요. 객관적인 순위나 품질 보증은 아닙니다.
+**Curated website screenshots, design observations, and practical prompts for AI coding agents.**
 
-## 바로 보기
+Maintained by **Jaeho / VibeRick**. Start with a visual direction, understand why it fits, and build something original with your own content.
 
-- [웹 갤러리](https://jays0606.github.io/viberick-design-references/)
-- [에이전트용 구조화 목록](REFERENCES.json)
-- [복사해서 쓰는 요청문](PROMPTS.md)
-- [AI 에이전트 이용 안내](AGENTS.md)
+[Browse the gallery](https://jays0606.github.io/awesome-web-design-references/) · [Prompt library](PROMPTS.md) · [Structured catalog](REFERENCES.json) · [Agent skill](skills/reference-led-design/SKILL.md)
 
-설치할 스킬이나 실행 스크립트는 없습니다. Claude Code·Codex 등에서 이 저장소의 README와 REFERENCES.json을 읽고, 목적에 맞는 예시 한두 개를 선택해 활용하세요. 링크 접근이 안 되면 해당 문서와 선택한 스크린샷을 직접 첨부할 수 있습니다.
+## What is included
 
-## 먼저 볼 세 가지
+- **18 desktop screenshots captured and visually reviewed on September 25, 2026.**
+- Original observations, suitable use cases, and cautions for each captured example.
+- Six reusable English prompts for choosing a direction, adapting references, improving an interface, focused iteration, exploring alternatives, and final review.
+- An optional `reference-led-design` skill using the open Agent Skills format.
+- Three earlier screenshots retained as a dated archive.
 
-| 예시 | 참고할 것 | 적용하기 좋은 상황 |
+Two additional candidates are recorded without a new public screenshot because account-related states were detected. This is a maintained personal selection, not a comprehensive ranking. Captures represent one desktop state; they do not certify accessibility, mobile behavior, motion quality, or business outcomes.
+
+## Start here
+
+| Direction | Examples | Useful for |
 |---|---|---|
-| [Anthropic](https://www.anthropic.com/) | 여백과 제목·설명 대비 | 브랜드·컨설팅·설명 중심 사이트 |
-| [Cursor](https://cursor.com/) | 짧은 가치 설명과 큰 제품 화면 | 앱·SaaS·AI 서비스 |
-| [Toss](https://toss.im/) | 한글 문구와 생활 이미지의 대비 | 한국어 서비스·일상 브랜드 |
+| Editorial clarity | Anthropic | Research, consulting, explanation-led brands |
+| Product clarity | Cursor, Linear, Clerk, Vercel, Mobbin MCP, Rive | Software and technical products |
+| Image-led brands | Aesop, Fora, Toss | Hospitality, lifestyle, everyday services |
+| Playful products | Family, Arc / Dia | Approachable consumer products |
+| Expressive studios and commerce | Basement, Darkroom, Illoca, Direct, 29CM, Teenage Engineering | Distinctive creative and retail identities |
 
-각 스크린샷은 **2026-09-06에 캡처한 화면**이며 현재 사이트와 다를 수 있습니다. 2026-09-25에 대표 캡처를 검토하고 해설을 정리했습니다. 모바일·접근성·성능 평가나 사이트 전체의 재검증을 의미하지 않습니다. 정적 캡처로 애니메이션 품질을 판단하지 마세요.
+## Use without installation
 
-## AI에게 이렇게 요청하세요
+Give your agent the repository URL, your brief, and access to your real content. Ask it to read `REFERENCES.json`, inspect the most relevant images, and adapt specific design principles. Start with one primary reference; add a second only for a different need.
 
 ```text
-이 저장소의 README.md와 REFERENCES.json을 읽어줘.
-내 프로젝트는 [대상과 목적]이고 원하는 분위기는 [설명]이야.
-어울리는 레퍼런스 1~2개를 고르고 참고할 특징을 짧게 설명한 뒤 구현해줘.
-기존 디자인 시스템과 내 지시를 우선하고, 내용과 사진은 내 자료를 써줘.
-브랜드 로고·문구·이미지를 복사하지 말고 배치와 정보 위계만 참고해줘.
-참고 이미지를 보지 못했다면 봤다고 하지 마.
+Read this repository's README.md and REFERENCES.json.
+I am building [project] for [audience]. The primary action is [action].
+Use the content and assets in [location] and preserve [existing constraints].
+Choose one suitable reference, explain the specific ideas you will adapt,
+and implement a working first version. Use original content and assets.
+Verify the result at desktop and mobile widths, and report what remains untested.
 ```
 
-## 더 찾기
+See [PROMPTS.md](PROMPTS.md) for complete workflows. The library complements frontend implementation skills; it does not require a particular framework or replace your design system.
+
+## Optional skill installation
+
+Using the third-party Skills CLI:
+
+```sh
+npx skills add jays0606/awesome-web-design-references --skill reference-led-design
+```
+
+Choose your agent and installation scope in the CLI. Review existing installations before replacement. The skill contains Markdown and JSON, with no hooks or executable scripts. It bundles catalog text; viewing screenshot URLs requires network access. The CLI is separate software and has its own telemetry behavior; set `DISABLE_TELEMETRY=1` to opt out according to its documentation.
+
+The skill follows the [Agent Skills specification](https://agentskills.io/specification). This does **not** mean Anthropic, OpenAI, or Vercel has endorsed or certified it. Schema validation and CLI discovery are distinct from end-to-end model behavior tests. See [VALIDATION.md](VALIDATION.md).
+
+## Contribute
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Suggest a reference with a source URL, a concrete design observation, an appropriate use case, and capture details. Quality and coverage matter more than adding names.
+
+If this helps your work, star the repository to find it again and follow updates.
+
+## More discovery sources
 
 [Siteinspire](https://www.siteinspire.com/) · [Lapa Ninja](https://www.lapa.ninja/) · [Recent Websites](https://recent.design/websites) · [21st templates](https://21st.dev/community/templates)
 
-위 페이지는 외부 자료 탐색 입구입니다. 템플릿 코드 사용은 개별 라이선스와 기술 호환성을 별도로 확인하세요.
+## Rights and attribution
 
-## 출처와 이용
-
-직접 작성한 코드·해설은 [MIT](LICENSE). **스크린샷 및 그 안의 사진·로고·문구 등 제3자 콘텐츠는 MIT 대상이 아닙니다.** 각 권리는 원 권리자에게 있으며 분석·비평용 참고로 제시합니다. 디자인 파일이나 상용 재사용 자산으로 제공하는 것이 아닙니다. 원 사이트와 공식 관계·제휴를 뜻하지 않습니다. [출처 및 정정 요청](THIRD-PARTY-NOTICES.md).
-
-원본 내부 자료의 22개 후보 중 측정 제외 3개는 공개 목록에서 제외했습니다. 대표 3개에만 캡처·직접 해설을 싣고, 나머지 16개는 과거 탐색 후보 링크로 구분했습니다.
+Original code, prompts and commentary are [MIT licensed](LICENSE). Third-party screenshots and their depicted logos, photography, text and artwork are excluded. They are limited reference examples accompanying commentary, not reusable production assets. No affiliation or endorsement is implied. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for sources and correction/removal requests.
