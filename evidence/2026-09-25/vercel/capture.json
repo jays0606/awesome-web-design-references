@@ -1,0 +1,442 @@
+{
+  "id": "vercel",
+  "url": "https://vercel.com/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 5333,
+    "running_animations": 0,
+    "globals": [],
+    "videos": 0,
+    "canvases": 1,
+    "sticky_or_fixed": 9
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 5030,
+      "h": 64,
+      "text": "Products Resources Enterprise Pricing Get a Demo L"
+    },
+    {
+      "tag": "nav",
+      "y": 5030,
+      "h": 64,
+      "text": "Products Resources Enterprise Pricing"
+    },
+    {
+      "tag": "section",
+      "y": 64,
+      "h": 836,
+      "text": "Drop to deploy Loading Agentic Infrastructure Depl"
+    },
+    {
+      "tag": "header",
+      "y": 328,
+      "h": 200,
+      "text": "Agentic Infrastructure Deploy now Talk to sales"
+    },
+    {
+      "tag": "h1",
+      "y": 328,
+      "h": 128,
+      "text": "Agentic Infrastructure"
+    },
+    {
+      "tag": "nav",
+      "y": 352,
+      "h": 152,
+      "text": "For coding agents to deploy in their native langua"
+    },
+    {
+      "tag": "section",
+      "y": 1108,
+      "h": 2362,
+      "text": "Build agents on infrastructure that thinks like th"
+    },
+    {
+      "tag": "section",
+      "y": 1108,
+      "h": 112,
+      "text": "Build agents on infrastructure that thinks like th"
+    },
+    {
+      "tag": "h2",
+      "y": 1108,
+      "h": 112,
+      "text": "Build agents on infrastructure that thinks like them"
+    },
+    {
+      "tag": "section",
+      "y": 1981,
+      "h": 112,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 2853,
+      "h": 112,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 3678,
+      "h": 718,
+      "text": "Recently shipped A framework for building durable "
+    },
+    {
+      "tag": "section",
+      "y": 3678,
+      "h": 56,
+      "text": "Recently shipped"
+    },
+    {
+      "tag": "h2",
+      "y": 3678,
+      "h": 56,
+      "text": "Recently shipped"
+    },
+    {
+      "tag": "section",
+      "y": 3815,
+      "h": 580,
+      "text": "A framework for building durable agents. VERCEL PA"
+    },
+    {
+      "tag": "header",
+      "y": 4317,
+      "h": 58,
+      "text": "A framework for building durable agents."
+    },
+    {
+      "tag": "header",
+      "y": 3883,
+      "h": 92,
+      "text": "VERCEL PASSPORT PASAPORTE PASSAPORTO パスポート"
+    },
+    {
+      "tag": "header",
+      "y": 4003,
+      "h": 72,
+      "text": "Passport Secure every internal agent, app, and dep"
+    },
+    {
+      "tag": "header",
+      "y": 4303,
+      "h": 72,
+      "text": "Containers Run production workloads in isolated co"
+    },
+    {
+      "tag": "section",
+      "y": 4672,
+      "h": 136,
+      "text": "Built by you, or your agents Deploy now Onboard yo"
+    },
+    {
+      "tag": "section",
+      "y": 4672,
+      "h": 56,
+      "text": "Built by you, or your agents"
+    },
+    {
+      "tag": "h2",
+      "y": 4672,
+      "h": 56,
+      "text": "Built by you, or your agents"
+    },
+    {
+      "tag": "footer",
+      "y": 5084,
+      "h": 846,
+      "text": "Agent Stack AI SDK AI Gateway Sandbox Workflows Co"
+    },
+    {
+      "tag": "nav",
+      "y": 5124,
+      "h": 700,
+      "text": "Agent Stack AI SDK AI Gateway Sandbox Workflows Co"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "Agent Stack"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "Core Platform"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "Security"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "Tools"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "Frameworks"
+    },
+    {
+      "tag": "h2",
+      "y": 5136,
+      "h": 20,
+      "text": "SDKs"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Build"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Learn"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Explore"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Company"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Legal & Trust"
+    },
+    {
+      "tag": "h2",
+      "y": 5456,
+      "h": 20,
+      "text": "Social"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 4745,
+      "h": 64,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 128,
+      "h": 595,
+      "text": "Drop to deploy Loading Agentic Infrastructure To s"
+    },
+    {
+      "tag": "header",
+      "y": 323,
+      "h": 272,
+      "text": "Agentic Infrastructure To ship apps and agents For"
+    },
+    {
+      "tag": "h1",
+      "y": 323,
+      "h": 112,
+      "text": "Agentic Infrastructure"
+    },
+    {
+      "tag": "section",
+      "y": 883,
+      "h": 2184,
+      "text": "Build agents on infrastructure that thinks like th"
+    },
+    {
+      "tag": "section",
+      "y": 883,
+      "h": 120,
+      "text": "Build agents on infrastructure that thinks like th"
+    },
+    {
+      "tag": "h2",
+      "y": 883,
+      "h": 120,
+      "text": "Build agents on infrastructure that thinks like them"
+    },
+    {
+      "tag": "section",
+      "y": 1654,
+      "h": 80,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 2385,
+      "h": 80,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 3227,
+      "h": 741,
+      "text": "Recently shipped A framework for building durable "
+    },
+    {
+      "tag": "section",
+      "y": 3227,
+      "h": 40,
+      "text": "Recently shipped"
+    },
+    {
+      "tag": "h2",
+      "y": 3227,
+      "h": 40,
+      "text": "Recently shipped"
+    },
+    {
+      "tag": "section",
+      "y": 3348,
+      "h": 619,
+      "text": "A framework for building durable agents. VERCEL PA"
+    },
+    {
+      "tag": "header",
+      "y": 3443,
+      "h": 78,
+      "text": "A framework for building durable agents."
+    },
+    {
+      "tag": "header",
+      "y": 3617,
+      "h": 122,
+      "text": "VERCEL PASSPORT PASAPORTE PASSAPORTO パスポート"
+    },
+    {
+      "tag": "header",
+      "y": 3622,
+      "h": 112,
+      "text": "Passport Secure every internal agent, app, and dep"
+    },
+    {
+      "tag": "header",
+      "y": 3855,
+      "h": 92,
+      "text": "Containers Run production workloads in isolated co"
+    },
+    {
+      "tag": "section",
+      "y": 4180,
+      "h": 212,
+      "text": "Built by you, or your agents Deploy now Onboard yo"
+    },
+    {
+      "tag": "section",
+      "y": 4180,
+      "h": 80,
+      "text": "Built by you, or your agents"
+    },
+    {
+      "tag": "h2",
+      "y": 4180,
+      "h": 80,
+      "text": "Built by you, or your agents"
+    },
+    {
+      "tag": "footer",
+      "y": 4604,
+      "h": 1958,
+      "text": "Agent Stack AI SDK AI Gateway Sandbox Workflows Co"
+    },
+    {
+      "tag": "nav",
+      "y": 4644,
+      "h": 1812,
+      "text": "Agent Stack AI SDK AI Gateway Sandbox Workflows Co"
+    },
+    {
+      "tag": "h2",
+      "y": 4656,
+      "h": 20,
+      "text": "Agent Stack"
+    },
+    {
+      "tag": "h2",
+      "y": 4656,
+      "h": 20,
+      "text": "Core Platform"
+    },
+    {
+      "tag": "h2",
+      "y": 4920,
+      "h": 20,
+      "text": "Security"
+    },
+    {
+      "tag": "h2",
+      "y": 4920,
+      "h": 20,
+      "text": "Tools"
+    },
+    {
+      "tag": "h2",
+      "y": 5156,
+      "h": 20,
+      "text": "Frameworks"
+    },
+    {
+      "tag": "h2",
+      "y": 5156,
+      "h": 20,
+      "text": "SDKs"
+    },
+    {
+      "tag": "h2",
+      "y": 5476,
+      "h": 20,
+      "text": "Build"
+    },
+    {
+      "tag": "h2",
+      "y": 5476,
+      "h": 20,
+      "text": "Learn"
+    },
+    {
+      "tag": "h2",
+      "y": 5768,
+      "h": 20,
+      "text": "Explore"
+    },
+    {
+      "tag": "h2",
+      "y": 5768,
+      "h": 20,
+      "text": "Company"
+    },
+    {
+      "tag": "h2",
+      "y": 6116,
+      "h": 20,
+      "text": "Legal & Trust"
+    },
+    {
+      "tag": "h2",
+      "y": 6116,
+      "h": 20,
+      "text": "Social"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "toss",
+  "url": "https://toss.im/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "desktop full page cropped at 14000px",
+    "mobile full page cropped at 14000px"
+  ],
+  "tech": {
+    "page_height": 50964,
+    "running_animations": 0,
+    "globals": [
+      "lenis"
+    ],
+    "videos": 1,
+    "canvases": 1,
+    "sticky_or_fixed": 7
+  },
+  "scroll_frames": 24,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 44962,
+      "h": 64,
+      "text": "Personal Business Company Newsroom Careers ENG D o"
+    },
+    {
+      "tag": "nav",
+      "y": 45410,
+      "h": 132,
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "y": 8294,
+      "h": 200,
+      "text": "From money to everyday life. All in one place."
+    },
+    {
+      "tag": "h2",
+      "y": 7016,
+      "h": 112,
+      "text": "Send money in seconds"
+    },
+    {
+      "tag": "section",
+      "y": 8865,
+      "h": 900,
+      "text": "Your money, simplified See everything in one place"
+    },
+    {
+      "tag": "h2",
+      "y": 9033,
+      "h": 123,
+      "text": "Your money, simplified"
+    },
+    {
+      "tag": "section",
+      "y": 9765,
+      "h": 2286,
+      "text": "Finance without the homework No jargon. Just clear"
+    },
+    {
+      "tag": "h2",
+      "y": 9965,
+      "h": 61,
+      "text": "Finance without the homework"
+    },
+    {
+      "tag": "h3",
+      "y": 10776,
+      "h": 30,
+      "text": "Check your eligible loan options instantly"
+    },
+    {
+      "tag": "h3",
+      "y": 10776,
+      "h": 59,
+      "text": "Find the card that rewards what you spend on most"
+    },
+    {
+      "tag": "h3",
+      "y": 10776,
+      "h": 59,
+      "text": "See what you’re covered for - and what you don’t need"
+    },
+    {
+      "tag": "h3",
+      "y": 11862,
+      "h": 30,
+      "text": "Real-time AI analysis of earnings"
+    },
+    {
+      "tag": "h3",
+      "y": 11862,
+      "h": 30,
+      "text": "Hands-off investing"
+    },
+    {
+      "tag": "h3",
+      "y": 11862,
+      "h": 30,
+      "text": "Join a community of millions"
+    },
+    {
+      "tag": "section",
+      "y": 19503,
+      "h": 900,
+      "text": "₩7,460 Sugo al Pomodoro, 340g Apply discount ₩1,00"
+    },
+    {
+      "tag": "section",
+      "y": 23017,
+      "h": 364,
+      "text": "2 , 8 1 0 1 2 4 4 , 3 2 5 , 8 0 0 14 sold A 18 sol"
+    },
+    {
+      "tag": "h2",
+      "y": 23165,
+      "h": 118,
+      "text": "With 8 million monthly visitors, Toss Shopping gives you access to scale"
+    },
+    {
+      "tag": "section",
+      "y": 23705,
+      "h": 439,
+      "text": "Every confirmed sale is paid out to your account w"
+    },
+    {
+      "tag": "h2",
+      "y": 23849,
+      "h": 78,
+      "text": "Every confirmed sale is paid out to your account within two days"
+    },
+    {
+      "tag": "section",
+      "y": 24468,
+      "h": 2326,
+      "text": "LIVE Different marketing objectives need different"
+    },
+    {
+      "tag": "h2",
+      "y": 26151,
+      "h": 90,
+      "text": "Different marketing objectives need different strategies Promote your brands the right way"
+    },
+    {
+      "tag": "section",
+      "y": 26884,
+      "h": 4068,
+      "text": "Toss Ads Turn 30 million Toss users into your cust"
+    },
+    {
+      "tag": "h2",
+      "y": 27210,
+      "h": 123,
+      "text": "Turn 30 million Toss users into your customers"
+    },
+    {
+      "tag": "h3",
+      "y": 27903,
+      "h": 134,
+      "text": "Reach the audience with highest purchase intention Maximise your marketing ROI"
+    },
+    {
+      "tag": "h2",
+      "y": 28616,
+      "h": 123,
+      "text": "A trusted business partner built to grow revenue"
+    },
+    {
+      "tag": "footer",
+      "y": 49062,
+      "h": 1736,
+      "text": "From money to everyday life. All in one place. Tos"
+    },
+    {
+      "tag": "footer",
+      "y": 49710,
+      "h": 1040,
+      "text": "From money to everyday life. All in one place. Tos"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "nav",
+      "y": 19999,
+      "h": 56,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 0,
+      "h": 3362,
+      "text": "From money to everyday life. All in one place. Sen"
+    },
+    {
+      "tag": "h2",
+      "y": 465,
+      "h": 154,
+      "text": "From money to everyday life. All in one place."
+    },
+    {
+      "tag": "h2",
+      "y": 1312,
+      "h": 92,
+      "text": "Your money, simplified"
+    },
+    {
+      "tag": "section",
+      "y": 3362,
+      "h": 4396,
+      "text": "Finance without the homework No jargon. Just clear"
+    },
+    {
+      "tag": "h2",
+      "y": 3522,
+      "h": 92,
+      "text": "Finance without the homework"
+    },
+    {
+      "tag": "h3",
+      "y": 4266,
+      "h": 27,
+      "text": "Check your eligible loan options instantly"
+    },
+    {
+      "tag": "h3",
+      "y": 4828,
+      "h": 53,
+      "text": "Find the card that rewards what you spend on most"
+    },
+    {
+      "tag": "h3",
+      "y": 5416,
+      "h": 53,
+      "text": "See what you’re covered for - and what you don’t need"
+    },
+    {
+      "tag": "h3",
+      "y": 6338,
+      "h": 27,
+      "text": "Real-time AI analysis of earnings"
+    },
+    {
+      "tag": "h3",
+      "y": 6925,
+      "h": 27,
+      "text": "Hands-off investing"
+    },
+    {
+      "tag": "h3",
+      "y": 7513,
+      "h": 27,
+      "text": "Join a community of millions"
+    },
+    {
+      "tag": "h2",
+      "y": 9190,
+      "h": 138,
+      "text": "From sale to payout, everything in one place"
+    },
+    {
+      "tag": "section",
+      "y": 10024,
+      "h": 223,
+      "text": "2 , 8 9 5 6 7 8 9 0 1 2 0 1 2 3 4 5 6 7 8 1 4 5 6 "
+    },
+    {
+      "tag": "h2",
+      "y": 10116,
+      "h": 162,
+      "text": "With 8 million monthly visitors, Toss Shopping gives you access to scale"
+    },
+    {
+      "tag": "section",
+      "y": 10577,
+      "h": 527,
+      "text": "Every confirmed sale is paid out to your account w"
+    },
+    {
+      "tag": "h2",
+      "y": 10870,
+      "h": 162,
+      "text": "Every confirmed sale is paid out to your account within two days"
+    },
+    {
+      "tag": "section",
+      "y": 11264,
+      "h": 486,
+      "text": "Different marketing objectives need different stra"
+    },
+    {
+      "tag": "h2",
+      "y": 11264,
+      "h": 78,
+      "text": "Different marketing objectives need different strategies Promote your brands the right way"
+    },
+    {
+      "tag": "section",
+      "y": 11750,
+      "h": 3417,
+      "text": "Toss Ads Turn 30 million Toss users into your cust"
+    },
+    {
+      "tag": "h2",
+      "y": 11953,
+      "h": 138,
+      "text": "Turn 30 million Toss users into your customers"
+    },
+    {
+      "tag": "h3",
+      "y": 12691,
+      "h": 157,
+      "text": "Reach the audience with highest purchase intention Maximise your marketing ROI"
+    },
+    {
+      "tag": "h2",
+      "y": 13584,
+      "h": 138,
+      "text": "A trusted business partner built to grow revenue"
+    },
+    {
+      "tag": "section",
+      "y": 15426,
+      "h": 3347,
+      "text": "Payment hardware Designed to fit seamlessly Slim, "
+    },
+    {
+      "tag": "footer",
+      "y": 20326,
+      "h": 1543,
+      "text": "From money to everyday life. All in one place. Tos"
+    },
+    {
+      "tag": "footer",
+      "y": 20719,
+      "h": 1130,
+      "text": "From money to everyday life. All in one place. Tos"
+    }
+  ]
+}

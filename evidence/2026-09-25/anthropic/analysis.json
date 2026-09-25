@@ -1,0 +1,81 @@
+{
+ "id": "anthropic",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Nav",
+   "what_it_does": "Wordmark left; compact text links with dropdown carets and a dark split 'Try Claude' button at right, all on a warm off-white background."
+  },
+  {
+   "order": 2,
+   "section": "Split hero",
+   "what_it_does": "A large bold grotesk headline with two underlined link-words on the left, balanced by a four-line serif paragraph on the right on the same baseline band."
+  },
+  {
+   "order": 3,
+   "section": "Film card becomes model feature band",
+   "what_it_does": "A rounded inset video card under the hero plays textured footage with serif words and lands on a 'Claude Opus 5.5' horizon title; further down it becomes a full-bleed dark horizon band with the serif title, a two-line dek and a small white 'Read more' pill."
+  },
+  {
+   "order": 4,
+   "section": "Latest releases",
+   "what_it_does": "Three equal tan cards, each with a sans title, a serif blurb, and a monospace DATE/CATEGORY/DETAILS key-value table ruled by hairlines above a dark 'Read announcement' pill."
+  },
+  {
+   "order": 5,
+   "section": "Mission + link index",
+   "what_it_does": "A short bold mission statement in a narrow left column beside a ruled list of six titles, each with a right-aligned grey category label."
+  },
+  {
+   "order": 6,
+   "section": "Footer",
+   "what_it_does": "Near-black block with the logo mark and four dense link columns (Products, Solutions, Resources, Company) plus sub-groups; copyright and social icons at the bottom left."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero headline",
+   "trigger": "load",
+   "observed": "The first recorded frame shows only the right-hand paragraph; the headline then fades in, with 'that put' still lighter than the other words in the next frame.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "hero film card",
+   "trigger": "autoplay",
+   "observed": "The card cycles textured clips with serif words appearing in sequence, 'There's' → 'more to' → 'discover'. By 8s it settles on a sunrise horizon with 'Claude Opus 5.5'.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "film card → feature band",
+   "trigger": "scroll-linked",
+   "observed": "In the first scroll frame the Opus title sits in the rounded inset card; in the second it is a full-bleed band. Inferred: the card grows to full width as the page scrolls (GSAP and ScrollTrigger globals are present).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "nav",
+   "trigger": "scroll",
+   "observed": "After the first scroll frame the wordmark switches to the compact logo mark while the nav stays pinned. The same swap and pin happen on mobile.",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "The rounded inset film card is gone: the hero sits directly on a full-width, flat dark band with the static 'Claude Opus 5.5' serif title and dek. running_animations is 0 in both runs, so the difference is a swapped layout or video, not a paused CSS animation.",
+ "mobile": "The nav becomes the logo mark plus a two-line hamburger and stays pinned while scrolling. The headline wraps to four lines, with the serif paragraph stacked beneath it at almost the same visual size. The film card starts as a rounded inset card and shows as a full-bleed Opus band once scrolled. The release cards stack vertically with their key-value tables intact. The link index moves each category label under its title, and the footer becomes one long single-column list.",
+ "adaptable_ideas": [
+  "Pair a heavy grotesk headline with a lighter serif paragraph on the same row: the type contrast carries the hero without imagery.",
+  "Underline two key nouns in the headline to make them navigation, not decoration.",
+  "Put a monospace key-value table (DATE / CATEGORY / DETAILS) on news cards to give editorial content a technical-record feel.",
+  "Start a feature as a rounded inset media card that becomes a full-bleed band as it scrolls in: one reveal step, then a calm page."
+ ],
+ "capture_issues": [
+  "In desktop-full the pinned nav and a 'Skip to footer' button are painted over the top of the footer. In mobile-full the pinned nav and 'Skip to main / Skip to footer' pills are painted over the footer.",
+  "The page is short (3,408px), so the last 6 desktop scroll frames all show the same footer."
+ ],
+ "not_verified": [
+  "Nav dropdown contents",
+  "Hover states on cards and list rows",
+  "Whether the film card expansion is scrubbed or triggered once",
+  "Video audio or controls",
+  "Split-button menu on Try Claude"
+ ]
+}

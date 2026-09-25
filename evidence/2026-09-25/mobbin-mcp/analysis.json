@@ -1,0 +1,106 @@
+{
+ "id": "mobbin-mcp",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Hero",
+   "what_it_does": "Floating grey pill nav; outlined 'Mobbin MCP' tag, centred three-line headline, grey subline, dark + outline pill CTAs, small plan note; dark rounded video panel below."
+  },
+  {
+   "order": 2,
+   "section": "Demo video + social proof",
+   "what_it_does": "Dark panel showing an agent CLI prompt; 'Trusted by 2M+ designers' line and avatar row."
+  },
+  {
+   "order": 3,
+   "section": "Problem statement",
+   "what_it_does": "Centred 4-line statement, then a chat mock where an agent pulls paywall patterns into cards (Revolut, Duolingo, Uber One)."
+  },
+  {
+   "order": 4,
+   "section": "621,500+ shipped screens",
+   "what_it_does": "Heading + category list (Finance, Health, E-commerce) left; phone screen mocks right, changing per category."
+  },
+  {
+   "order": 5,
+   "section": "Ask anything",
+   "what_it_does": "Centred heading over a 3x2 grid of copyable example prompts."
+  },
+  {
+   "order": 6,
+   "section": "Testimonial",
+   "what_it_does": "Large centred quote with small avatar and name."
+  },
+  {
+   "order": 7,
+   "section": "When to reach for Mobbin MCP",
+   "what_it_does": "Three use-case cards (Building from scratch, Stuck on a micro-decision, UI feels dated) with node-graph/screen diagrams."
+  },
+  {
+   "order": 8,
+   "section": "Set up in under a minute",
+   "what_it_does": "Upgrade step + grid of tool tiles (Claude Code, Claude, Cursor, Codex, ChatGPT...)."
+  },
+  {
+   "order": 9,
+   "section": "FAQ",
+   "what_it_does": "Centred heading and seven accordion rows."
+  },
+  {
+   "order": 10,
+   "section": "Final CTA",
+   "what_it_does": "Centred heading/subline/two CTAs surrounded by scattered brand app icons."
+  },
+  {
+   "order": 11,
+   "section": "Footer",
+   "what_it_does": "Black band with wordmark, tagline and two link columns."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "No visible change across t=0-8s; the video panel stays an empty dark frame.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "demo video panel",
+   "trigger": "scroll",
+   "observed": "Panel content starts once scrolled into view: placeholder 'Describe a task or ask a question', then a prompt typed character by character ('i'm designing a neobank KYC sc...').",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "nav",
+   "trigger": "scroll",
+   "observed": "Pill nav gains a dark 'Connect MCP' button once past the hero; on mobile the pill gets a blurred/frosted fill over content.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "621,500+ screens",
+   "trigger": "scroll-linked",
+   "observed": "Heading stays pinned while the active category (Finance -> Health -> E-commerce) highlights with its description and the right-hand phone mocks swap.",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No visible difference in the hero (video panel equally empty); running_animations 1 normal vs 6 reduced (higher under reduce).",
+ "mobile": "At 393px the nav pill keeps only the logo + hamburger and floats with a blurred fill. The headline wraps to 4 lines, and the CTAs stay side by side. The problem chat mock crops its cards horizontally, and the sticky category section unrolls into one stacked card per category. The prompt grid and FAQ go single-column, the use-case cards stack with diagrams, the tool grid is 3-up, the icon-ringed CTA is kept, and the footer is black with 2 link columns.",
+ "adaptable_ideas": [
+  "Tag pill + centred headline + two pills + plan note: a compact, centred hero column around 700px wide.",
+  "Pinned category list that drives a swapping visual; on mobile, unroll it into plain stacked cards.",
+  "Show example prompts as copyable cards so the page demonstrates the product's input, not just its output.",
+  "Surround the closing CTA with scattered recognisable icons to imply coverage without a logo wall."
+ ],
+ "capture_issues": [
+  "Hero video panel blank during intro and reduced-motion captures; content only plays after scroll.",
+  "desktop-full.jpg shows the sticky section in one state with a leftover phone mock under it."
+ ],
+ "not_verified": [
+  "FAQ expansion",
+  "Copy buttons on prompt cards",
+  "Tool tile hover/links",
+  "Mobile menu",
+  "Full video content"
+ ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "wearedirect",
+  "url": "https://wearedirect.co/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 10049,
+    "running_animations": 0,
+    "globals": [
+      "gsap",
+      "ScrollTrigger",
+      "Lenis",
+      "lenis",
+      "Webflow"
+    ],
+    "videos": 11,
+    "canvases": 0,
+    "sticky_or_fixed": 6
+  },
+  "scroll_frames": 14,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 1356,
+      "h": 41,
+      "text": "Home Projects Services Agency The Zone Contact Us"
+    },
+    {
+      "tag": "section",
+      "y": 0,
+      "h": 900,
+      "text": "/ BRAND & DESIGN AGENCY We build brands that lead "
+    },
+    {
+      "tag": "h1",
+      "y": 100,
+      "h": 162,
+      "text": "We build brands that lead"
+    },
+    {
+      "tag": "section",
+      "y": 900,
+      "h": 900,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 1800,
+      "h": 316,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 2116,
+      "h": 1563,
+      "text": "Featured Projects 03 / SELECTED WORK View More Boo"
+    },
+    {
+      "tag": "section",
+      "y": 3679,
+      "h": 876,
+      "text": "Direct Design is the digital-first creative agency"
+    },
+    {
+      "tag": "section",
+      "y": 4554,
+      "h": 814,
+      "text": "04 / WE SPECIALISE IN Strategy Research, positioni"
+    },
+    {
+      "tag": "h2",
+      "y": 4576,
+      "h": 46,
+      "text": "Strategy"
+    },
+    {
+      "tag": "h2",
+      "y": 4741,
+      "h": 46,
+      "text": "Design"
+    },
+    {
+      "tag": "h2",
+      "y": 4834,
+      "h": 46,
+      "text": "Development"
+    },
+    {
+      "tag": "h2",
+      "y": 4927,
+      "h": 46,
+      "text": "Marketing"
+    },
+    {
+      "tag": "section",
+      "y": 5369,
+      "h": 720,
+      "text": "05 / OUR IMPACT We partner with startups and scale"
+    },
+    {
+      "tag": "section",
+      "y": 6088,
+      "h": 1362,
+      "text": "06 / AI-SECOND POLICY Our principles in the age of"
+    },
+    {
+      "tag": "h2",
+      "y": 6110,
+      "h": 115,
+      "text": "Our principles in the age of AI"
+    },
+    {
+      "tag": "section",
+      "y": 7450,
+      "h": 798,
+      "text": "07 / CLIENT STORIES What our clients say “Direct D"
+    },
+    {
+      "tag": "h2",
+      "y": 7472,
+      "h": 115,
+      "text": "What our clients say"
+    },
+    {
+      "tag": "section",
+      "y": 7349,
+      "h": 900,
+      "text": "/ CONTACT US Let's go the Direct way Looking for a"
+    },
+    {
+      "tag": "footer",
+      "y": 9149,
+      "h": 900,
+      "text": "/ COPY MAIL Prefer mail? hello@wearedirect.co / NA"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 1909,
+      "h": 40,
+      "text": "Home Projects Services Agency The Zone Contact Us"
+    },
+    {
+      "tag": "section",
+      "y": 0,
+      "h": 1245,
+      "text": "/ BRAND & DESIGN AGENCY We build brands that lead "
+    },
+    {
+      "tag": "h1",
+      "y": 124,
+      "h": 162,
+      "text": "We build brands that lead"
+    },
+    {
+      "tag": "section",
+      "y": 1245,
+      "h": 270,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 1515,
+      "h": 1410,
+      "text": "Featured Projects View More BoomID BRANDING WEBSIT"
+    },
+    {
+      "tag": "section",
+      "y": 2925,
+      "h": 1117,
+      "text": "Direct Design is the digital-first creative agency"
+    },
+    {
+      "tag": "section",
+      "y": 4042,
+      "h": 1074,
+      "text": "04 / WE SPECIALISE IN Strategy Research, positioni"
+    },
+    {
+      "tag": "h2",
+      "y": 4128,
+      "h": 34,
+      "text": "Strategy"
+    },
+    {
+      "tag": "h2",
+      "y": 4625,
+      "h": 34,
+      "text": "Design"
+    },
+    {
+      "tag": "h2",
+      "y": 4694,
+      "h": 34,
+      "text": "Development"
+    },
+    {
+      "tag": "h2",
+      "y": 4763,
+      "h": 34,
+      "text": "Marketing"
+    },
+    {
+      "tag": "section",
+      "y": 5116,
+      "h": 812,
+      "text": "05 / OUR IMPACT We partner with startups and scale"
+    },
+    {
+      "tag": "section",
+      "y": 5928,
+      "h": 804,
+      "text": "06 / AI-SECOND POLICY Our principles in the age of"
+    },
+    {
+      "tag": "h2",
+      "y": 5990,
+      "h": 86,
+      "text": "Our principles in the age of AI"
+    },
+    {
+      "tag": "section",
+      "y": 6732,
+      "h": 1252,
+      "text": "07 / CLIENT STORIES What our clients say “Direct D"
+    },
+    {
+      "tag": "h2",
+      "y": 6794,
+      "h": 86,
+      "text": "What our clients say"
+    },
+    {
+      "tag": "section",
+      "y": 7325,
+      "h": 659,
+      "text": "/ CONTACT US Let's go the Direct way Looking for a"
+    },
+    {
+      "tag": "footer",
+      "y": 8643,
+      "h": 1036,
+      "text": "/ COPY MAIL Prefer mail? hello@wearedirect.co / NA"
+    }
+  ]
+}

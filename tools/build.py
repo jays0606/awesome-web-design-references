@@ -2,6 +2,21 @@ from pathlib import Path
 import json, html
 r = Path(__file__).resolve().parents[1]
 d = json.loads((r / "REFERENCES.json").read_text())
+raw = "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/"
+# Link the newest reviewed evidence bundle (tools/capture + analysis.json) per reference.
+for e in d["references"]:
+    bundles = sorted((r / "evidence").glob(f"*/{e['id']}/analysis.json"))
+    if not bundles:
+        continue
+    b = bundles[-1].parent
+    rel = b.relative_to(r).as_posix()
+    e["evidence"] = {"captured_at": b.parent.name, "path": rel, "url": raw + rel + "/",
+                     "files": sorted(f.name for f in b.iterdir() if not f.name.startswith("."))}
+    e["analysis_coverage"].update(full_page="captured-and-reviewed", mobile="captured-and-reviewed",
+                                  motion="load-and-scroll-captured", interactions="not-audited")
+    e["limitations"] = (f"Evidence bundle {b.parent.name}: desktop and mobile full pages, load and scroll motion. "
+                        "Hover, menus, keyboard, click paths, performance and conversion outcomes not audited.")
+(r / "REFERENCES.json").write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n")
 (r / "skills/reference-led-design/references/catalog.json").write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n")
 esc = html.escape
 cards = []

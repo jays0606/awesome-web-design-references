@@ -1,0 +1,378 @@
+{
+  "id": "fora-travel",
+  "url": "https://www.foratravel.com/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 7814,
+    "running_animations": 2,
+    "globals": [
+      "__NEXT_DATA__"
+    ],
+    "videos": 1,
+    "canvases": 0,
+    "sticky_or_fixed": 5
+  },
+  "scroll_frames": 11,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 6930,
+      "h": 65,
+      "text": "FIND AN ADVISOR EXPLORE ABOUT BECOME AN ADVISOR"
+    },
+    {
+      "tag": "nav",
+      "y": 6944,
+      "h": 37,
+      "text": "FIND AN ADVISOR EXPLORE ABOUT"
+    },
+    {
+      "tag": "section",
+      "y": 0,
+      "h": 1195,
+      "text": "The modern way to plan, book, and experience trave"
+    },
+    {
+      "tag": "h1",
+      "y": 160,
+      "h": 96,
+      "text": "The modern way to plan, book, and experience travel"
+    },
+    {
+      "tag": "section",
+      "y": 1195,
+      "h": 192,
+      "text": "From TIME. © 2026 TIME USA LLC. All rights reserve"
+    },
+    {
+      "tag": "section",
+      "y": 1387,
+      "h": 701,
+      "text": "A better equation in travel Advisors build real bu"
+    },
+    {
+      "tag": "h2",
+      "y": 1680,
+      "h": 36,
+      "text": "A better equation in travel"
+    },
+    {
+      "tag": "section",
+      "y": 2088,
+      "h": 714,
+      "text": "Technology that makes your business bigger Booking"
+    },
+    {
+      "tag": "h2",
+      "y": 2169,
+      "h": 72,
+      "text": "Technology that makes your business bigger"
+    },
+    {
+      "tag": "section",
+      "y": 2802,
+      "h": 480,
+      "text": "“Fora gave me the tools I didn’t even know I was m"
+    },
+    {
+      "tag": "section",
+      "y": 3282,
+      "h": 712,
+      "text": "From first booking to full-scale business START La"
+    },
+    {
+      "tag": "h2",
+      "y": 3394,
+      "h": 72,
+      "text": "From first booking to full-scale business"
+    },
+    {
+      "tag": "h3",
+      "y": 3748,
+      "h": 16,
+      "text": "START"
+    },
+    {
+      "tag": "h3",
+      "y": 3659,
+      "h": 16,
+      "text": "SCALE"
+    },
+    {
+      "tag": "h3",
+      "y": 3510,
+      "h": 16,
+      "text": "OPERATE"
+    },
+    {
+      "tag": "section",
+      "y": 3994,
+      "h": 818,
+      "text": "Partnerships that open doors Access our preferred "
+    },
+    {
+      "tag": "h2",
+      "y": 4139,
+      "h": 72,
+      "text": "Partnerships that open doors"
+    },
+    {
+      "tag": "section",
+      "y": 4812,
+      "h": 696,
+      "text": "Better travel starts with a Fora Advisor Fora Advi"
+    },
+    {
+      "tag": "h2",
+      "y": 4916,
+      "h": 36,
+      "text": "Better travel starts with a Fora Advisor"
+    },
+    {
+      "tag": "h3",
+      "y": 5192,
+      "h": 24,
+      "text": "Plan better"
+    },
+    {
+      "tag": "h3",
+      "y": 5192,
+      "h": 24,
+      "text": "Book better"
+    },
+    {
+      "tag": "h3",
+      "y": 5192,
+      "h": 24,
+      "text": "Experience better"
+    },
+    {
+      "tag": "section",
+      "y": 5508,
+      "h": 640,
+      "text": "About Fora Fora is the modern travel agency, power"
+    },
+    {
+      "tag": "h2",
+      "y": 5904,
+      "h": 36,
+      "text": "About Fora"
+    },
+    {
+      "tag": "section",
+      "y": 6148,
+      "h": 640,
+      "text": ""
+    },
+    {
+      "tag": "footer",
+      "y": 6788,
+      "h": 1026,
+      "text": "Inspiration for future trips POPULAR CATEGORIES AF"
+    },
+    {
+      "tag": "nav",
+      "y": 6788,
+      "h": 340,
+      "text": "Inspiration for future trips POPULAR CATEGORIES AF"
+    },
+    {
+      "tag": "h2",
+      "y": 6836,
+      "h": 72,
+      "text": "Inspiration for future trips"
+    },
+    {
+      "tag": "section",
+      "y": 6976,
+      "h": 104,
+      "text": "Italy Caribbean All-Inclusive Europe Japan Cruises"
+    },
+    {
+      "tag": "nav",
+      "y": 7694,
+      "h": 24,
+      "text": "PRIVACY POLICY • TERMS OF USE • LEGAL • SITE OVERV"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 9201,
+      "h": 56,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 56,
+      "h": 665,
+      "text": "The modern way to plan, book, and experience trave"
+    },
+    {
+      "tag": "h1",
+      "y": 112,
+      "h": 120,
+      "text": "The modern way to plan, book, and experience travel"
+    },
+    {
+      "tag": "section",
+      "y": 721,
+      "h": 284,
+      "text": "From TIME. © 2026 TIME USA LLC. All rights reserve"
+    },
+    {
+      "tag": "section",
+      "y": 1005,
+      "h": 932,
+      "text": "A better equation in travel Advisors build real bu"
+    },
+    {
+      "tag": "h2",
+      "y": 1053,
+      "h": 36,
+      "text": "A better equation in travel"
+    },
+    {
+      "tag": "section",
+      "y": 1937,
+      "h": 1126,
+      "text": "Technology that makes your business bigger Booking"
+    },
+    {
+      "tag": "h2",
+      "y": 1985,
+      "h": 72,
+      "text": "Technology that makes your business bigger"
+    },
+    {
+      "tag": "section",
+      "y": 3063,
+      "h": 448,
+      "text": "“Fora gave me the tools I didn’t even know I was m"
+    },
+    {
+      "tag": "section",
+      "y": 3511,
+      "h": 870,
+      "text": "From first booking to full-scale business START La"
+    },
+    {
+      "tag": "h2",
+      "y": 3559,
+      "h": 64,
+      "text": "From first booking to full-scale business"
+    },
+    {
+      "tag": "h3",
+      "y": 3672,
+      "h": 20,
+      "text": "START"
+    },
+    {
+      "tag": "h3",
+      "y": 3898,
+      "h": 20,
+      "text": "SCALE"
+    },
+    {
+      "tag": "h3",
+      "y": 4124,
+      "h": 20,
+      "text": "OPERATE"
+    },
+    {
+      "tag": "section",
+      "y": 4381,
+      "h": 1098,
+      "text": "Partnerships that open doors Access our preferred "
+    },
+    {
+      "tag": "h2",
+      "y": 4429,
+      "h": 32,
+      "text": "Partnerships that open doors"
+    },
+    {
+      "tag": "section",
+      "y": 5479,
+      "h": 894,
+      "text": "Better travel starts with a Fora Advisor Fora Advi"
+    },
+    {
+      "tag": "h2",
+      "y": 5527,
+      "h": 64,
+      "text": "Better travel starts with a Fora Advisor"
+    },
+    {
+      "tag": "h3",
+      "y": 5720,
+      "h": 24,
+      "text": "Plan better"
+    },
+    {
+      "tag": "h3",
+      "y": 5922,
+      "h": 24,
+      "text": "Book better"
+    },
+    {
+      "tag": "h3",
+      "y": 6100,
+      "h": 24,
+      "text": "Experience better"
+    },
+    {
+      "tag": "section",
+      "y": 6373,
+      "h": 640,
+      "text": "About Fora Fora is the modern travel agency, power"
+    },
+    {
+      "tag": "h2",
+      "y": 6733,
+      "h": 32,
+      "text": "About Fora"
+    },
+    {
+      "tag": "section",
+      "y": 7013,
+      "h": 400,
+      "text": ""
+    },
+    {
+      "tag": "footer",
+      "y": 7413,
+      "h": 2503,
+      "text": "Inspiration for future trips POPULAR CATEGORIES AF"
+    },
+    {
+      "tag": "nav",
+      "y": 7413,
+      "h": 868,
+      "text": "Inspiration for future trips POPULAR CATEGORIES AF"
+    },
+    {
+      "tag": "h2",
+      "y": 7445,
+      "h": 64,
+      "text": "Inspiration for future trips"
+    },
+    {
+      "tag": "section",
+      "y": 7577,
+      "h": 672,
+      "text": "Italy Caribbean All-Inclusive Europe Japan Cruises"
+    },
+    {
+      "tag": "nav",
+      "y": 9795,
+      "h": 41,
+      "text": "PRIVACY POLICY • TERMS OF USE • LEGAL • SITE OVERV"
+    }
+  ]
+}

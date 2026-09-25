@@ -1,0 +1,113 @@
+{
+ "id": "darkroom",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Hero / definition",
+   "what_it_does": "Full-width red pixel-condensed H1 'WHERE THINGS GET DEVELOPED' on black; below, a 4-column mono row: '[darkroom], noun' dictionary definition, manifesto paragraph, red MANIFESTO button; first work image peeks in at the fold."
+  },
+  {
+   "order": 2,
+   "section": "Work reel (3 cases)",
+   "what_it_does": "~2700px section: Oreo & BTS neon-city render, Looped (purple room with big yellow countdown numerals), Ibicash dark landscape; each case titled in the same red display face over full-bleed media."
+  },
+  {
+   "order": 3,
+   "section": "Work caption",
+   "what_it_does": "Short mono paragraph ('a small sample, just three builds') + ALL WORK button."
+  },
+  {
+   "order": 4,
+   "section": "What clients say",
+   "what_it_does": "Red display heading over three anonymised mono quotes in columns."
+  },
+  {
+   "order": 5,
+   "section": "Tools / open source",
+   "what_it_does": "'TOOLS WE BUILD AND USE. NOW YOURS TOO.' then a featured OSS card: red pixel-box graphic left, 'SATUS LENIS HAMO TEMPUS' list + description right."
+  },
+  {
+   "order": 6,
+   "section": "Positioning statement",
+   "what_it_does": "Two-line red display statement + short paragraph and GET IN TOUCH button."
+  },
+  {
+   "order": 7,
+   "section": "Studio capabilities",
+   "what_it_does": "Four mono columns: Services, Clients, Technologies, Awards."
+  },
+  {
+   "order": 8,
+   "section": "Activity log",
+   "what_it_does": "Heading then a long dated changelog table (date | category | entry) in tiny mono rows."
+  },
+  {
+   "order": 9,
+   "section": "Footer",
+   "what_it_does": "LET'S TALK button, world-clock times, nav/OSS/social/inspiration link columns, then a huge 'DARKROOM' wordmark with scanline texture; persistent bottom bar 'BECOME AN OPEN SOURCE SPONSOR'."
+  },
+  {
+   "order": 10,
+   "section": "Page-end easter egg",
+   "what_it_does": "Scrolling past the footer on mobile reveals a full-screen red panel reading 'YOU'VE FOUND THE DARKROOM BACKROOMS.' in the display face."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "No visible change across t=0-8s; only a thin red bar at the right edge (likely a scroll-progress indicator, inferred).",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Oreo & BTS case",
+   "trigger": "scroll-linked",
+   "observed": "The media strip at the fold grows to fill the viewport in the next frames, with the title pinned top-left over it.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Looped case",
+   "trigger": "autoplay",
+   "observed": "Big yellow numeral changes 2 -> 1 (desktop) and shows 2 on mobile while the frame holds: a countdown video or pinned panel.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "Work reel",
+   "trigger": "scroll-linked",
+   "observed": "desktop-full shows a ~1800px black gap after the first case, consistent with pinned case panels that render only while in view (inferred).",
+   "evidence": "desktop-full.jpg"
+  },
+  {
+   "where": "Footer wordmark",
+   "trigger": "unknown",
+   "observed": "'DARKROOM' letters show horizontal-line/glitch texture that differs slightly between the last frames.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Page end (mobile)",
+   "trigger": "scroll",
+   "observed": "Last mobile frame replaces the footer with a full red 'backrooms' panel.",
+   "evidence": "mobile-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No visible difference; running_animations 0 normal and 0 reduced (motion is JS/Lenis/video driven, not CSS animations).",
+ "mobile": "At 393px the header becomes a square icon + centred wordmark + boxed hamburger. The H1 wraps to 2 lines at full width, the definition/manifesto stack with a full-width MANIFESTO button, and the order matches desktop. Case media go full-bleed, quotes stack, capabilities go 2-up, the activity log truncates rows with an ellipsis, the footer link columns go 2-up above the wordmark, and the red backrooms panel ends the page.",
+ "adaptable_ideas": [
+  "One display face at one colour across all headings, everything else in small uppercase mono: two type sizes carry the whole hierarchy.",
+  "Hero H1 set edge to edge with justified word gaps, plus a 4-column mono row beneath (label, definition, pitch, CTA) as the only supporting grid.",
+  "Let the first case study's media peek in above the fold, then expand it to full-bleed on scroll as the transition out of the hero.",
+  "A dated activity log as a proof section: dense table rows show shipping cadence better than logos."
+ ],
+ "capture_issues": [
+  "desktop-full.jpg: ~1800px black gap inside the work section; footer renders solid black (fixed/revealed layers).",
+  "mobile-full.jpg: the fixed red 'backrooms' panel is painted over the hero at the top, and the footer area renders black; use mobile-scroll.jpg for the hero and footer.",
+  "Header outline y=7687 is the fixed bar's position after the scroll pass, not its document position."
+ ],
+ "not_verified": [
+  "Hover states on red buttons and nav",
+  "MANIFESTO/menu overlays and the mobile menu",
+  "Whether work panels are sticky or scroll-driven (inferred from frames)",
+  "What triggers the backrooms panel on desktop (only seen on mobile)"
+ ]
+}

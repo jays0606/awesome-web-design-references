@@ -1,0 +1,168 @@
+{
+  "id": "rive",
+  "url": "https://rive.app/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 5330,
+    "running_animations": 0,
+    "globals": [
+      "__framer_importFromPackage"
+    ],
+    "videos": 10,
+    "canvases": 2,
+    "sticky_or_fixed": 2
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 4430,
+      "h": 64,
+      "text": "PRODUCTS COMMUNITY LEARN PRICING DOWNLOADS DOCS GE"
+    },
+    {
+      "tag": "h1",
+      "y": 272,
+      "h": 96,
+      "text": "THE INTERACTIVE EXPERIENCE ENGINE"
+    },
+    {
+      "tag": "h3",
+      "y": 505,
+      "h": 14,
+      "text": "RIVE CLI"
+    },
+    {
+      "tag": "nav",
+      "y": 529,
+      "h": 23,
+      "text": "macOS / Linux Windows"
+    },
+    {
+      "tag": "h3",
+      "y": 611,
+      "h": 14,
+      "text": "RIVE EDITOR"
+    },
+    {
+      "tag": "h3",
+      "y": 1211,
+      "h": 14,
+      "text": "RIVE EDITOR"
+    },
+    {
+      "tag": "h2",
+      "y": 1238,
+      "h": 34,
+      "text": "DESIGN, CODE, AND ANIMATE"
+    },
+    {
+      "tag": "h3",
+      "y": 2034,
+      "h": 14,
+      "text": "RIVE RUNTIMES"
+    },
+    {
+      "tag": "h2",
+      "y": 2061,
+      "h": 34,
+      "text": "BUILD ONCE, SHIP ANYWHERE"
+    },
+    {
+      "tag": "h2",
+      "y": 2760,
+      "h": 62,
+      "text": "PRODUCTS BUILT WITH RIVE REACH OVER 2 BILLION USERS WORLDWIDE"
+    },
+    {
+      "tag": "h2",
+      "y": 4487,
+      "h": 24,
+      "text": "JOIN OUR NEWSLETTER"
+    },
+    {
+      "tag": "footer",
+      "y": 4572,
+      "h": 758,
+      "text": "PRODUCT Editor Runtimes Renderer Changelog COMMUNI"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "nav",
+      "y": 7187,
+      "h": 64,
+      "text": "GET STARTED"
+    },
+    {
+      "tag": "h1",
+      "y": 367,
+      "h": 53,
+      "text": "THE INTERACTIVE EXPERIENCE ENGINE"
+    },
+    {
+      "tag": "h3",
+      "y": 559,
+      "h": 14,
+      "text": "RIVE CLI"
+    },
+    {
+      "tag": "nav",
+      "y": 583,
+      "h": 23,
+      "text": "macOS / Linux Windows"
+    },
+    {
+      "tag": "h3",
+      "y": 703,
+      "h": 14,
+      "text": "RIVE EDITOR"
+    },
+    {
+      "tag": "h3",
+      "y": 913,
+      "h": 14,
+      "text": "RIVE EDITOR"
+    },
+    {
+      "tag": "h2",
+      "y": 939,
+      "h": 29,
+      "text": "DESIGN, CODE, AND ANIMATE"
+    },
+    {
+      "tag": "h3",
+      "y": 1539,
+      "h": 14,
+      "text": "RIVE RUNTIMES"
+    },
+    {
+      "tag": "h2",
+      "y": 1565,
+      "h": 59,
+      "text": "BUILD ONCE, SHIP ANYWHERE"
+    },
+    {
+      "tag": "h2",
+      "y": 2457,
+      "h": 48,
+      "text": "PRODUCTS BUILT WITH RIVE REACH OVER 2 BILLION USERS WORLDWIDE"
+    },
+    {
+      "tag": "h2",
+      "y": 6342,
+      "h": 24,
+      "text": "JOIN OUR NEWSLETTER"
+    },
+    {
+      "tag": "footer",
+      "y": 6488,
+      "h": 1278,
+      "text": "PRODUCT Editor Runtimes Renderer Changelog COMMUNI"
+    }
+  ]
+}

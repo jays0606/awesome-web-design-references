@@ -11,14 +11,22 @@
 
 | Evidence | Current coverage |
 |---|---|
-| Dated desktop capture and visual observation | 17 public sites |
-| Full-page structure and section-by-section dissection | Not systematically performed |
+| Dated desktop capture and visual observation | 18 public sites |
+| Full-page structure and section-by-section dissection | 17 sites, evidence bundles 2026-09-25 |
+| Mobile layout (iPhone 15 emulation, full page) | 17 sites, 2026-09-25 |
+| Load and scroll motion (intro timeline, scroll strip, recording) | 17 sites, 2026-09-25 |
+| Reduced-motion hero comparison | 17 sites, 2026-09-25 |
 | Click paths, menus, hover and keyboard states | Not systematically performed |
-| Mobile layouts and touch journeys | Not systematically performed |
-| Animation triggers, interruptions and reduced motion | Not systematically performed |
+| Touch journeys on real devices | Not performed |
 | End-to-end skill use on an implementation | Not performed |
 
-Version 0.3.0 routes Ideate / Improve / Review and instructs agents to inspect
-selected live references with available browser tools. These instructions are
-not evidence that the inspections have already occurred. No browser runtime is
-bundled and no global installation was performed.
+Evidence bundles come from `tools/capture/` (headless Chrome, public pages,
+no clicks or cookie acceptance). Each `analysis.json` was written after
+viewing the bundle's images; cookie banners and other capture issues are
+recorded there.
+
+Version 0.4.0 adds a live access checklist: standalone navigation, a
+`document.visibilityState` check, stepped scrolling before full-page capture,
+one retry by another route, and asking the user before falling back to
+catalog evidence. These instructions are not evidence that any live inspection
+occurred in a given session. No browser runtime is bundled with the skill.

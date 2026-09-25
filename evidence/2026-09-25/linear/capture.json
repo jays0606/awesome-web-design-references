@@ -1,0 +1,364 @@
+{
+  "id": "linear",
+  "url": "https://linear.app/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 9960,
+    "running_animations": 82,
+    "globals": [],
+    "videos": 0,
+    "canvases": 0,
+    "sticky_or_fixed": 3
+  },
+  "scroll_frames": 14,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 9060,
+      "h": 73,
+      "text": "Product Resources Customers Pricing Now Contact Lo"
+    },
+    {
+      "tag": "nav",
+      "y": 9060,
+      "h": 72,
+      "text": "Product Resources Customers Pricing Now Contact Lo"
+    },
+    {
+      "tag": "h1",
+      "y": 272,
+      "h": 128,
+      "text": "The product development system for teams and agents The product development system for tea"
+    },
+    {
+      "tag": "nav",
+      "y": 535,
+      "h": 704,
+      "text": "Linear Pulse Inbox My issues Reviews Workspace Ini"
+    },
+    {
+      "tag": "header",
+      "y": 536,
+      "h": 44,
+      "text": "DRV-8852 Faster app launch 1 / 84"
+    },
+    {
+      "tag": "h3",
+      "y": 643,
+      "h": 27,
+      "text": "Faster app launch"
+    },
+    {
+      "tag": "header",
+      "y": 707,
+      "h": 48,
+      "text": "Linear Opus 5"
+    },
+    {
+      "tag": "h2",
+      "y": 1596,
+      "h": 144,
+      "text": "A new species of product tool. Purpose-built for modern teams with AI workflows at its cor"
+    },
+    {
+      "tag": "section",
+      "y": 2546,
+      "h": 1226,
+      "text": "Intake and integrations Automatically turn convers"
+    },
+    {
+      "tag": "h2",
+      "y": 2674,
+      "h": 83,
+      "text": "Intake and integrations"
+    },
+    {
+      "tag": "header",
+      "y": 2898,
+      "h": 61,
+      "text": "Thread #product"
+    },
+    {
+      "tag": "section",
+      "y": 3782,
+      "h": 1229,
+      "text": "Planning and monitoring Plan and navigate from ide"
+    },
+    {
+      "tag": "h2",
+      "y": 3910,
+      "h": 83,
+      "text": "Planning and monitoring"
+    },
+    {
+      "tag": "header",
+      "y": 4130,
+      "h": 56,
+      "text": "Cycle time by agent"
+    },
+    {
+      "tag": "section",
+      "y": 5021,
+      "h": 1232,
+      "text": "AI and automations Build and deploy AI agents that"
+    },
+    {
+      "tag": "h2",
+      "y": 5149,
+      "h": 83,
+      "text": "AI and automations"
+    },
+    {
+      "tag": "header",
+      "y": 5474,
+      "h": 48,
+      "text": "Linear Opus 5"
+    },
+    {
+      "tag": "header",
+      "y": 5474,
+      "h": 48,
+      "text": "Cursor"
+    },
+    {
+      "tag": "header",
+      "y": 5474,
+      "h": 48,
+      "text": "ChatPRD"
+    },
+    {
+      "tag": "section",
+      "y": 6263,
+      "h": 1220,
+      "text": "Build, review, and ship Streamline code reviews wi"
+    },
+    {
+      "tag": "h2",
+      "y": 6391,
+      "h": 83,
+      "text": "Build, review, and ship"
+    },
+    {
+      "tag": "h2",
+      "y": 7644,
+      "h": 48,
+      "text": "Changelog"
+    },
+    {
+      "tag": "section",
+      "y": 8226,
+      "h": 564,
+      "text": "You’ll probably build a better product, just becau"
+    },
+    {
+      "tag": "section",
+      "y": 9014,
+      "h": 228,
+      "text": "Built for the future. Available today. Get started"
+    },
+    {
+      "tag": "h2",
+      "y": 9014,
+      "h": 144,
+      "text": "Built for the future. Available today."
+    },
+    {
+      "tag": "footer",
+      "y": 9466,
+      "h": 494,
+      "text": "Product Intake Plan AI Build Pricing Security Feat"
+    },
+    {
+      "tag": "h3",
+      "y": 9523,
+      "h": 20,
+      "text": "Product"
+    },
+    {
+      "tag": "h3",
+      "y": 9523,
+      "h": 20,
+      "text": "Features"
+    },
+    {
+      "tag": "h3",
+      "y": 9523,
+      "h": 20,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 9523,
+      "h": 20,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 9523,
+      "h": 20,
+      "text": "Connect"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 76
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 5192,
+      "h": 65,
+      "text": "Log in Sign up"
+    },
+    {
+      "tag": "nav",
+      "y": 5192,
+      "h": 64,
+      "text": "Log in Sign up"
+    },
+    {
+      "tag": "h1",
+      "y": 196,
+      "h": 167,
+      "text": "The product development system for teams and agents The product development system for tea"
+    },
+    {
+      "tag": "nav",
+      "y": 525,
+      "h": 352,
+      "text": "Linear Pulse Inbox My issues Reviews Workspace Ini"
+    },
+    {
+      "tag": "header",
+      "y": 526,
+      "h": 22,
+      "text": "DRV-8852 Faster app launch 1 / 84"
+    },
+    {
+      "tag": "h3",
+      "y": 579,
+      "h": 13,
+      "text": "Faster app launch"
+    },
+    {
+      "tag": "header",
+      "y": 611,
+      "h": 24,
+      "text": "Linear Opus 5"
+    },
+    {
+      "tag": "h2",
+      "y": 1076,
+      "h": 160,
+      "text": "A new species of product tool. Purpose-built for modern teams with AI workflows at its cor"
+    },
+    {
+      "tag": "section",
+      "y": 1868,
+      "h": 581,
+      "text": "Intake and integrations Automatically turn convers"
+    },
+    {
+      "tag": "h2",
+      "y": 2220,
+      "h": 49,
+      "text": "Intake and integrations"
+    },
+    {
+      "tag": "header",
+      "y": 1655,
+      "h": 61,
+      "text": "Thread #product"
+    },
+    {
+      "tag": "section",
+      "y": 2459,
+      "h": 578,
+      "text": "Planning and monitoring Plan and navigate from ide"
+    },
+    {
+      "tag": "h2",
+      "y": 2807,
+      "h": 49,
+      "text": "Planning and monitoring"
+    },
+    {
+      "tag": "section",
+      "y": 3046,
+      "h": 574,
+      "text": "AI and automations Build and deploy AI agents that"
+    },
+    {
+      "tag": "h2",
+      "y": 3391,
+      "h": 49,
+      "text": "AI and automations"
+    },
+    {
+      "tag": "section",
+      "y": 3630,
+      "h": 578,
+      "text": "Build, review, and ship Streamline code reviews wi"
+    },
+    {
+      "tag": "h2",
+      "y": 3979,
+      "h": 49,
+      "text": "Build, review, and ship"
+    },
+    {
+      "tag": "section",
+      "y": 4710,
+      "h": 168,
+      "text": "Built for the future. Available today. Get started"
+    },
+    {
+      "tag": "h2",
+      "y": 4710,
+      "h": 84,
+      "text": "Built for the future. Available today."
+    },
+    {
+      "tag": "footer",
+      "y": 4973,
+      "h": 878,
+      "text": "Product Intake Plan AI Build Pricing Security Feat"
+    },
+    {
+      "tag": "h3",
+      "y": 5030,
+      "h": 20,
+      "text": "Product"
+    },
+    {
+      "tag": "h3",
+      "y": 5030,
+      "h": 20,
+      "text": "Features"
+    },
+    {
+      "tag": "h3",
+      "y": 5352,
+      "h": 20,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 5352,
+      "h": 20,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 5643,
+      "h": 20,
+      "text": "Connect"
+    },
+    {
+      "tag": "h3",
+      "y": 5643,
+      "h": 20,
+      "text": "Legal"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": "linear",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Hero",
+   "what_it_does": "Left-aligned two-line headline, grey subline, 'New Loops ->' link at right, then a full-width dark app-UI mock (issue view + agent chat panel) with a soft glow beneath."
+  },
+  {
+   "order": 2,
+   "section": "Logo strip",
+   "what_it_does": "One row of customer wordmarks with a small mono caption."
+  },
+  {
+   "order": 3,
+   "section": "Positioning statement",
+   "what_it_does": "Large two-tone paragraph (white lead sentence, grey continuation) over three wireframe-isometric illustration cards (Purpose-built, Powered by agents, Designed for speed)."
+  },
+  {
+   "order": 4,
+   "section": "Intake and integrations",
+   "what_it_does": "Two-column intro (heading left, text + Learn more right), wide UI mock (Slack thread + kanban), then a 3-col feature link list."
+  },
+  {
+   "order": 5,
+   "section": "Planning and monitoring",
+   "what_it_does": "Same template; timeline and 'Cycle time by agent' scatter chart mock."
+  },
+  {
+   "order": 6,
+   "section": "AI and automations",
+   "what_it_does": "Same template; row of agent chat windows (Cursor, Linear, ChatPRD)."
+  },
+  {
+   "order": 7,
+   "section": "Build, review, and ship",
+   "what_it_does": "Same template; review list + code diff mock."
+  },
+  {
+   "order": 8,
+   "section": "Changelog",
+   "what_it_does": "Heading and four dated entries on a dotted timeline, View all link."
+  },
+  {
+   "order": 9,
+   "section": "Customer quotes",
+   "what_it_does": "Two cards: large lavender-gradient quote card and a narrow neon-yellow card; line about 40,000 teams."
+  },
+  {
+   "order": 10,
+   "section": "Closing CTA",
+   "what_it_does": "Centred 'Built for the future. Available today.' with two pill buttons."
+  },
+  {
+   "order": 11,
+   "section": "Footer",
+   "what_it_does": "Logo plus five link columns, legal row."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "t=0: subline dim and the UI mock an empty dark frame; 0.7s: mock fading in at low opacity; 1.8s: mock fully in and the 'New Loops ->' link appears.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "hero agent panel",
+   "trigger": "autoplay",
+   "observed": "At 3.5s the agent chat panel shows 'Thinking...'; at 8s it reads 'Worked for 10 sec' - a scripted, timed demo.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "feature mocks",
+   "trigger": "scroll",
+   "observed": "UI mocks and feature lists appear dim/low-opacity in several scroll frames and in the full page, then brighter when centred: in-view reveals (inferred).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Planning chart",
+   "trigger": "autoplay",
+   "observed": "Cyan dot clusters in the cycle-time chart differ between frames.",
+   "evidence": "desktop-scroll.mp4"
+  }
+ ],
+ "reduced_motion": "Reduced-motion hero renders the settled state immediately (full mock, agent panel visible); running_animations 82 normal vs 76 reduced.",
+ "mobile": "At 393px a sticky header keeps Log in / Sign up + hamburger. The headline wraps to 4 lines, and the hero mock bleeds off the right edge. Logos, the three illustration cards and the two quote cards become horizontally overflowing rows. Each feature section puts its heading + copy + Learn more above a cropped mock and drops the 3-col link lists. The footer goes 2-column (Product/Features, Company/Resources, Connect/Legal).",
+ "adaptable_ideas": [
+  "One repeatable section template (heading left / copy + link right / wide product mock / 3-col link list) keeps a long page coherent.",
+  "Two-tone paragraph headings: bright lead sentence, dimmed continuation, as a hierarchy tool without size change.",
+  "Stage the hero reveal: text de-blurs first, product mock fades in second, a live-looking demo detail last.",
+  "Keep the page near-monochrome and spend colour on one late section (quote cards) so it lands."
+ ],
+ "capture_issues": [
+  "Some scroll-revealed mocks stay dim in desktop-full.jpg.",
+  "Sticky mobile header is painted mid-footer in mobile-full.jpg."
+ ],
+ "not_verified": [
+  "Nav dropdowns (Product, Resources)",
+  "Hover states on feature links",
+  "Horizontal scroll interaction on mobile rows",
+  "Whether the hero demo loops"
+ ]
+}

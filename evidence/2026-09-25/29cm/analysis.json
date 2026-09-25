@@ -1,0 +1,77 @@
+{
+ "id": "29cm",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Utility bar + editorial nav",
+   "what_it_does": "Small 29CM wordmark and icon links, then an oversized bold row of editorial destinations (Special-Order, Showcase, PT, 29Magazine) above a dense uppercase category row; Event/Lookbook set in italics."
+  },
+  {
+   "order": 2,
+   "section": "Triptych promo hero",
+   "what_it_does": "Three edge-to-edge panels of flat product photography, each carrying its own campaign lockup (29 Exclusive, Footwear Club, 월간이구홈) and a one-line Korean caption with dates."
+  },
+  {
+   "order": 3,
+   "section": "Brand column + story-card feed",
+   "what_it_does": "A long two-track feed: the left third is a vertical stack of viewport-tall brand images with white name overlays (ARTTO, PIEV, SIERRA DESIGNS, HARUTA… about 16 brands); the right two-thirds is a 2-column grid of story cards, each a photo, a Korean headline, a one-line dek and three compact product rows showing discount %, price and a heart count."
+  },
+  {
+   "order": 4,
+   "section": "Load more",
+   "what_it_does": "A centered 더보기 button ends the feed."
+  },
+  {
+   "order": 5,
+   "section": "Footer",
+   "what_it_does": "Customer-center phone and hours plus social icons, a NOTICE list, and ABOUT US / MY ORDER / MY ACCOUNT / HELP link columns over a small legal block."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "At first paint only the left panel has an image and the rest is white; the other two panels fill in within about a second.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "notice modal",
+   "trigger": "load",
+   "observed": "About 1s after load a dimming overlay and a centered data-breach notice modal appear, and they are still present at 8s. In the recording the modal fades out after the capture tool sent Escape.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "nav",
+   "trigger": "scroll",
+   "observed": "On scroll the two-tier header compacts into one short sticky bar: the wordmark and editorial row sit on one line with the category row directly beneath.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "brand column + feed",
+   "trigger": "scroll",
+   "observed": "The left brand image and the right cards change together as the page moves; each viewport shows one brand image beside two card columns. No scrubbed or pinned effect is visible.",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No visible difference: the same modal over the dimmed triptych. capture.json reports running_animations 0 in both normal and reduced-motion runs.",
+ "mobile": "The header shrinks to the 29CM wordmark plus bag and search icons, and a fixed 5-tab bottom bar (홈/카테고리/검색/좋아요/마이페이지) replaces the category rows. The hero becomes a single rounded card carousel with a 01/97 counter, and the next card peeks in at the right edge. The brand column disappears: the feed becomes one column of story cards (full-width photo, headline, dek, then three product rows) down to 더보기 and a black business-info footer.",
+ "adaptable_ideas": [
+  "Two-tier nav: an oversized bold row of 3-4 editorial destinations above a small dense category row, so content verticals outrank the product taxonomy.",
+  "Split a hero into equal campaign panels, each with its own typographic lockup, instead of one slide, so several promotions show at once without a carousel.",
+  "Story-card pattern for commerce: one photo, a headline, a one-line dek, then exactly three compact product rows (thumbnail, brand, name, discount %, price, like count).",
+  "On mobile, drop the secondary brand column entirely and keep one story-card column, a peeking-next-card hero with a numeric counter, and a fixed 5-tab bottom bar in place of the desktop category rows."
+ ],
+ "capture_issues": [
+  "The data-breach notice modal still covers desktop-intro, desktop-reduced-motion and mobile-hero. It was dismissed with Escape only for the scroll passes (capture.json notes this, duplicated).",
+  "In desktop-full the right-hand card columns are blank for most of the page (lazy content only rendered near the bottom), and the sticky compact header is painted just above the footer.",
+  "mobile-full and mobile-scroll are modal-free and reach the footer; only mobile-hero is obscured."
+ ],
+ "not_verified": [
+  "Hero carousel autoplay or swipe (desktop and mobile)",
+  "Hover states on nav, cards and hearts",
+  "Mega-menu or category dropdowns",
+  "What 더보기 loads",
+  "Whether the left brand images link to brand pages"
+ ]
+}

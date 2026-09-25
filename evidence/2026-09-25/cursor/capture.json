@@ -1,0 +1,556 @@
+{
+  "id": "cursor",
+  "url": "https://cursor.com/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 8175,
+    "running_animations": 37,
+    "globals": [],
+    "videos": 1,
+    "canvases": 0,
+    "sticky_or_fixed": 8
+  },
+  "scroll_frames": 12,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 7275,
+      "h": 52,
+      "text": "Skip to content Cursor Models ↓ Product ↓ Enterpri"
+    },
+    {
+      "tag": "nav",
+      "y": 7284,
+      "h": 34,
+      "text": "Models ↓ Product ↓ Enterprise Pricing Resources ↓"
+    },
+    {
+      "tag": "section",
+      "y": 52,
+      "h": 1086,
+      "text": "Cursor is your coding agent for building ambitious"
+    },
+    {
+      "tag": "h1",
+      "y": 164,
+      "h": 65,
+      "text": "Cursor is your coding agent for building ambitious software."
+    },
+    {
+      "tag": "header",
+      "y": 493,
+      "h": 29,
+      "text": "Acme Labs"
+    },
+    {
+      "tag": "section",
+      "y": 1138,
+      "h": 177,
+      "text": "Trusted every day by teams that build world-class "
+    },
+    {
+      "tag": "h2",
+      "y": 1138,
+      "h": 21,
+      "text": "Trusted every day by teams that build world-class software"
+    },
+    {
+      "tag": "section",
+      "y": 1315,
+      "h": 3203,
+      "text": "Agents turn ideas into code Accelerate development"
+    },
+    {
+      "tag": "section",
+      "y": 1382,
+      "h": 715,
+      "text": "Agents turn ideas into code Accelerate development"
+    },
+    {
+      "tag": "h3",
+      "y": 1663,
+      "h": 29,
+      "text": "Agents turn ideas into code"
+    },
+    {
+      "tag": "h2",
+      "y": 1551,
+      "h": 31,
+      "text": "Mission Control Interface"
+    },
+    {
+      "tag": "h2",
+      "y": 1646,
+      "h": 22,
+      "text": "Trigger"
+    },
+    {
+      "tag": "h2",
+      "y": 1724,
+      "h": 22,
+      "text": "View Behavior"
+    },
+    {
+      "tag": "section",
+      "y": 2187,
+      "h": 715,
+      "text": "Works autonomously, runs in parallel Agents use th"
+    },
+    {
+      "tag": "h3",
+      "y": 2464,
+      "h": 29,
+      "text": "Works autonomously, runs in parallel"
+    },
+    {
+      "tag": "section",
+      "y": 2991,
+      "h": 685,
+      "text": "In every tool, at every step Cursor runs in your t"
+    },
+    {
+      "tag": "h3",
+      "y": 3244,
+      "h": 29,
+      "text": "In every tool, at every step"
+    },
+    {
+      "tag": "h2",
+      "y": 3081,
+      "h": 21,
+      "text": "#feature-realtime-sync"
+    },
+    {
+      "tag": "section",
+      "y": 3766,
+      "h": 685,
+      "text": "Hand work to AI teammates Bots can sign in to your"
+    },
+    {
+      "tag": "h3",
+      "y": 4028,
+      "h": 29,
+      "text": "Hand work to AI teammates"
+    },
+    {
+      "tag": "header",
+      "y": 3886,
+      "h": 44,
+      "text": "Sales Outbound "
+    },
+    {
+      "tag": "section",
+      "y": 4518,
+      "h": 700,
+      "text": "The new way to build software. “It was night and d"
+    },
+    {
+      "tag": "h2",
+      "y": 4585,
+      "h": 43,
+      "text": "The new way to build software."
+    },
+    {
+      "tag": "section",
+      "y": 5218,
+      "h": 739,
+      "text": "Stay on the frontier Use the best model for every "
+    },
+    {
+      "tag": "h2",
+      "y": 5285,
+      "h": 29,
+      "text": "Stay on the frontier"
+    },
+    {
+      "tag": "h3",
+      "y": 5352,
+      "h": 24,
+      "text": "Use the best model for every task"
+    },
+    {
+      "tag": "h3",
+      "y": 5352,
+      "h": 24,
+      "text": "Build with autonomous agents"
+    },
+    {
+      "tag": "h2",
+      "y": 5595,
+      "h": 21,
+      "text": "All Repos"
+    },
+    {
+      "tag": "h3",
+      "y": 5352,
+      "h": 24,
+      "text": "Develop enduring software"
+    },
+    {
+      "tag": "section",
+      "y": 5957,
+      "h": 310,
+      "text": "Changelog Sep 23, 2026 Rollouts and Security Revie"
+    },
+    {
+      "tag": "h2",
+      "y": 6024,
+      "h": 29,
+      "text": "Changelog"
+    },
+    {
+      "tag": "section",
+      "y": 6267,
+      "h": 694,
+      "text": "Cursor is an applied research team focused on buil"
+    },
+    {
+      "tag": "h3",
+      "y": 6552,
+      "h": 86,
+      "text": "Cursor is an applied research team focused on building the future of software development."
+    },
+    {
+      "tag": "section",
+      "y": 6961,
+      "h": 341,
+      "text": "Recent highlights Mar 27, 2026 · Research A techni"
+    },
+    {
+      "tag": "h2",
+      "y": 7028,
+      "h": 29,
+      "text": "Recent highlights"
+    },
+    {
+      "tag": "section",
+      "y": 7303,
+      "h": 346,
+      "text": "Try Cursor now. Download for macOS ⤓"
+    },
+    {
+      "tag": "h2",
+      "y": 7370,
+      "h": 79,
+      "text": "Try Cursor now."
+    },
+    {
+      "tag": "footer",
+      "y": 7649,
+      "h": 526,
+      "text": "Product Agents Teams Enterprise Pricing Code Revie"
+    },
+    {
+      "tag": "nav",
+      "y": 7716,
+      "h": 298,
+      "text": "Product Agents Teams Enterprise Pricing Code Revie"
+    },
+    {
+      "tag": "h3",
+      "y": 7716,
+      "h": 26,
+      "text": "Product"
+    },
+    {
+      "tag": "h3",
+      "y": 7716,
+      "h": 26,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 7716,
+      "h": 26,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 7716,
+      "h": 26,
+      "text": "Legal"
+    },
+    {
+      "tag": "h3",
+      "y": 7716,
+      "h": 26,
+      "text": "Connect"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 36
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 9381,
+      "h": 56,
+      "text": "Skip to content Cursor Models → Product → Enterpri"
+    },
+    {
+      "tag": "nav",
+      "y": 9381,
+      "h": 659,
+      "text": "Models → Product → Enterprise Pricing Resources →"
+    },
+    {
+      "tag": "header",
+      "y": 9381,
+      "h": 56,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 56,
+      "h": 1066,
+      "text": "Cursor is your coding agent for building ambitious"
+    },
+    {
+      "tag": "h1",
+      "y": 161,
+      "h": 61,
+      "text": "Cursor is your coding agent for building ambitious software."
+    },
+    {
+      "tag": "header",
+      "y": 476,
+      "h": 27,
+      "text": "Acme Labs"
+    },
+    {
+      "tag": "section",
+      "y": 1122,
+      "h": 219,
+      "text": "Trusted every day by teams that build world-class "
+    },
+    {
+      "tag": "h2",
+      "y": 1122,
+      "h": 39,
+      "text": "Trusted every day by teams that build world-class software"
+    },
+    {
+      "tag": "section",
+      "y": 1341,
+      "h": 3696,
+      "text": "Agents turn ideas into code Accelerate development"
+    },
+    {
+      "tag": "section",
+      "y": 1404,
+      "h": 834,
+      "text": "Agents turn ideas into code Accelerate development"
+    },
+    {
+      "tag": "h3",
+      "y": 1417,
+      "h": 23,
+      "text": "Agents turn ideas into code"
+    },
+    {
+      "tag": "h2",
+      "y": 1686,
+      "h": 31,
+      "text": "Mission Control Interface"
+    },
+    {
+      "tag": "h2",
+      "y": 1780,
+      "h": 22,
+      "text": "Trigger"
+    },
+    {
+      "tag": "h2",
+      "y": 1857,
+      "h": 22,
+      "text": "View Behavior"
+    },
+    {
+      "tag": "section",
+      "y": 2322,
+      "h": 841,
+      "text": "Works autonomously, runs in parallel Agents use th"
+    },
+    {
+      "tag": "h3",
+      "y": 2335,
+      "h": 23,
+      "text": "Works autonomously, runs in parallel"
+    },
+    {
+      "tag": "section",
+      "y": 3247,
+      "h": 832,
+      "text": "In every tool, at every step Cursor runs in your t"
+    },
+    {
+      "tag": "h3",
+      "y": 3260,
+      "h": 23,
+      "text": "In every tool, at every step"
+    },
+    {
+      "tag": "h2",
+      "y": 3483,
+      "h": 20,
+      "text": "#feature-realtime-sync"
+    },
+    {
+      "tag": "section",
+      "y": 4164,
+      "h": 811,
+      "text": "Hand work to AI teammates Bots can sign in to your"
+    },
+    {
+      "tag": "h3",
+      "y": 4176,
+      "h": 23,
+      "text": "Hand work to AI teammates"
+    },
+    {
+      "tag": "header",
+      "y": 4409,
+      "h": 44,
+      "text": "Sales Outbound "
+    },
+    {
+      "tag": "section",
+      "y": 5038,
+      "h": 886,
+      "text": "The new way to build software. “It was night and d"
+    },
+    {
+      "tag": "h2",
+      "y": 5101,
+      "h": 81,
+      "text": "The new way to build software."
+    },
+    {
+      "tag": "section",
+      "y": 5924,
+      "h": 1635,
+      "text": "Stay on the frontier Use the best model for every "
+    },
+    {
+      "tag": "h2",
+      "y": 5987,
+      "h": 27,
+      "text": "Stay on the frontier"
+    },
+    {
+      "tag": "h3",
+      "y": 6050,
+      "h": 23,
+      "text": "Use the best model for every task"
+    },
+    {
+      "tag": "h3",
+      "y": 6475,
+      "h": 23,
+      "text": "Build with autonomous agents"
+    },
+    {
+      "tag": "h2",
+      "y": 6694,
+      "h": 21,
+      "text": "All Repos"
+    },
+    {
+      "tag": "h3",
+      "y": 7014,
+      "h": 23,
+      "text": "Develop enduring software"
+    },
+    {
+      "tag": "section",
+      "y": 7559,
+      "h": 291,
+      "text": "Changelog Sep 23, 2026 Rollouts and Security Revie"
+    },
+    {
+      "tag": "h2",
+      "y": 7622,
+      "h": 27,
+      "text": "Changelog"
+    },
+    {
+      "tag": "section",
+      "y": 7850,
+      "h": 439,
+      "text": "Cursor is an applied research team focused on buil"
+    },
+    {
+      "tag": "h3",
+      "y": 7926,
+      "h": 45,
+      "text": "Cursor is an applied research team focused on building the future of software development."
+    },
+    {
+      "tag": "section",
+      "y": 8289,
+      "h": 343,
+      "text": "Recent highlights Mar 27, 2026 · Research A techni"
+    },
+    {
+      "tag": "h2",
+      "y": 8352,
+      "h": 27,
+      "text": "Recent highlights"
+    },
+    {
+      "tag": "section",
+      "y": 8632,
+      "h": 310,
+      "text": "Try Cursor now. Get started →"
+    },
+    {
+      "tag": "h2",
+      "y": 8695,
+      "h": 56,
+      "text": "Try Cursor now."
+    },
+    {
+      "tag": "footer",
+      "y": 8942,
+      "h": 1098,
+      "text": "Product Agents Teams Enterprise Pricing Code Revie"
+    },
+    {
+      "tag": "nav",
+      "y": 9005,
+      "h": 758,
+      "text": "Product Agents Teams Enterprise Pricing Code Revie"
+    },
+    {
+      "tag": "h3",
+      "y": 9005,
+      "h": 27,
+      "text": "Product"
+    },
+    {
+      "tag": "h3",
+      "y": 9005,
+      "h": 27,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 9355,
+      "h": 27,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 9355,
+      "h": 27,
+      "text": "Legal"
+    },
+    {
+      "tag": "h3",
+      "y": 9643,
+      "h": 27,
+      "text": "Connect"
+    }
+  ]
+}

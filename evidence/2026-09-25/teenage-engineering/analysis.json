@@ -1,0 +1,72 @@
+{
+  "id": "teenage-engineering",
+  "reviewed_at": "2026-09-25",
+  "section_sequence": [
+    {
+      "order": 1,
+      "section": "icon nav",
+      "what_it_does": "White header row of pictogram + lowercase label + 3-line sub-links per item (products, store, latest, finder), tiny Japanese mission text block and oversized TE logo at right; scrolls away with the page, and a small green cart icon sits at the right edge beside the hero."
+    },
+    {
+      "order": 2,
+      "section": "campaign hero",
+      "what_it_does": "Full-width illustrated campaign poster: heavy condensed display title with calendar badge and small price table beside it, black line-art illustration below with orange accents."
+    },
+    {
+      "order": 3,
+      "section": "full-bleed product photos",
+      "what_it_does": "Run of near full-viewport dark studio shots (APC-2 on its stand, vinyl sleeve captioned 'sirius transmission completed') with only a tiny caption at bottom-left."
+    },
+    {
+      "order": 4,
+      "section": "product feature + shop row (repeated)",
+      "what_it_does": "For each product family (K.O. II, K.O. sidekick, riddim n ting, field system, OB-4): one full-bleed hero photo or lifestyle collage, then a hairline-divided white shop row (3-up, or 2-up for sidekick packs) of packshots with name + blue 'buy now'."
+    },
+    {
+      "order": 5,
+      "section": "pocket operator grid",
+      "what_it_does": "Lineup shot of all pocket operators, then a long 3-column hairline grid of individual PO packshots with name + buy now."
+    },
+    {
+      "order": 6,
+      "section": "explore all products",
+      "what_it_does": "Full-width near-black band with one centered lowercase light-weight link."
+    },
+    {
+      "order": 7,
+      "section": "footer",
+      "what_it_does": "Desktop: one thin dark row with region selector left, links (newsletter, retailers, store, terms, press, contact, returns) centre and copyright right. Mobile: shipping note, newsletter button, chevron link list, logo, Japanese mission text, address."
+    }
+  ],
+  "motion": [
+    {
+      "where": "hero",
+      "trigger": "load",
+      "observed": "No visible change across all intro frames t=0 to 8s; hero is a static illustration.",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "product photo sections",
+      "trigger": "scroll",
+      "observed": "Sections just scroll into view; consecutive frames of one section differ only by scroll offset, with no reveal or parallax visible.",
+      "evidence": "desktop-scroll.mp4"
+    }
+  ],
+  "reduced_motion": "No visible difference from the normal hero (same static illustration, nav, title). capture.json running_animations = 0 in both modes.",
+  "mobile": "Header reduces to a cart-count badge (left) and a 3-dot menu (right); the icon nav disappears, and no header shows in the mobile scroll strip once scrolled. The hero illustration sits on a light grey panel. The page is ~3,000px against 15,233px on desktop: an 'explore products' heading, 4 rounded dark product cards (APC-2, field system, pocket operator, OB-4) and an 'explore all products' card replace the long catalog. The footer becomes stacked link rows with chevrons.",
+  "adaptable_ideas": [
+    "Navigation as a typographic specimen: pictogram + one-word label + three tiny sub-links per item, so the nav previews the site map without dropdowns.",
+    "Alternate one emotional full-bleed photo with one plain 3-up shop row per product family — story then transaction, repeated as a fixed rhythm.",
+    "Hairline-divided white grid cells with small left-aligned name + link above a centered packshot; lets product photography carry the grid with near-zero chrome.",
+    "Serve a curated short list on mobile (4 cards + 'explore all') instead of shrinking the full desktop catalog."
+  ],
+  "capture_issues": [
+    "desktop-full.jpg is cropped at 14,000 of 15,233px and ends inside the pocket operator grid, so the 'explore all products' band and footer appear only in desktop-scroll.jpg.",
+    "The desktop outline finds no headings or sections, so the section order comes from the images only.",
+    "The last recorded frame of desktop-scroll.mp4 switches to a grey panel with a column of thumbnails; the same end-of-recording frame appears in other sites' recordings, so it's likely the capture tool rather than the site."
+  ],
+  "not_verified": [
+    "Hover states on nav pictograms and product cells",
+    "Mobile 3-dot menu contents and the cart"
+  ]
+}

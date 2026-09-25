@@ -1,0 +1,90 @@
+{
+  "id": "rive",
+  "reviewed_at": "2026-09-25",
+  "section_sequence": [
+    {
+      "order": 1,
+      "section": "sticky top nav",
+      "what_it_does": "Thin black bar: R mark, 5 uppercase links left, Docs + dark 'Get started' button right; stays fixed through the scroll."
+    },
+    {
+      "order": 2,
+      "section": "hero",
+      "what_it_does": "Asymmetric split: narrow left column of labeled use-case video cards (Product UI, Game UI, Mobile apps, Film + TV, Websites) beside a wide right column with wordmark, wide display H1, grey lede, a CLI install/editor panel and a one-line trust sentence."
+    },
+    {
+      "order": 3,
+      "section": "Rive Editor feature",
+      "what_it_does": "Lighter charcoal band; small orange eyebrow + H2 + short copy + two ghost buttons on the left, large editor screenshot (fighting-game UI) on the right."
+    },
+    {
+      "order": 4,
+      "section": "Rive Runtimes feature",
+      "what_it_does": "Mirrored split on black: 5x3 grid of platform/framework logos left, eyebrow + H2 + two paragraphs + buttons right."
+    },
+    {
+      "order": 5,
+      "section": "social proof headline + logos",
+      "what_it_does": "Centered two-line H2 claim (2 billion users), two rows of monochrome client logos, then a centered paragraph."
+    },
+    {
+      "order": 6,
+      "section": "testimonial wall",
+      "what_it_does": "3-column grid of ~18 tweet-style quote cards with avatar, name, handle, text."
+    },
+    {
+      "order": 7,
+      "section": "newsletter",
+      "what_it_does": "Left-aligned heading + one line of copy, email field and Sign up button on the right."
+    },
+    {
+      "order": 8,
+      "section": "footer",
+      "what_it_does": "Six link columns (Product, Community, Learn, Company, Use cases, Case studies), then wordmark, copyright and social icons."
+    }
+  ],
+  "motion": [
+    {
+      "where": "hero video column",
+      "trigger": "autoplay",
+      "observed": "Left card column drifts vertically and each card's video changes (clock face, game UI, mobile-app screens) across every intro frame through t=8s; it has not settled by 8s.",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "hero video column",
+      "trigger": "load",
+      "observed": "At t=0 of the recording the card column is blank; cards and videos fill in over the first ~1s.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "hero",
+      "trigger": "unknown",
+      "observed": "Headline, CLI panel and copy are static across all intro frames; no text entrance animation seen.",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "feature/proof sections",
+      "trigger": "scroll",
+      "observed": "Sections appear already composed as they enter; no visible reveal/fade in the sampled frames.",
+      "evidence": "desktop-scroll.mp4"
+    }
+  ],
+  "reduced_motion": "Layout identical; card column still shows moving/changed video frames (different cards visible than in normal hero), so the autoplay video column is not visibly disabled. capture.json running_animations = 0 in both normal and reduced (motion is video/canvas, not CSS/WAAPI).",
+  "mobile": "Header stays pinned as R mark + hamburger + 'Get started' through the whole scroll strip. The vertical card column becomes a horizontal peeking carousel ABOVE the wordmark/H1; hero copy, CLI panel and buttons ('Downloads' replaces 'Download desktop app') stack full-width. Editor section puts copy and buttons above the screenshot; runtimes puts copy/buttons above the logo grid. Testimonials go single-column (long run), newsletter stacks field under copy, footer link groups become 2 columns.",
+  "adaptable_ideas": [
+    "Hero as proof-of-capability: a narrow (~1/4 width) live-media rail of labeled use cases beside the headline, so the product demos itself before any copy is read.",
+    "Put the first real action (install command with OS tabs + copy button) inside the hero, framed as a quiet panel rather than a big CTA button.",
+    "Alternate text/media sides across consecutive feature bands and shift the band tone (black vs charcoal) to separate them without dividers.",
+    "Pair a wide geometric display face for H1/H2 with a small uppercase coloured eyebrow and plain grotesk body; keep all heading sizes modest except the hero."
+  ],
+  "capture_issues": [
+    "desktop-full.jpg shows the fixed nav mid-page over the newsletter heading (outline y=4430).",
+    "mobile-full.jpg has no header at the top; the fixed header is stamped over the footer link list instead (outline y=7187).",
+    "Hero video cards are blank in the first recorded frame (media still loading)."
+  ],
+  "not_verified": [
+    "Nav dropdowns (Products/Community/Learn), CLI OS tab switch and copy button",
+    "Hover states on cards, buttons and logos",
+    "Whether hero cards are interactive Rive canvases vs plain video (10 videos + 2 canvases reported)"
+  ]
+}

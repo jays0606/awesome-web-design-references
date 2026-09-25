@@ -1,0 +1,118 @@
+{
+ "id": "family-co",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Hero",
+   "what_it_does": "Centred two-line headline, subline, dark 'Download on iOS' + light 'Watch the Video' pills, flanked left and right by dense clusters of playful character/icon illustrations."
+  },
+  {
+   "order": 2,
+   "section": "Explore Ethereum",
+   "what_it_does": "Centred heading over a 3x2 bento of small UI cards (Easy, Secure, Fast, Powerful, Fun)."
+  },
+  {
+   "order": 3,
+   "section": "Send, receive, swap",
+   "what_it_does": "Left-aligned heading over three phone screenshots labelled Send/Receive/Swap."
+  },
+  {
+   "order": 4,
+   "section": "Feature detail grid",
+   "what_it_does": "Beige full-width band with a 2-column grid of blue-labelled feature paragraphs."
+  },
+  {
+   "order": 5,
+   "section": "Feature rows (NFTs, Watch wallets, Activity, Security)",
+   "what_it_does": "Alternating phone/illustration + eyebrow, heading, paragraph, checklist; each row ~700px."
+  },
+  {
+   "order": 6,
+   "section": "Effortless onboarding",
+   "what_it_does": "Heading over three phone mocks with coloured captions."
+  },
+  {
+   "order": 7,
+   "section": "The latest from Family",
+   "what_it_does": "Two blog cards with illustration thumbnails."
+  },
+  {
+   "order": 8,
+   "section": "Details that matter",
+   "what_it_does": "~2000px section: heading + subline pinned left while a right column of small UI-detail cards with captions scrolls past."
+  },
+  {
+   "order": 9,
+   "section": "Friends of Family",
+   "what_it_does": "Grid of tweet-style testimonial cards, rows bleeding off both edges."
+  },
+  {
+   "order": 10,
+   "section": "FAQ",
+   "what_it_does": "Heading left, expandable '+' questions right, 'See more FAQs' link."
+  },
+  {
+   "order": 11,
+   "section": "Explore Family CTA",
+   "what_it_does": "Beige band: heading, one-line pitch, blue text link, illustration of characters in a garden."
+  },
+  {
+   "order": 12,
+   "section": "Footer",
+   "what_it_does": "Small logo plus three link columns (Developers, Resources, Company)."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "Recording shows the headline arriving word by word ('Your favorite' first, faded) with illustrations popping in piecemeal, then the settled hero; by the t=0 intro frame it is already complete.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "hero illustrations",
+   "trigger": "autoplay",
+   "observed": "Across t=0-8s, items drift/rotate (squiggle, chat bubble) and the blue character's eyes change to closed lines at 1.8s: idle float plus blink.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Explore Ethereum bento",
+   "trigger": "autoplay",
+   "observed": "Card micro-demos change between captures ('Back Up Now' vs 'Backing Up', 'Normal ~60 Secs' vs 'Fast ~30 Secs' vs 'Urgent ~15 Secs', token icons swapping).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Details that matter",
+   "trigger": "scroll-linked",
+   "observed": "Heading holds its left position across several frames while the right-column detail cards move up: sticky left column (desktop only; stacks on mobile).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Friends of Family",
+   "trigger": "unknown",
+   "observed": "Tweet rows are offset differently between frames and full page; possibly a marquee (inferred).",
+   "evidence": "desktop-full.jpg"
+  }
+ ],
+ "reduced_motion": "Hero looks the same as the settled normal hero; running_animations 46 normal vs 59 reduced (more under reduce), so idle animation is not suppressed.",
+ "mobile": "At 393px a sticky header shows Log In / Get Started pills + hamburger. The side illustration clusters collapse into a row of four icons above the headline, and the CTAs stack. Order matches desktop: the bento becomes one card per row, the Send/Receive/Swap phones stack, the feature grid goes single-column, and feature rows put copy + checklist above the phone. 'Details that matter' loses its sticky column (heading, then cards), and the footer goes 2-up.",
+ "adaptable_ideas": [
+  "Frame a centred text hero with two symmetric illustration clusters so the headline sits in a calm vertical channel.",
+  "Pair each feature heading with a 3-item checklist in the accent colour: scannable proof without extra sections.",
+  "Sticky left heading + scrolling right column of tiny detail cards for a 'craft details' section.",
+  "Keep feature rows at a consistent ~700px rhythm, alternating media side."
+ ],
+ "capture_issues": [
+  "mobile-full.jpg clipped at 14000px (ends in 'Details that matter'/FAQ); FAQ tail, Explore Family and footer are verified only via mobile-scroll.jpg.",
+  "Hero entrance completes before the first intro frame; only the recording shows it.",
+  "Header outline y=10415 reflects the fixed header after scrolling."
+ ],
+ "not_verified": [
+  "Developers/Resources dropdown menus",
+  "Watch the Video modal",
+  "FAQ expansion",
+  "Hover on cards and pills",
+  "Mobile menu"
+ ]
+}

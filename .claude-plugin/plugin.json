@@ -1,0 +1,10 @@
+{
+  "name": "reference-led-design",
+  "version": "0.4.0",
+  "description": "Choose a visual direction, improve an existing website, or review its design using curated references and live browser evidence.",
+  "author": { "name": "Jaeho Shin / VibeRick" },
+  "homepage": "https://jays0606.github.io/awesome-web-design-references/",
+  "repository": "https://github.com/jays0606/awesome-web-design-references",
+  "license": "MIT",
+  "keywords": ["design", "references", "web", "frontend"]
+}

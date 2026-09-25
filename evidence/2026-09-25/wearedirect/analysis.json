@@ -1,0 +1,129 @@
+{
+  "id": "wearedirect",
+  "reviewed_at": "2026-09-25",
+  "section_sequence": [
+    {
+      "order": 1,
+      "section": "preloader",
+      "what_it_does": "Full-screen yellow panel with a small 'DIRECT Design' wordmark before the site appears."
+    },
+    {
+      "order": 2,
+      "section": "nav + side tab",
+      "what_it_does": "Black rounded pill bar inset from the edges (wordmark, 5 centered links, yellow 'Contact Us' + icon button); a black vertical 'W. Honors' tab is fixed to the right edge."
+    },
+    {
+      "order": 3,
+      "section": "hero",
+      "what_it_does": "Left third: tall rounded yellow-gradient card with 3D traffic light and road signs; right: mono '/ BRAND & DESIGN AGENCY' label, big two-line grotesk H1, small justified paragraph mid-height, 'Scroll Down' cue, and a bottom-right 'DIRECT Design' badge that turns into a small 'Watch launch video' card."
+    },
+    {
+      "order": 4,
+      "section": "launch video",
+      "what_it_does": "The small video card grows into a near-full-width rounded black video panel (title card 'wearedirect.co') as the page scrolls."
+    },
+    {
+      "order": 5,
+      "section": "client logo row",
+      "what_it_does": "Single row of faint grey client logos under the video."
+    },
+    {
+      "order": 6,
+      "section": "featured projects",
+      "what_it_does": "Big 'Featured Projects' title left, '03 / SELECTED WORK' + View More right, then a 2-up grid of large project images (BoomID blue, Vital Metrics photo) with name, one-line description and mono tag chips; Scanbuilds marked 'coming soon'."
+    },
+    {
+      "order": 7,
+      "section": "about statement",
+      "what_it_does": "Large multi-line agency statement spanning ~2/3 width, small '02 / WHAT WE DO' paragraph and About Us button beneath."
+    },
+    {
+      "order": 8,
+      "section": "services accordion",
+      "what_it_does": "Numbered label left, right column of large service names (Strategy open with description and, on mobile, an image; others with yellow + toggles), View Services button."
+    },
+    {
+      "order": 9,
+      "section": "impact stats",
+      "what_it_does": "Right-column statement, then a 4-up row of mono labels over large pale 3-digit counters (005, 005, 025, 007)."
+    },
+    {
+      "order": 10,
+      "section": "AI-second policy",
+      "what_it_does": "Two-line H2 'Our principles in the age of AI' + short paragraph in right column, followed by a tall mostly empty area (content not rendered)."
+    },
+    {
+      "order": 11,
+      "section": "client stories",
+      "what_it_does": "'What our clients say' H2 left with a laptop image, large pull quote right, name/role and arrow pager."
+    },
+    {
+      "order": 12,
+      "section": "contact",
+      "what_it_does": "Outline says 'Let's go the Direct way' contact block; rendered as a solid black viewport in the full capture."
+    },
+    {
+      "order": 13,
+      "section": "footer",
+      "what_it_does": "Yellow-to-black gradient: two big cards (white 'Prefer mail?' email, blue 'More Work'), link columns, phone/email, giant DIRECT wordmark bottom-left."
+    }
+  ],
+  "motion": [
+    {
+      "where": "preloader to hero",
+      "trigger": "load",
+      "observed": "Yellow screen with a small 'DIRECT Design' wordmark, then the hero fades in from a yellow wash with the H1 pale before it turns solid black.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "hero traffic light",
+      "trigger": "autoplay",
+      "observed": "Signal lamps cycle (red '?', amber arrows, green smiley) and a green arrow moves across the 'Go the Direct Way' sign; all lamps are dark in the 0-8s intro frames and lit in later scroll frames.",
+      "evidence": "desktop-scroll.jpg"
+    },
+    {
+      "where": "hero video teaser",
+      "trigger": "autoplay",
+      "observed": "The bottom-right 'DIRECT Design' badge becomes a 'Watch launch video' card by 3.5s, and its thumbnail cycles clips (laptop mock, 'Built for the moment', 'Which way?', traffic light).",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "launch video",
+      "trigger": "scroll-linked",
+      "observed": "The bottom-right video card scales up continuously with scroll until it spans almost the full viewport while the hero scrolls away.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "featured projects title",
+      "trigger": "scroll",
+      "observed": "'Featured Projects' starts pale grey and turns solid black as it enters the viewport (seen in mobile-scroll.jpg).",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "chat widget",
+      "trigger": "scroll",
+      "observed": "A 'Need help? Start a call' widget appears bottom-right after the video section.",
+      "evidence": "desktop-scroll.jpg"
+    }
+  ],
+  "reduced_motion": "Hero layout is identical: lamps dark, sign arrow mid-path and the 'DIRECT Design' badge still bottom-right, matching the early (t=0-1.8s) normal intro frames. Whether autoplay or the video teaser is suppressed can't be told from one still. capture.json running_animations = 0 in both modes (motion is video/GSAP driven).",
+  "mobile": "Nav becomes a black rounded bar with the wordmark and a white hamburger button, pinned throughout. Hero order flips: label, three-line H1 and paragraph first, then the yellow traffic-light card full width below; the lamps cycle here too. The Honors tab stays on the right edge. The video teaser plays as a card below the hero (green 'DIRECT' graphic, 'Built for the moment when', site screenshots). Featured projects go single-column with full-width images, the Strategy accordion item shows an image, stats go 2x2, and the footer stacks the mail and More Work cards.",
+  "adaptable_ideas": [
+    "Hero split with a tall rounded illustration card on one side (~1/3) and a text column that places label top, H1 near top and body copy mid-height, using vertical space as a rhythm device.",
+    "Grow a thumbnail-sized 'watch video' card into a full-width video on scroll, so the video is teased in the hero rather than taking over the first viewport.",
+    "Mono numbered section labels ('04 / WE SPECIALISE IN') in a left rail with content in the right half, repeated across every section for a consistent editorial grid.",
+    "Oversized pale counters under tiny mono captions for stats, keeping numbers visually large but low in contrast."
+  ],
+  "capture_issues": [
+    "desktop-full.jpg: the project images are blank, the launch video shows only a black 'wearedirect.co' title card, and the contact section renders as a solid black viewport.",
+    "The fixed nav is stamped into the full-page captures (over the video panel on desktop, over the BoomID image on mobile) rather than at the top.",
+    "mobile-full.jpg skips the launch-video card that mobile-scroll.jpg shows between the hero and the logos.",
+    "The scroll recording ends at Featured Projects; later desktop sections are seen only in desktop-full.jpg."
+  ],
+  "not_verified": [
+    "Services accordion toggling, testimonial pager, Honors side tab",
+    "Nav hover states and mobile menu",
+    "Contact section content ('Let's go the Direct way' per outline)",
+    "Whether sections after the video have scroll reveals on desktop"
+  ]
+}

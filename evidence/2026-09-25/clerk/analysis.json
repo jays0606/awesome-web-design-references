@@ -1,0 +1,97 @@
+{
+ "id": "clerk",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Announcement bar + floating nav",
+   "what_it_does": "A black 'Clerk raises $50m Series C' strip above a rounded, bordered pill nav with dropdowns and Sign in/Sign up."
+  },
+  {
+   "order": 2,
+   "section": "Centered hero",
+   "what_it_does": "A two-line heavy headline and a two-line grey dek over a faint circuit-line background, ending in a 'Build with agents' tab attached to a copyable monospace prompt field."
+  },
+  {
+   "order": 3,
+   "section": "Logo band",
+   "what_it_does": "A 'Trusted by fast-growing companies' label in a left cell, then four bordered logo cells in a row."
+  },
+  {
+   "order": 4,
+   "section": "Clerk Components",
+   "what_it_does": "Left: headline, copy and an accordion (User Authentication / Multi-tenancy / Billing) listing component tags. Right: a live-looking 'Create your account' sign-in card with faded ghost UIs around it."
+  },
+  {
+   "order": 5,
+   "section": "User authentication (dark)",
+   "what_it_does": "A black band entered through a notched trapezoid edge, with a centered headline and a bento grid of dark feature tiles (MFA, fraud, session, SSO, bot detection, passwords, API keys, CLI), each with a small illustration."
+  },
+  {
+   "order": 6,
+   "section": "Multi-tenancy (light)",
+   "what_it_does": "A notched exit back to light; left-aligned headline, then three white cards (roles, auto-join, org components) with avatar and UI vignettes."
+  },
+  {
+   "order": 7,
+   "section": "Billing",
+   "what_it_does": "Copy with a checklist on the left; a mock 'Tailor made pricing from Acme, Inc.' pricing table in a browser frame on the right."
+  },
+  {
+   "order": 8,
+   "section": "Frameworks + Integrations (dark)",
+   "what_it_does": "A notched black band with two centered sub-headlines side by side, each over a grid of outlined framework/integration icons."
+  },
+  {
+   "order": 9,
+   "section": "Testimonials",
+   "what_it_does": "'Trusted around the world' copy on the left beside a two-column masonry of tweet-style quote cards; one large quote below the copy."
+  },
+  {
+   "order": 10,
+   "section": "Footer",
+   "what_it_does": "Logo plus five link columns (Product, SDKs, Resources, Company, Legal), with copyright and social icons below."
+  }
+ ],
+ "motion": [
+  {
+   "where": "logo band",
+   "trigger": "autoplay",
+   "observed": "The logo cells swap sets (inngest/durable/upstash/Cartesia → David AI/OpenRouter/samaya/Consensus → Browserbase/braintrust/Higgsfield…). At 8s the cells are mid-swap, with outgoing and incoming logos stacked vertically.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Components sign-in card",
+   "trigger": "autoplay",
+   "observed": "The card fills itself in: the email field shows 'chris.walker@example.com' and a pointer sits on the password field, then the Continue button (inferred: a scripted typing and cursor demo).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "section transitions",
+   "trigger": "scroll",
+   "observed": "The notched dark bands slide in as ordinary page content; no pinning or scrubbing is visible.",
+   "evidence": "desktop-scroll.mp4"
+  }
+ ],
+ "reduced_motion": "No visible layout difference in the hero; the logo band shows the first set. capture.json running_animations is 3 normally but 5 with reduced motion, so the preference does not reduce motion here.",
+ "mobile": "The announcement bar scrolls away; the pill nav (logo, Sign in, Sign up, hamburger) stays pinned. The headline wraps to four centered lines, and the agent prompt field truncates. The logo band becomes a centered caption over a 2×2 rotating grid. In Components the sign-in card moves above the accordion. The bento tiles, cards and pricing mock go to one column, and framework/integration icons become a labeled 2-column grid. The testimonials stack, and a floating round Clerk button stays at bottom right.",
+ "adaptable_ideas": [
+  "Alternate light and dark bands joined by a notched trapezoid edge, so the section changes read as one continuous chassis.",
+  "Make the primary hero CTA a copyable one-line agent prompt in a monospace field with a tab label, instead of a button.",
+  "Show the product itself as the section illustration (a real sign-in card or pricing table), surrounded by faded ghost variants for depth.",
+  "Put the logo band in bordered cells that rotate sets in place, so many customers are shown without a scrolling marquee."
+ ],
+ "capture_issues": [
+  "mobile-full is clipped at 14,000px, partway through the footer (Legal column).",
+  "desktop-full paints the sticky nav over the testimonials section, and mobile-full paints it over the footer.",
+  "The desktop recording jumps back to the hero once mid-scroll before continuing.",
+  "The faint circuit background could not be confirmed as animated or static."
+ ],
+ "not_verified": [
+  "Accordion interaction in Components",
+  "Nav dropdown menus and the mobile hamburger",
+  "Copy button on the prompt field",
+  "Chat widget",
+  "Bottom of the mobile footer (clipped)"
+ ]
+}

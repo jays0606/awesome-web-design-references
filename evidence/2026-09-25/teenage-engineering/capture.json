@@ -1,0 +1,84 @@
+{
+  "id": "teenage-engineering",
+  "url": "https://teenage.engineering/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "desktop full page cropped at 14000px"
+  ],
+  "tech": {
+    "page_height": 15233,
+    "running_animations": 0,
+    "globals": [],
+    "videos": 0,
+    "canvases": 0,
+    "sticky_or_fixed": 3
+  },
+  "scroll_frames": 22,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 0,
+      "h": 118,
+      "text": "now instagram newsletter latest store deals cart &"
+    },
+    {
+      "tag": "footer",
+      "y": 15138,
+      "h": 96,
+      "text": "country or region korea, republic of albania andor"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 2357,
+      "h": 75,
+      "text": "checkout 0 menu"
+    },
+    {
+      "tag": "footer",
+      "y": 2176,
+      "h": 840,
+      "text": "free shipping over 120 USD* 14 day return policy *"
+    },
+    {
+      "tag": "section",
+      "y": 2176,
+      "h": 840,
+      "text": "free shipping over 120 USD* 14 day return policy *"
+    },
+    {
+      "tag": "section",
+      "y": 2212,
+      "h": 72,
+      "text": "free shipping over 120 USD* 14 day return policy *"
+    },
+    {
+      "tag": "section",
+      "y": 2321,
+      "h": 52,
+      "text": "join our newsletter"
+    },
+    {
+      "tag": "section",
+      "y": 2391,
+      "h": 346,
+      "text": "store guides downloads support press contact terms"
+    },
+    {
+      "tag": "section",
+      "y": 2773,
+      "h": 43,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 2851,
+      "h": 129,
+      "text": "copyright ©2026 teenage engineering all rights res"
+    }
+  ]
+}

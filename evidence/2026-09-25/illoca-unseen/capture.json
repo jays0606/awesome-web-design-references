@@ -1,0 +1,309 @@
+{
+  "id": "illoca-unseen",
+  "url": "https://illoca.unseen.co/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "scroll looked blocked after load; pressed Escape once",
+    "scroll looked blocked after load; pressed Escape once"
+  ],
+  "tech": {
+    "page_height": 900,
+    "running_animations": 0,
+    "globals": [
+      "lenis"
+    ],
+    "videos": 0,
+    "canvases": 1,
+    "sticky_or_fixed": 18
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 12,
+      "h": 48,
+      "text": "Features Features Pricing Pricing FAQs FAQs Try fo"
+    },
+    {
+      "tag": "h1",
+      "y": -224,
+      "h": 200,
+      "text": "Design at the speed of thought Design at the speed of thought Design at the speed of thoug"
+    },
+    {
+      "tag": "section",
+      "y": 377,
+      "h": 4590,
+      "text": "1 Intents, Translated! Augmented Sketch Augmented "
+    },
+    {
+      "tag": "h2",
+      "y": 2524,
+      "h": 153,
+      "text": "Augmented Sketch Augmented Sketch"
+    },
+    {
+      "tag": "h2",
+      "y": 9827,
+      "h": 138,
+      "text": "Adaptive Massing Adaptive Massing"
+    },
+    {
+      "tag": "h2",
+      "y": 13529,
+      "h": 138,
+      "text": "Prompted Plans Prompted Plans"
+    },
+    {
+      "tag": "h2",
+      "y": 19915,
+      "h": 144,
+      "text": "Agentic Refinement Agentic Refinement"
+    },
+    {
+      "tag": "h2",
+      "y": 25409,
+      "h": 138,
+      "text": "Instant Facades Instant Facades"
+    },
+    {
+      "tag": "section",
+      "y": 28727,
+      "h": 2430,
+      "text": "To those who shape the world, Design was never mea"
+    },
+    {
+      "tag": "section",
+      "y": 31382,
+      "h": 1120,
+      "text": "PRICING Get 1,000 starter credits when you sign up"
+    },
+    {
+      "tag": "h2",
+      "y": 31563,
+      "h": 80,
+      "text": "PRICING"
+    },
+    {
+      "tag": "h3",
+      "y": 31587,
+      "h": 117,
+      "text": "Get 1,000 starter credits when you sign up today."
+    },
+    {
+      "tag": "h2",
+      "y": 32088,
+      "h": 178,
+      "text": "Explore"
+    },
+    {
+      "tag": "h3",
+      "y": 32113,
+      "h": 170,
+      "text": "$29.99 / person / month"
+    },
+    {
+      "tag": "h2",
+      "y": 32067,
+      "h": 157,
+      "text": "Team"
+    },
+    {
+      "tag": "h3",
+      "y": 32096,
+      "h": 148,
+      "text": "$59.99+ / team / month"
+    },
+    {
+      "tag": "h2",
+      "y": 31984,
+      "h": 108,
+      "text": "Enterprise"
+    },
+    {
+      "tag": "h3",
+      "y": 32015,
+      "h": 97,
+      "text": "Custom pricing"
+    },
+    {
+      "tag": "section",
+      "y": 32262,
+      "h": 756,
+      "text": "FAQS need help? Frequently Asked Questions hello@i"
+    },
+    {
+      "tag": "h2",
+      "y": 32276,
+      "h": 72,
+      "text": "FAQS"
+    },
+    {
+      "tag": "h3",
+      "y": 32516,
+      "h": 267,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "footer",
+      "y": 33371,
+      "h": 400,
+      "text": "Architectural design at the speed of thought, not "
+    },
+    {
+      "tag": "h3",
+      "y": 34027,
+      "h": 37,
+      "text": "Quick links"
+    },
+    {
+      "tag": "h3",
+      "y": 33994,
+      "h": 34,
+      "text": "Connect"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "h1",
+      "y": 110,
+      "h": 157,
+      "text": "Design at the speed of thought Design at the speed of thought Design at the speed of thoug"
+    },
+    {
+      "tag": "section",
+      "y": 735,
+      "h": 2563,
+      "text": "1 Intents, Translated! Augmented Sketch Augmented "
+    },
+    {
+      "tag": "h2",
+      "y": 2119,
+      "h": 102,
+      "text": "Augmented Sketch Augmented Sketch"
+    },
+    {
+      "tag": "h2",
+      "y": 4350,
+      "h": 92,
+      "text": "Adaptive Massing Adaptive Massing"
+    },
+    {
+      "tag": "h2",
+      "y": 6575,
+      "h": 46,
+      "text": "Prompted Plans Prompted Plans"
+    },
+    {
+      "tag": "h2",
+      "y": 12376,
+      "h": 102,
+      "text": "Agentic Refinement Agentic Refinement"
+    },
+    {
+      "tag": "h2",
+      "y": 14609,
+      "h": 92,
+      "text": "Instant Facades Instant Facades"
+    },
+    {
+      "tag": "section",
+      "y": 17096,
+      "h": 1779,
+      "text": "To those who shape the world, Design was never mea"
+    },
+    {
+      "tag": "section",
+      "y": 18875,
+      "h": 1733,
+      "text": "PRICING Get 1,000 starter credits when you sign up"
+    },
+    {
+      "tag": "h2",
+      "y": 18867,
+      "h": 39,
+      "text": "PRICING"
+    },
+    {
+      "tag": "h3",
+      "y": 18954,
+      "h": 63,
+      "text": "Get 1,000 starter credits when you sign up today."
+    },
+    {
+      "tag": "h2",
+      "y": 19087,
+      "h": 49,
+      "text": "Explore"
+    },
+    {
+      "tag": "h3",
+      "y": 19127,
+      "h": 36,
+      "text": "$29.99 / person / month"
+    },
+    {
+      "tag": "h2",
+      "y": 19548,
+      "h": 49,
+      "text": "Team"
+    },
+    {
+      "tag": "h3",
+      "y": 19588,
+      "h": 36,
+      "text": "$59.99+ / team / month"
+    },
+    {
+      "tag": "h2",
+      "y": 20008,
+      "h": 49,
+      "text": "Enterprise"
+    },
+    {
+      "tag": "h3",
+      "y": 20048,
+      "h": 36,
+      "text": "Custom pricing"
+    },
+    {
+      "tag": "section",
+      "y": 20535,
+      "h": 735,
+      "text": "FAQS need help? Frequently Asked Questions hello@i"
+    },
+    {
+      "tag": "h2",
+      "y": 20529,
+      "h": 39,
+      "text": "FAQS"
+    },
+    {
+      "tag": "h3",
+      "y": 20656,
+      "h": 161,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "footer",
+      "y": 21518,
+      "h": 369,
+      "text": "Architectural design at the speed of thought, not "
+    },
+    {
+      "tag": "h3",
+      "y": 22113,
+      "h": 44,
+      "text": "Quick links"
+    },
+    {
+      "tag": "h3",
+      "y": 22096,
+      "h": 36,
+      "text": "Connect"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "29cm",
+  "url": "https://www.29cm.co.kr/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "scroll looked blocked after load; pressed Escape once",
+    "scroll looked blocked after load; pressed Escape once"
+  ],
+  "tech": {
+    "page_height": 12659,
+    "running_animations": 0,
+    "globals": [],
+    "videos": 0,
+    "canvases": 0,
+    "sticky_or_fixed": 5
+  },
+  "scroll_frames": 18,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 11695,
+      "h": 96,
+      "text": ""
+    },
+    {
+      "tag": "nav",
+      "y": 11695,
+      "h": 96,
+      "text": "Special-Order Showcase PT 29Magazine 로그인/회원가입 BEST"
+    },
+    {
+      "tag": "nav",
+      "y": 11695,
+      "h": 28,
+      "text": "로그인/회원가입"
+    },
+    {
+      "tag": "section",
+      "y": 133,
+      "h": 18144,
+      "text": "즉흥적인 여행의 시작 로타입 26FW 컬렉션을 소개해요. 단독브랜드 로타입 See-thro"
+    },
+    {
+      "tag": "footer",
+      "y": 12133,
+      "h": 445,
+      "text": "고객센터 1660-2929 운영시간 : 평일 09:00 ~ 18:00 (점심시간 12:00"
+    },
+    {
+      "tag": "section",
+      "y": 12153,
+      "h": 47,
+      "text": "고객센터 1660-2929 운영시간 : 평일 09:00 ~ 18:00 (점심시간 12:00"
+    },
+    {
+      "tag": "section",
+      "y": 12225,
+      "h": 160,
+      "text": "NOTICE [공지] 2026 추석 연휴 고객센터 휴무 및 배송/반품 일정 안내 [공지] "
+    },
+    {
+      "tag": "h2",
+      "y": 12225,
+      "h": 18,
+      "text": "NOTICE"
+    },
+    {
+      "tag": "section",
+      "y": 12225,
+      "h": 73,
+      "text": "ABOUT US 인재채용 상시 할인 혜택"
+    },
+    {
+      "tag": "h2",
+      "y": 12225,
+      "h": 18,
+      "text": "ABOUT US"
+    },
+    {
+      "tag": "section",
+      "y": 12225,
+      "h": 125,
+      "text": "MY ORDER 주문배송 취소/교환/반품 내역 상품리뷰 내역 증빙서류발급"
+    },
+    {
+      "tag": "h2",
+      "y": 12225,
+      "h": 18,
+      "text": "MY ORDER"
+    },
+    {
+      "tag": "section",
+      "y": 12225,
+      "h": 125,
+      "text": "MY ACCOUNT 회원정보수정 나의 멤버십 등급 적립금 현황 쿠폰"
+    },
+    {
+      "tag": "h2",
+      "y": 12225,
+      "h": 18,
+      "text": "MY ACCOUNT"
+    },
+    {
+      "tag": "section",
+      "y": 12225,
+      "h": 125,
+      "text": "HELP 입점 및 제휴 문의 상품 Q&A내역 공지사항 고객의 소리"
+    },
+    {
+      "tag": "h2",
+      "y": 12225,
+      "h": 18,
+      "text": "HELP"
+    },
+    {
+      "tag": "section",
+      "y": 12410,
+      "h": 120,
+      "text": "개인정보 처리방침 | 이용약관 | 분쟁해결기준 | 안전거래센터 | 결제대행 위탁사 상호명:"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 11890,
+      "h": 24,
+      "text": ""
+    },
+    {
+      "tag": "nav",
+      "y": 11890,
+      "h": 24,
+      "text": ""
+    },
+    {
+      "tag": "footer",
+      "y": 12050,
+      "h": 434,
+      "text": "(주)무신사 사업자 정보 일부 상품의 경우 29CM는 통신판매의 당사자가 아닌 통신판매중개"
+    },
+    {
+      "tag": "section",
+      "y": 12271,
+      "h": 124,
+      "text": "오프라인 매장안내 | 29CM 온라인스토어 바로가기 | 사업자정보확인 | 개인정보처리방침 "
+    },
+    {
+      "tag": "section",
+      "y": 12416,
+      "h": 40,
+      "text": ""
+    },
+    {
+      "tag": "nav",
+      "y": 12485,
+      "h": 52,
+      "text": "홈 카테고리 검색 좋아요 마이페이지"
+    }
+  ]
+}

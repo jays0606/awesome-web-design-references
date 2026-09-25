@@ -1,0 +1,120 @@
+{
+  "id": "arc-browser",
+  "url": "https://arc.net/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 6125,
+    "running_animations": 5,
+    "globals": [
+      "__NEXT_DATA__"
+    ],
+    "videos": 4,
+    "canvases": 0,
+    "sticky_or_fixed": 2
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 5255,
+      "h": 36,
+      "text": "Max Mobile Developers Students Blog"
+    },
+    {
+      "tag": "section",
+      "y": 707,
+      "h": 920,
+      "text": "Arc is the Chrome replacement I've been waiting fo"
+    },
+    {
+      "tag": "h1",
+      "y": 857,
+      "h": 93,
+      "text": "Arc is the Chrome replacement I've been waiting for."
+    },
+    {
+      "tag": "section",
+      "y": 1822,
+      "h": 1080,
+      "text": "A browser that doesn’t just meet your needs — it a"
+    },
+    {
+      "tag": "section",
+      "y": 2902,
+      "h": 1041,
+      "text": "Space for the different sides of you. Effortlessly"
+    },
+    {
+      "tag": "section",
+      "y": 3942,
+      "h": 1041,
+      "text": "Your perfect setup. Find your perfect setup with S"
+    },
+    {
+      "tag": "section",
+      "y": 4983,
+      "h": 140,
+      "text": "The comfort of privacy. Arc is built from the grou"
+    },
+    {
+      "tag": "footer",
+      "y": 5623,
+      "h": 502,
+      "text": "Enter your new home on the internet Download Arc f"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 5
+  },
+  "mobile_outline": [
+    {
+      "tag": "nav",
+      "y": 3069,
+      "h": 32,
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "y": 496,
+      "h": 532,
+      "text": "Arc is the Chrome replacement I've been waiting fo"
+    },
+    {
+      "tag": "h1",
+      "y": 596,
+      "h": 100,
+      "text": "Arc is the Chrome replacement I've been waiting for."
+    },
+    {
+      "tag": "section",
+      "y": 1159,
+      "h": 409,
+      "text": "A browser that doesn’t just meet your needs — it a"
+    },
+    {
+      "tag": "section",
+      "y": 1568,
+      "h": 408,
+      "text": "Space for the different sides of you. Effortlessly"
+    },
+    {
+      "tag": "section",
+      "y": 1975,
+      "h": 356,
+      "text": "Your perfect setup. Find your perfect setup with S"
+    },
+    {
+      "tag": "section",
+      "y": 2331,
+      "h": 153,
+      "text": "The comfort of privacy. Arc is built from the grou"
+    },
+    {
+      "tag": "footer",
+      "y": 2547,
+      "h": 1149,
+      "text": "Enter your new home on the internet We can email y"
+    }
+  ]
+}

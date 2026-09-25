@@ -1,0 +1,108 @@
+{
+ "id": "arc-browser",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Nav on textured blue band",
+   "what_it_does": "Logo plus five white links on a grainy electric-blue strip that ends in a scalloped (wavy) edge."
+  },
+  {
+   "order": 2,
+   "section": "Dia promo hero",
+   "what_it_does": "Centered serif headline, a one-line dek and an oversized dark app-icon button over a soft pastel gradient, above a cropped browser mock of a chat answer."
+  },
+  {
+   "order": 3,
+   "section": "Press-quote hero",
+   "what_it_does": "Scalloped transition back to blue; a large pale quote ('Arc is the Chrome replacement I've been waiting for.'), a press logo, Mac/Windows download buttons, and a tilted browser screenshot."
+  },
+  {
+   "order": 4,
+   "section": "Press ticker",
+   "what_it_does": "A thin cream strip with a single line of press quotes and outlet names running horizontally."
+  },
+  {
+   "order": 5,
+   "section": "Feature: anticipates",
+   "what_it_does": "Centered blue headline and a small dek over a large browser mock showing an image gallery."
+  },
+  {
+   "order": 6,
+   "section": "Feature: Spaces",
+   "what_it_does": "The same centered-headline-over-screenshot pattern, with a blue event-poster page inside the mock."
+  },
+  {
+   "order": 7,
+   "section": "Feature: perfect setup",
+   "what_it_does": "The same pattern; a split-view mock with a floating theme-picker panel overlapping its corner."
+  },
+  {
+   "order": 8,
+   "section": "Feature: privacy",
+   "what_it_does": "Headline, a short paragraph and a text link only, with no image, as a quiet beat."
+  },
+  {
+   "order": 9,
+   "section": "Testimonials",
+   "what_it_does": "Four short blue user quotes in a row, each with a small outlined handle tag, under three small doodle icons, on cream."
+  },
+  {
+   "order": 10,
+   "section": "Download CTA + footer",
+   "what_it_does": "Blue band with 'Enter your new home on the internet' and a white download pill, then two small link columns and a script-style company signature."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero browser mock",
+   "trigger": "load",
+   "observed": "The chat answer builds up in stages: 'Thinking…' → 'Read 6 tabs' with source chips → 'Thought for 5 seconds' plus the answer text.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Dia promo",
+   "trigger": "scroll",
+   "observed": "Once scrolled, the promo collapses into a sticky bar under the nav holding the headline and a small 'Try Dia' pill; it stays pinned through the footer on both desktop and mobile.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "press-quote hero",
+   "trigger": "scroll",
+   "observed": "The quote is faint at first and brightens as it scrolls in. The screenshot below goes from a purple-tinted overlay to full colour.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "press ticker",
+   "trigger": "autoplay",
+   "observed": "The quote line sits at a different horizontal offset in successive frames (inferred: a marquee).",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Spaces and perfect-setup mocks",
+   "trigger": "autoplay",
+   "observed": "The tint of both mocks cycles between frames while their layout holds still: Spaces goes purple → pink → orange, and Setup goes green → blue → yellow (4 videos on the page, so likely video).",
+   "evidence": "desktop-scroll.mp4"
+  }
+ ],
+ "reduced_motion": "The hero shows the finished chat answer, the same as the settled intro state; otherwise no visible difference. running_animations is 5 in both runs, so reduced motion does not stop the CSS animations.",
+ "mobile": "The nav becomes a centered logo plus a hamburger on the blue band, and the Dia headline wraps to two lines. The Dia promo collapses into the same sticky headline + 'Try Dia' bar once scrolled. The press hero swaps the Mac/Windows buttons for an App Store button and a 'get a download link' line. Each feature keeps the centered-headline-over-mock pattern at small size. No testimonial row appears; the page ends in an email-capture form with a red 'Get Download Link' button.",
+ "adaptable_ideas": [
+  "Use a scalloped or wavy band edge as the section divider signature, so colour blocks read as playful rather than boxed.",
+  "Repeat one feature rhythm: a centered 2-line headline, a 1-line dek, then one large product mock; break it with a text-only beat (privacy) before the testimonials.",
+  "Collapse a hero promo into a slim sticky bar (headline + small CTA pill) after it leaves the viewport, so the offer follows the reader without a modal.",
+  "Replace a device-mismatched desktop download CTA with 'email me the link' on mobile."
+ ],
+ "capture_issues": [
+  "desktop-full paints the sticky nav and Dia bar in the middle of the page (just above the testimonials), and the top nav is missing from the start.",
+  "mobile-full paints the fixed nav and Dia bar over the footer.",
+  "The tinted-to-colour change in the press screenshot may be partly a video still loading."
+ ],
+ "not_verified": [
+  "Hover states and the wavy-edge behavior",
+  "Max/Mobile nav menus",
+  "Whether the theme-cycling mock is video or a CSS animation",
+  "Ticker speed and direction",
+  "Mobile hamburger menu"
+ ]
+}

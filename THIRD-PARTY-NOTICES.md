@@ -20,6 +20,13 @@ Screenshots below were captured on 2026-09-25 as public desktop reference states
 - `screenshots/2026-09-25/vercel.jpg` — https://vercel.com/
 - `screenshots/2026-09-25/wearedirect.jpg` — https://wearedirect.co/
 
+## Evidence bundles
+
+`evidence/2026-09-25/<id>/` holds screenshots and a short screen recording of the
+same public pages listed above, captured on 2026-09-25 for commentary and
+comparison. The same exclusions apply: depicted logos, photography, text,
+video and artwork belong to their owners and are not licensed for reuse.
+
 ## Historical archive
 
 Anthropic, Cursor and Toss files dated 2026-09-06 remain as historical references, not current captures.

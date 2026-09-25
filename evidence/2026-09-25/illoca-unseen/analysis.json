@@ -1,0 +1,91 @@
+{
+ "id": "illoca-unseen",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Preloader",
+   "what_it_does": "Beige grid-paper ground, coordinate readout top-left, handwritten email top-right, centred 2x2 blue geometric logo tiles; cookie box bottom-left."
+  },
+  {
+   "order": 2,
+   "section": "Hero",
+   "what_it_does": "Floating white nav box (logo, Features/Pricing/FAQs, orange-icon 'Try for free'); handwritten 'ARCHITECTURAL' tag + large grotesk 'Design at the speed of thought' + handwritten 'NOT SOFTWARE' with arrow; blue/beige illustrated scene of a person drafting at a desk below."
+  },
+  {
+   "order": 3,
+   "section": "Feature chapters (DOM only)",
+   "what_it_does": "Numbered 'Intents, Translated!' chapters: Augmented Sketch, Adaptive Massing, Prompted Plans, Agentic Refinement, Instant Facades per capture.json; not rendered in any capture."
+  },
+  {
+   "order": 4,
+   "section": "Manifesto (DOM only)",
+   "what_it_does": "'To those who shape the world...' section; not rendered."
+  },
+  {
+   "order": 5,
+   "section": "Pricing (DOM only)",
+   "what_it_does": "Explore $29.99 / Team $59.99+ / Enterprise custom; not rendered."
+  },
+  {
+   "order": 6,
+   "section": "FAQ (DOM only)",
+   "what_it_does": "FAQ with hello@ contact; not rendered."
+  },
+  {
+   "order": 7,
+   "section": "Footer (DOM only)",
+   "what_it_does": "Tagline, Quick links, Connect; not rendered."
+  }
+ ],
+ "motion": [
+  {
+   "where": "preloader logo",
+   "trigger": "autoplay",
+   "observed": "Throughout t=0-8s the four tiles morph (stripes fragment, ring fills to a disc, quarter-circle toggles filled/outlined); the loader persists ~33s of the recording.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "preloader exit",
+   "trigger": "load",
+   "observed": "Logo collapses to a single striped glyph, then the page swaps to the hero.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "hero headline",
+   "trigger": "load",
+   "observed": "Headline letters draw in as outlines then fill, and the handwritten tags write on ('ARCHITECTU...' partially drawn in mobile-hero).",
+   "evidence": "mobile-hero.jpg"
+  },
+  {
+   "where": "hero illustration",
+   "trigger": "scroll-linked",
+   "observed": "Across the last frames the illustration grows from an inset card below the headline to a full-bleed frame while the headline slides off the top and the nav box appears.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "page",
+   "trigger": "scroll-linked",
+   "observed": "page_height stays 900 and wheel steps after the zoom produce no further content: scroll is hijacked (Lenis present); Escape was sent once per capture.json.",
+   "evidence": "desktop-scroll.mp4"
+  }
+ ],
+ "reduced_motion": "Reduced-motion capture still shows only the preloader (tiles mid-morph: ring filled, top-right chevron changed), so the loader is not skipped; running_animations 0 normal and 0 reduced (canvas/JS).",
+ "mobile": "At 393px the loader is gone by capture: a white boxed top bar (wordmark, 'Try for free', 'Menu' + icon) sits over the hero. The headline wraps to 3 centred lines with 'NOT SOFTWARE' below, the illustration is cropped to a portrait card, and the cookie box sits centred over it. All 10 mobile scroll frames are identical: scroll is locked on mobile too.",
+ "adaptable_ideas": [
+  "Mix a clean grotesk headline with handwritten annotations ('ARCHITECTURAL', arrow to 'NOT SOFTWARE') to signal craft without an illustration-heavy hero.",
+  "A single-colour geometric logo on grid paper keeps even the loading state on-brand; morphing its 2x2 glyphs is a cheap loader.",
+  "Two-colour (ultramarine + paper beige) illustration that matches the page ground so the hero art reads as part of the page, not a pasted image."
+ ],
+ "capture_issues": [
+  "Scroll hijack: page_height 900 on desktop, mobile-full is a single 659px viewport, and 10 identical mobile frames; nothing past the hero rendered.",
+  "Desktop preloader lasts ~33s; the intro grid and reduced-motion capture show only the loader.",
+  "Cookie consent box in every frame (never accepted)."
+ ],
+ "not_verified": [
+  "Everything after the hero: feature chapters, manifesto, pricing, FAQ, footer (DOM outline only)",
+  "Whether accepting cookies or clicking releases scroll",
+  "Nav/Menu interactions",
+  "Canvas content beyond the hero illustration"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "awesome-web-design-references",
+  "description": "Curated website references with dated capture evidence, plus the reference-led-design skill.",
+  "owner": { "name": "Jaeho Shin / VibeRick" },
+  "plugins": [
+    {
+      "name": "reference-led-design",
+      "description": "Choose a visual direction, improve an existing website, or review its design using curated references and live browser evidence.",
+      "source": "./",
+      "category": "design",
+      "homepage": "https://github.com/jays0606/awesome-web-design-references"
+    }
+  ]
+}

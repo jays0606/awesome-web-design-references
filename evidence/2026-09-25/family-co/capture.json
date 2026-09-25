@@ -1,0 +1,398 @@
+{
+  "id": "family-co",
+  "url": "https://family.co/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "mobile full page cropped at 14000px"
+  ],
+  "tech": {
+    "page_height": 11315,
+    "running_animations": 46,
+    "globals": [
+      "__NEXT_DATA__"
+    ],
+    "videos": 9,
+    "canvases": 0,
+    "sticky_or_fixed": 4
+  },
+  "scroll_frames": 16,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 10415,
+      "h": 94,
+      "text": "Developers ConnectKit Connecting a wallet, made si"
+    },
+    {
+      "tag": "nav",
+      "y": 10446,
+      "h": 33,
+      "text": "Developers ConnectKit Connecting a wallet, made si"
+    },
+    {
+      "tag": "section",
+      "y": 95,
+      "h": 554,
+      "text": "Your favorite crypto wallet. Explore Ethereum with"
+    },
+    {
+      "tag": "section",
+      "y": 215,
+      "h": 338,
+      "text": "Your favorite crypto wallet. Explore Ethereum with"
+    },
+    {
+      "tag": "h1",
+      "y": 221,
+      "h": 166,
+      "text": "Your favorite crypto wallet."
+    },
+    {
+      "tag": "section",
+      "y": 649,
+      "h": 802,
+      "text": "Explore Ethereum in a whole new way. Send tokens o"
+    },
+    {
+      "tag": "h1",
+      "y": 723,
+      "h": 48,
+      "text": "Explore Ethereum in a whole new way."
+    },
+    {
+      "tag": "section",
+      "y": 1452,
+      "h": 708,
+      "text": "Send, receive, swap. All in one place. Send Receiv"
+    },
+    {
+      "tag": "h1",
+      "y": 1554,
+      "h": 96,
+      "text": "Send, receive, swap. All in one place."
+    },
+    {
+      "tag": "section",
+      "y": 2160,
+      "h": 778,
+      "text": "Send & Receive Flawless essentials. Easily send to"
+    },
+    {
+      "tag": "section",
+      "y": 2938,
+      "h": 694,
+      "text": "Seamless The best way to experience NFTs. View NFT"
+    },
+    {
+      "tag": "h1",
+      "y": 3096,
+      "h": 96,
+      "text": "The best way to experience NFTs."
+    },
+    {
+      "tag": "section",
+      "y": 3633,
+      "h": 708,
+      "text": "Simple Watch the wallets you care about. Keep up t"
+    },
+    {
+      "tag": "h1",
+      "y": 3800,
+      "h": 96,
+      "text": "Watch the wallets you care about."
+    },
+    {
+      "tag": "section",
+      "y": 4342,
+      "h": 708,
+      "text": "Understandable Wallet activity you can understand."
+    },
+    {
+      "tag": "h1",
+      "y": 4513,
+      "h": 96,
+      "text": "Wallet activity you can understand."
+    },
+    {
+      "tag": "section",
+      "y": 5052,
+      "h": 730,
+      "text": "Secure Relentless protection. Restful ease. Family"
+    },
+    {
+      "tag": "h1",
+      "y": 5253,
+      "h": 96,
+      "text": "Relentless protection. Restful ease."
+    },
+    {
+      "tag": "section",
+      "y": 5782,
+      "h": 744,
+      "text": "Effortless onboarding. Masterful management. Onboa"
+    },
+    {
+      "tag": "h1",
+      "y": 5882,
+      "h": 96,
+      "text": "Effortless onboarding. Masterful management."
+    },
+    {
+      "tag": "section",
+      "y": 6527,
+      "h": 796,
+      "text": "The latest from Family Published 13 May, 2025 The "
+    },
+    {
+      "tag": "h1",
+      "y": 6651,
+      "h": 48,
+      "text": "The latest from Family"
+    },
+    {
+      "tag": "section",
+      "y": 7323,
+      "h": 1974,
+      "text": "Details that matter. We sweat the details, no matt"
+    },
+    {
+      "tag": "h1",
+      "y": 9091,
+      "h": 48,
+      "text": "Details that matter."
+    },
+    {
+      "tag": "section",
+      "y": 9299,
+      "h": 853,
+      "text": "Friends of Family See what people are saying. Foll"
+    },
+    {
+      "tag": "h1",
+      "y": 9431,
+      "h": 48,
+      "text": "Friends of Family"
+    },
+    {
+      "tag": "section",
+      "y": 10153,
+      "h": 500,
+      "text": "Frequently Asked Questions Is Family safe? Yes, Fa"
+    },
+    {
+      "tag": "h1",
+      "y": 10257,
+      "h": 304,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "section",
+      "y": 10653,
+      "h": 346,
+      "text": "Explore Family Family is a beautiful self-custody "
+    },
+    {
+      "tag": "h1",
+      "y": 10731,
+      "h": 48,
+      "text": "Explore Family"
+    },
+    {
+      "tag": "footer",
+      "y": 10999,
+      "h": 316,
+      "text": "Developers Documentation ConnectKit GitHub Resourc"
+    },
+    {
+      "tag": "nav",
+      "y": 11067,
+      "h": 152,
+      "text": "Developers Documentation ConnectKit GitHub Resourc"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 59
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 14166,
+      "h": 70,
+      "text": "Log In Get Started"
+    },
+    {
+      "tag": "nav",
+      "y": 14185,
+      "h": 32,
+      "text": "Log In Get Started"
+    },
+    {
+      "tag": "section",
+      "y": 71,
+      "h": 530,
+      "text": "Your favorite crypto wallet. Explore Ethereum with"
+    },
+    {
+      "tag": "section",
+      "y": 119,
+      "h": 434,
+      "text": "Your favorite crypto wallet. Explore Ethereum with"
+    },
+    {
+      "tag": "h1",
+      "y": 189,
+      "h": 112,
+      "text": "Your favorite crypto wallet."
+    },
+    {
+      "tag": "section",
+      "y": 601,
+      "h": 1782,
+      "text": "Explore Ethereum in a whole new way. Send tokens o"
+    },
+    {
+      "tag": "h1",
+      "y": 625,
+      "h": 70,
+      "text": "Explore Ethereum in a whole new way."
+    },
+    {
+      "tag": "section",
+      "y": 2384,
+      "h": 1399,
+      "text": "Send, receive, swap. All in one place. Send Receiv"
+    },
+    {
+      "tag": "h1",
+      "y": 2426,
+      "h": 70,
+      "text": "Send, receive, swap. All in one place."
+    },
+    {
+      "tag": "section",
+      "y": 3784,
+      "h": 1288,
+      "text": "Send & Receive Flawless essentials. Easily send to"
+    },
+    {
+      "tag": "section",
+      "y": 5072,
+      "h": 895,
+      "text": "Seamless The best way to experience NFTs. View NFT"
+    },
+    {
+      "tag": "h1",
+      "y": 5132,
+      "h": 70,
+      "text": "The best way to experience NFTs."
+    },
+    {
+      "tag": "section",
+      "y": 5968,
+      "h": 907,
+      "text": "Simple Watch the wallets you care about. Keep up t"
+    },
+    {
+      "tag": "h1",
+      "y": 6044,
+      "h": 70,
+      "text": "Watch the wallets you care about."
+    },
+    {
+      "tag": "section",
+      "y": 6876,
+      "h": 907,
+      "text": "Understandable Wallet activity you can understand."
+    },
+    {
+      "tag": "h1",
+      "y": 6952,
+      "h": 70,
+      "text": "Wallet activity you can understand."
+    },
+    {
+      "tag": "section",
+      "y": 7785,
+      "h": 957,
+      "text": "Secure Relentless protection. Restful ease. Family"
+    },
+    {
+      "tag": "h1",
+      "y": 7861,
+      "h": 70,
+      "text": "Relentless protection. Restful ease."
+    },
+    {
+      "tag": "section",
+      "y": 8741,
+      "h": 1496,
+      "text": "Effortless onboarding. Masterful management. Onboa"
+    },
+    {
+      "tag": "h1",
+      "y": 8783,
+      "h": 105,
+      "text": "Effortless onboarding. Masterful management."
+    },
+    {
+      "tag": "section",
+      "y": 10238,
+      "h": 989,
+      "text": "The latest from Family Published 13 May, 2025 The "
+    },
+    {
+      "tag": "h1",
+      "y": 10286,
+      "h": 35,
+      "text": "The latest from Family"
+    },
+    {
+      "tag": "section",
+      "y": 11229,
+      "h": 2145,
+      "text": "Details that matter. We sweat the details, no matt"
+    },
+    {
+      "tag": "h1",
+      "y": 11277,
+      "h": 35,
+      "text": "Details that matter."
+    },
+    {
+      "tag": "section",
+      "y": 13375,
+      "h": 572,
+      "text": "Frequently Asked Questions Is Family safe? Yes, Fa"
+    },
+    {
+      "tag": "h1",
+      "y": 13415,
+      "h": 70,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "section",
+      "y": 13947,
+      "h": 373,
+      "text": "Explore Family Family is a beautiful self-custody "
+    },
+    {
+      "tag": "h1",
+      "y": 14091,
+      "h": 35,
+      "text": "Explore Family"
+    },
+    {
+      "tag": "footer",
+      "y": 14320,
+      "h": 505,
+      "text": "Developers Documentation ConnectKit GitHub Resourc"
+    },
+    {
+      "tag": "nav",
+      "y": 14344,
+      "h": 292,
+      "text": "Developers Documentation ConnectKit GitHub Resourc"
+    }
+  ]
+}

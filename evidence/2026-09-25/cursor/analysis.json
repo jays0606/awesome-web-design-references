@@ -1,0 +1,90 @@
+{
+ "id": "cursor",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Nav",
+   "what_it_does": "Wordmark left, five centered text links, and Sign in / outlined Contact sales / dark Download pill at right, on warm off-white."
+  },
+  {
+   "order": 2,
+   "section": "Hero",
+   "what_it_does": "A modest two-line headline (medium weight, not display size), then a dark 'Download for macOS' and a grey 'Request a demo' pill, over a wide rounded panel where a painterly landscape frames a detailed Cursor Desktop app mock with a Cursor CLI window overlapping it."
+  },
+  {
+   "order": 3,
+   "section": "Logo row",
+   "what_it_does": "A small centered caption over eight customer logos in muted tan cells."
+  },
+  {
+   "order": 4,
+   "section": "Feature stack (4)",
+   "what_it_does": "Four tan panels that alternate copy left/right: 'Agents turn ideas into code', 'Works autonomously', 'In every tool', 'Hand work to AI teammates'. Each has short text and an orange link opposite a painterly-backed product UI mock (Mission Control, dashboard, Slack thread, bot chat)."
+  },
+  {
+   "order": 5,
+   "section": "Testimonials",
+   "what_it_does": "A centered 'The new way to build software.' over a 3×2 grid of quote cards with small avatars."
+  },
+  {
+   "order": 6,
+   "section": "Stay on the frontier",
+   "what_it_does": "Three columns, each with a title, copy, an orange link and a tall visual (model picker, phone mock, terminal photo)."
+  },
+  {
+   "order": 7,
+   "section": "Changelog",
+   "what_it_does": "A row of four dated entries, each a date plus a title."
+  },
+  {
+   "order": 8,
+   "section": "Research team",
+   "what_it_does": "A short statement on the left with a large atmospheric office photo on the right."
+  },
+  {
+   "order": 9,
+   "section": "Recent highlights",
+   "what_it_does": "Four dated article entries with author avatars and read times."
+  },
+  {
+   "order": 10,
+   "section": "Final CTA + footer",
+   "what_it_does": "A centered large 'Try Cursor now.' with a download pill, then five link columns and a theme/language switcher."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero app mock",
+   "trigger": "autoplay",
+   "observed": "A scripted demo: an inspector tag moves between page elements ('Tagline · span' → 'CTAButton · button' → 'ResearchTable' by 8s), the CLI transcript scrolls, and the main pane switches between tasks (Build Landing Page ↔ Mission Control Interface).",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "feature panels",
+   "trigger": "scroll",
+   "observed": "Panels arrive as normal page flow; the mocks inside show different UI states between frames (e.g. a video play card in 'Works autonomously').",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No structural difference: the hero mock shows a different moment of the same demo (Bioinformatics CLI prompt, 1h/2h timestamps). running_animations is 37 normal vs 36 reduced, so most animation keeps running.",
+ "mobile": "The nav becomes the wordmark, Sign in and a hamburger, pinned while scrolling. The two CTAs merge into one 'Get started →' pill, both in the hero and in the final CTA. The hero mock stays at desktop scale and is cropped at the right edge, not reflowed. The logo row becomes a 4×2 grid of cells. Feature panels stack as copy then mock, and testimonials and frontier columns stack one per row. Changelog and Recent highlights become horizontal scroll rows, with the next card cut off at the right edge.",
+ "adaptable_ideas": [
+  "Keep the headline modest and let one dense, believable product mock carry the hero; set the UI inside a painterly/photographic frame so it reads as an artifact, not a screenshot.",
+  "Alternate copy left/right across 4 equal-height tinted panels, with one orange text link per panel as the only accent colour.",
+  "Keep a single warm off-white and tan palette end to end, using only orange for links and green/red for diff counts.",
+  "On mobile, crop the hero mock at desktop scale rather than shrinking it, and turn dated lists (changelog, highlights) into horizontal swipe rows with the next card peeking in."
+ ],
+ "capture_issues": [
+  "desktop-full paints the sticky nav above the final 'Try Cursor now.' CTA.",
+  "In the desktop recording the scroll starts late; about the first half of the frames show the hero demo.",
+  "The painterly backgrounds may be the single video on the page; this could not be confirmed from stills."
+ ],
+ "not_verified": [
+  "Models/Product/Resources dropdowns",
+  "Hover states on panels and links",
+  "Whether the hero demo loops or responds to interaction",
+  "Theme switcher in footer",
+  "Mobile hamburger menu"
+ ]
+}

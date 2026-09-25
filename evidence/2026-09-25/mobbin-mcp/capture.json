@@ -1,0 +1,360 @@
+{
+  "id": "mobbin-mcp",
+  "url": "https://mobbin.com/mcp",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 11661,
+    "running_animations": 1,
+    "globals": [
+      "__framer_importFromPackage"
+    ],
+    "videos": 1,
+    "canvases": 0,
+    "sticky_or_fixed": 4
+  },
+  "scroll_frames": 17,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 10761,
+      "h": 84,
+      "text": "Pricing MCP Log in Connect MCP"
+    },
+    {
+      "tag": "nav",
+      "y": 10785,
+      "h": 60,
+      "text": "Pricing MCP Log in Connect MCP"
+    },
+    {
+      "tag": "h2",
+      "y": 236,
+      "h": 240,
+      "text": "The design reference your AI agents are missing."
+    },
+    {
+      "tag": "h1",
+      "y": 496,
+      "h": 52,
+      "text": "Mobbin MCP is a design MCP server that connects your AI agents to 600,000+ real product sc"
+    },
+    {
+      "tag": "h2",
+      "y": 1666,
+      "h": 176,
+      "text": "AI agents can write code. But they don’t know what works. They're guessing… and it shows. "
+    },
+    {
+      "tag": "h2",
+      "y": 4525,
+      "h": 132,
+      "text": "621,500+ shipped screens. Now your AI agents can see them too."
+    },
+    {
+      "tag": "h2",
+      "y": 4764,
+      "h": 36,
+      "text": "Finance apps"
+    },
+    {
+      "tag": "h2",
+      "y": 4833,
+      "h": 36,
+      "text": "Health apps"
+    },
+    {
+      "tag": "h2",
+      "y": 4902,
+      "h": 36,
+      "text": "E-commerce apps"
+    },
+    {
+      "tag": "h2",
+      "y": 5365,
+      "h": 88,
+      "text": "Ask anything. Get real screens back."
+    },
+    {
+      "tag": "h3",
+      "y": 6199,
+      "h": 280,
+      "text": "“Being able to pull Mobbin's patterns, knowledge, and images directly into my brainstormin"
+    },
+    {
+      "tag": "h2",
+      "y": 6901,
+      "h": 56,
+      "text": "When to reach for Mobbin MCP"
+    },
+    {
+      "tag": "h3",
+      "y": 7045,
+      "h": 30,
+      "text": "Building from scratch"
+    },
+    {
+      "tag": "section",
+      "y": 7209,
+      "h": 390,
+      "text": ""
+    },
+    {
+      "tag": "h3",
+      "y": 7765,
+      "h": 30,
+      "text": "Stuck on a micro-decision"
+    },
+    {
+      "tag": "h3",
+      "y": 7765,
+      "h": 30,
+      "text": "UI feels dated"
+    },
+    {
+      "tag": "h2",
+      "y": 8465,
+      "h": 56,
+      "text": "Set up in under a minute."
+    },
+    {
+      "tag": "h3",
+      "y": 8877,
+      "h": 30,
+      "text": "Connect tool"
+    },
+    {
+      "tag": "h2",
+      "y": 9379,
+      "h": 56,
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "y": 9500,
+      "h": 22,
+      "text": "What is a design MCP server?"
+    },
+    {
+      "tag": "h3",
+      "y": 9592,
+      "h": 22,
+      "text": "Figma MCP vs Mobbin MCP: what is the difference?"
+    },
+    {
+      "tag": "h3",
+      "y": 9684,
+      "h": 22,
+      "text": "How do I use Mobbin MCP?"
+    },
+    {
+      "tag": "h3",
+      "y": 9776,
+      "h": 22,
+      "text": "Is Mobbin MCP free?"
+    },
+    {
+      "tag": "h3",
+      "y": 9868,
+      "h": 22,
+      "text": "Which tools work with Mobbin MCP?"
+    },
+    {
+      "tag": "h3",
+      "y": 9960,
+      "h": 22,
+      "text": "Is this the same library as the Mobbin website?"
+    },
+    {
+      "tag": "h3",
+      "y": 10052,
+      "h": 22,
+      "text": "How long does it take to return results?"
+    },
+    {
+      "tag": "h2",
+      "y": 10541,
+      "h": 112,
+      "text": "Your AI agents are guessing. They don’t have to."
+    },
+    {
+      "tag": "footer",
+      "y": 11119,
+      "h": 542,
+      "text": "Design better digital experiences with Mobbin. Exp"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 6
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 10701,
+      "h": 60,
+      "text": ""
+    },
+    {
+      "tag": "nav",
+      "y": 10709,
+      "h": 52,
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "y": 164,
+      "h": 176,
+      "text": "The design reference your AI agents are missing."
+    },
+    {
+      "tag": "h1",
+      "y": 360,
+      "h": 130,
+      "text": "Mobbin MCP is a design MCP server that connects your AI agents to 600,000+ real product sc"
+    },
+    {
+      "tag": "h1",
+      "y": 1109,
+      "h": 216,
+      "text": "AI agents can write code. But they don’t know what works. They're guessing… and it shows. "
+    },
+    {
+      "tag": "h2",
+      "y": 2141,
+      "h": 108,
+      "text": "621,500+ shipped screens. Now your AI agents can see them too."
+    },
+    {
+      "tag": "h3",
+      "y": 2851,
+      "h": 30,
+      "text": "Finance apps"
+    },
+    {
+      "tag": "h3",
+      "y": 3485,
+      "h": 30,
+      "text": "Health apps"
+    },
+    {
+      "tag": "h3",
+      "y": 4119,
+      "h": 30,
+      "text": "E-commerce apps"
+    },
+    {
+      "tag": "h2",
+      "y": 4297,
+      "h": 72,
+      "text": "Ask anything. Get real screens back."
+    },
+    {
+      "tag": "h3",
+      "y": 5779,
+      "h": 210,
+      "text": "“Being able to pull Mobbin's patterns, knowledge, and images directly into my brainstormin"
+    },
+    {
+      "tag": "h2",
+      "y": 6211,
+      "h": 72,
+      "text": "When to reach for Mobbin MCP"
+    },
+    {
+      "tag": "h3",
+      "y": 6339,
+      "h": 30,
+      "text": "Building from scratch"
+    },
+    {
+      "tag": "section",
+      "y": 6603,
+      "h": 520,
+      "text": ""
+    },
+    {
+      "tag": "h3",
+      "y": 6943,
+      "h": 30,
+      "text": "Stuck on a micro-decision"
+    },
+    {
+      "tag": "h3",
+      "y": 7525,
+      "h": 30,
+      "text": "UI feels dated"
+    },
+    {
+      "tag": "h2",
+      "y": 8211,
+      "h": 72,
+      "text": "Set up in under a minute."
+    },
+    {
+      "tag": "h3",
+      "y": 8685,
+      "h": 30,
+      "text": "Connect tool"
+    },
+    {
+      "tag": "h2",
+      "y": 9267,
+      "h": 72,
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "y": 9404,
+      "h": 22,
+      "text": "What is a design MCP server?"
+    },
+    {
+      "tag": "h3",
+      "y": 9491,
+      "h": 44,
+      "text": "Figma MCP vs Mobbin MCP: what is the difference?"
+    },
+    {
+      "tag": "h3",
+      "y": 9600,
+      "h": 22,
+      "text": "How do I use Mobbin MCP?"
+    },
+    {
+      "tag": "h3",
+      "y": 9692,
+      "h": 22,
+      "text": "Is Mobbin MCP free?"
+    },
+    {
+      "tag": "h3",
+      "y": 9784,
+      "h": 22,
+      "text": "Which tools work with Mobbin MCP?"
+    },
+    {
+      "tag": "h3",
+      "y": 9871,
+      "h": 44,
+      "text": "Is this the same library as the Mobbin website?"
+    },
+    {
+      "tag": "h3",
+      "y": 9975,
+      "h": 44,
+      "text": "How long does it take to return results?"
+    },
+    {
+      "tag": "h2",
+      "y": 10280,
+      "h": 108,
+      "text": "Your AI agents are guessing. They don’t have to."
+    },
+    {
+      "tag": "footer",
+      "y": 10762,
+      "h": 598,
+      "text": "Design better digital experiences with Mobbin. Exp"
+    }
+  ]
+}

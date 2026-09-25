@@ -1,0 +1,94 @@
+{
+ "id": "basement-studio",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Nav + 3D room hero",
+   "what_it_does": "A thin black nav (wordmark, links with superscript counts, 'Online (4)' status, Contact Us) over a full-viewport real-time 3D render of the studio basement, with a floating HUMAN/MACHINE toggle pinned at the bottom center."
+  },
+  {
+   "order": 2,
+   "section": "Manifesto headline",
+   "what_it_does": "A large grotesk headline in three lines on the left with a small three-line paragraph under it, on black."
+  },
+  {
+   "order": 3,
+   "section": "Trusted by Visionaries",
+   "what_it_does": "A 6-column grid of client logos in thin-bordered cells, six rows deep."
+  },
+  {
+   "order": 4,
+   "section": "Featured Projects",
+   "what_it_does": "A pinned 'Featured Projects' header over rows that pair a large project image on the left with a short description and the project name at the right; rows cycle through Vercel Ship, Daylight, KidSuper and Shop MrBeast."
+  },
+  {
+   "order": 5,
+   "section": "Capabilities",
+   "what_it_does": "A large four-line statement headline over four columns (Websites & Features, Visual Branding, IRL Experience, Marketing Execution), each with a paragraph and small tag chips."
+  },
+  {
+   "order": 6,
+   "section": "Contact",
+   "what_it_does": "A dark panel with 'Let's make an impact together.' and the email address set at headline size."
+  },
+  {
+   "order": 7,
+   "section": "Footer",
+   "what_it_does": "A full-width condensed 'BSMNT.26' wordmark, a newsletter field on the left, a large stacked nav list, and social/legal lines."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "Loads blank, then black, then shows the room as a white wireframe, then pixel blocks scatter and resolve into the fully lit render (intro t=0 still shows scattered squares); settled by 0.7s.",
+   "evidence": "desktop-scroll.mp4"
+  },
+  {
+   "where": "hero",
+   "trigger": "autoplay",
+   "observed": "The TV-wall screens change content between intro frames while the camera and scene hold still. The seated figure on the stairs differs between captures (inferred: it varies per load).",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Featured Projects",
+   "trigger": "scroll-linked",
+   "observed": "The header stays pinned while project rows move up beneath it; in desktop-full this area is mostly blank black space.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "footer wordmark",
+   "trigger": "scroll",
+   "observed": "'BSMNT.26' first appears clipped at the bottom edge, then is fully visible at the top of the final frames.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "HUMAN/MACHINE pill",
+   "trigger": "scroll",
+   "observed": "The pill stays fixed at bottom center over every section on desktop and mobile.",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No visible difference: the lit 3D room renders the same as the settled intro (the nav 'Online' count reads 6 here). running_animations is 38 in both runs, and the canvases (2) are still present.",
+ "mobile": "The nav becomes the wordmark, a dotted status indicator and 'Menu' plus a hamburger. The 3D hero is cropped to a portrait slice with the headline directly below it, and the HUMAN/MACHINE pill floats over content throughout. The logo grid drops to 3 columns, with some cells empty mid-capture. Projects become stacked image-then-caption cards. Capabilities go to 2×2. The footer shortens the wordmark to 'BSMNT' and sets the nav list in very large type.",
+ "adaptable_ideas": [
+  "Stage the hero reveal in three passes (black → wireframe → pixel-dissolve → lit), so a heavy scene feels built in front of the viewer rather than loading.",
+  "Set contact details (the email address) at headline size as the page's second-to-last beat, not in footer small print.",
+  "End with a full-bleed condensed wordmark sized edge to edge as the footer masthead.",
+  "Use superscript counts on nav items (Showcase 26, Blog 29) to signal depth without extra UI."
+ ],
+ "capture_issues": [
+  "In desktop-full the 3D hero canvas renders as empty black, and there is a large black gap before Featured Projects (the pinned section shows only one project).",
+  "mobile-full paints the fixed nav over the Contact section.",
+  "The first mp4 frames are blank white/black while the WebGL scene initializes."
+ ],
+ "not_verified": [
+  "HUMAN/MACHINE toggle behavior",
+  "Hover and pointer interaction with the 3D scene",
+  "What the 'Online' count represents",
+  "Project row hover and video",
+  "Menu overlay on mobile",
+  "Whether empty mobile logo cells are a rotation mid-state"
+ ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "toss",
+  "reviewed_at": "2026-09-25",
+  "section_sequence": [
+    {
+      "order": 1,
+      "section": "top nav",
+      "what_it_does": "Minimal white bar: logo left, 5 centered text links, language toggle + pill 'Download App' right; a vertical tick-mark progress indicator sits at the far left edge throughout."
+    },
+    {
+      "order": 2,
+      "section": "hero",
+      "what_it_does": "Near-full-viewport rounded-corner lifestyle video card with a two-line centered white headline over its lower third; on scroll it cuts to a closer shot of the phone as the headline fades."
+    },
+    {
+      "order": 3,
+      "section": "send money",
+      "what_it_does": "Rounded card of hands holding a phone with a transfer confirmation, caption and short copy at left."
+    },
+    {
+      "order": 4,
+      "section": "your money, simplified",
+      "what_it_does": "Floating tilted phone right; left headline over a stacked list of features where one item at a time is solid with copy + CTA (e.g. 'Exchange with zero fees') and the rest are pale."
+    },
+    {
+      "order": 5,
+      "section": "finance without the homework",
+      "what_it_does": "Centered headline + subline, then 3 gradient cards (loans, cards, insurance) with arrow buttons and captions."
+    },
+    {
+      "order": 6,
+      "section": "invest with confidence",
+      "what_it_does": "Centered headline, then 3 dark media cards (AI earnings analysis, hands-off investing, community) with captions."
+    },
+    {
+      "order": 7,
+      "section": "commerce statement",
+      "what_it_does": "Full-bleed warm photo of a Toss parcel with 'Money doesn't stop at banking', followed by a product/rating shot ('Amo Italian' 5-star, 1,508)."
+    },
+    {
+      "order": 8,
+      "section": "shopping",
+      "what_it_does": "Phone mockup of checkout (discount toggles, then 'Payment complete') left; stacked benefit statements right."
+    },
+    {
+      "order": 9,
+      "section": "seller / payout",
+      "what_it_does": "Grid-lined grey stage: 'From sale to payout, everything in one place' over a row of seller listing cards, then calendar card with 'paid within two days'."
+    },
+    {
+      "order": 10,
+      "section": "ads formats",
+      "what_it_does": "'Different marketing objectives need different strategies' over 4 rounded ad-format cards (auto-play video ads, lucky quizzes, fullscreen ads, point missions)."
+    },
+    {
+      "order": 11,
+      "section": "Toss Ads / trusted partner",
+      "what_it_does": "'Turn 30 million Toss users into your customers' over a dotted terrain chart, then 'A trusted business partner' line with 'Advertise on Toss'."
+    },
+    {
+      "order": 12,
+      "section": "payments (business)",
+      "what_it_does": "Left copy + 'Learn more', right dashboard screenshot with a floating phone payment sheet ('Lower fees than cards'; mobile also shows 'Build checkout in 5 minutes')."
+    },
+    {
+      "order": 13,
+      "section": "bridge statement",
+      "what_it_does": "'Beyond / boundaries' words flank a black shape that grows into a rounded card reading 'Built into everyday life. Now powering businesses.'"
+    },
+    {
+      "order": 14,
+      "section": "hardware (order kiosk, POS, Facepay)",
+      "what_it_does": "Dark desk scenes with a device center-right and small caption + 'Learn more' at lower-left, swapped per product (order kiosk, POS coupons, POS sales, Facepay)."
+    },
+    {
+      "order": 15,
+      "section": "everyday upgraded / mini apps",
+      "what_it_does": "'Everyday upgraded' + photo row, then a mosaic of rounded photo and widget tiles above 'When everything connects, life gets simpler'."
+    },
+    {
+      "order": 16,
+      "section": "closing manifesto",
+      "what_it_does": "Dark navy section with a dotted globe and white multi-line manifesto ('A financial layer for everyday life...'); seen in mobile-scroll.jpg."
+    },
+    {
+      "order": 17,
+      "section": "footer",
+      "what_it_does": "Present in outline (desktop y≈49062, mobile y=20326) but not reached by any image."
+    }
+  ],
+  "motion": [
+    {
+      "where": "hero",
+      "trigger": "scroll-linked",
+      "observed": "Hero card stays pinned for ~10 recorded seconds of wheel scrolling, then cuts to a closer side shot of the woman with the phone while the headline fades; outline puts the hero H2 at y=8294, i.e. a long pinned track.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "hero",
+      "trigger": "load",
+      "observed": "t=0 frame of the recording is blank white with nav only; the photo card is present from 0.7s, and intro frames 0.7s to 8s show no change.",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "your money list",
+      "trigger": "scroll-linked",
+      "observed": "One feature line at a time turns solid with copy + CTA while the others stay pale; the phone screen and pop-out card change to match.",
+      "evidence": "desktop-scroll.jpg"
+    },
+    {
+      "where": "headlines ('Finance without the homework', 'A trusted business partner')",
+      "trigger": "scroll-linked",
+      "observed": "Words go from blurred/pale grey to solid dark one at a time as scroll advances.",
+      "evidence": "desktop-scroll.jpg"
+    },
+    {
+      "where": "shopping phone / Facepay",
+      "trigger": "scroll-linked",
+      "observed": "UI states advance within the mockup: checkout sheet to 'Payment complete'; Facepay screen 'Verifying your face' to 'Payment completed'.",
+      "evidence": "desktop-scroll.jpg"
+    },
+    {
+      "where": "bridge statement",
+      "trigger": "scroll-linked",
+      "observed": "Narrow black vertical pill between 'Beyond' and 'boundaries' widens into a large rounded card, pushing the words outward and revealing the statement.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "hardware scenes",
+      "trigger": "scroll-linked",
+      "observed": "Device and backdrop crossfade between kiosk, POS monitor and Facepay terminal while captions swap at lower-left.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "mini apps mosaic",
+      "trigger": "scroll-linked",
+      "observed": "Tiles and the closing headline start pale/washed out and resolve to full contrast.",
+      "evidence": "desktop-scroll.mp4"
+    }
+  ],
+  "reduced_motion": "Hero looks identical to normal (same card, headline, progress ticks). capture.json running_animations = 0 in both modes; scroll-linked effects under reduced motion were not captured.",
+  "mobile": "Nav becomes logo + hamburger and stays pinned. Hero card is taller than wide, cropped tight on the face, headline breaks into three lines. The pinned desktop scenes mostly become a plain vertical stack: the 'your money' features become separate card + caption + CTA blocks, and the finance and invest cards go single-column. Headline word reveals and the Beyond/boundaries card still appear. The page closes on a dark navy globe manifesto. The left progress ticks don't show at 393px.",
+  "adaptable_ideas": [
+    "One idea per viewport: each scene holds a single product claim with one visual, advanced by scroll, so a very long page reads as a sequence of slides.",
+    "Scroll-scrubbed word reveal (pale/blurred to solid) for statement lines, reserving it for bridge sentences rather than every heading.",
+    "A thin vertical tick progress indicator at the page edge to orient users in a very long pinned narrative.",
+    "Shape-morph transition (pill expands to card, splitting a two-word phrase) as a chapter break between audiences (consumer to business)."
+  ],
+  "capture_issues": [
+    "desktop-full.jpg (cropped at 14,000 of 50,964px) is mostly blank white where pinned scroll tracks sit; only the hero photo, 'Your money' block, finance cards and invest row render, so it reaches just the first quarter of the page.",
+    "The 'Invest with confidence' media cards are solid black in the full-page captures (videos not loaded).",
+    "mobile-full.jpg is cropped at 14,000px and stops around the payments section.",
+    "Neither the 24-step desktop pass nor the mobile strip reaches the footer; the desktop pass ends at the mini-apps mosaic.",
+    "The hero is blank in the first recorded frame (media loading)."
+  ],
+  "not_verified": [
+    "Footer on both viewports",
+    "Nav hover/menus, the language toggle, 'Learn more' links, the mobile hamburger",
+    "How the scroll-linked scenes behave under prefers-reduced-motion beyond the hero"
+  ]
+}

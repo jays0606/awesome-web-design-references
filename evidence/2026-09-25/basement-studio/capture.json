@@ -1,0 +1,190 @@
+{
+  "id": "basement-studio",
+  "url": "https://basement.studio/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 6714,
+    "running_animations": 38,
+    "globals": [],
+    "videos": 0,
+    "canvases": 2,
+    "sticky_or_fixed": 11
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 5814,
+      "h": 36,
+      "text": "Home Services Showcase (26) People Blog (29) Lab O"
+    },
+    {
+      "tag": "section",
+      "y": 916,
+      "h": 310,
+      "text": "A digital studio & branding powerhouse making cool"
+    },
+    {
+      "tag": "h1",
+      "y": 916,
+      "h": 234,
+      "text": "A digital studio & branding powerhouse making cool shit that performs"
+    },
+    {
+      "tag": "section",
+      "y": 1354,
+      "h": 834,
+      "text": "Trusted by Visionaries"
+    },
+    {
+      "tag": "h2",
+      "y": 1354,
+      "h": 24,
+      "text": "Trusted by Visionaries"
+    },
+    {
+      "tag": "h2",
+      "y": 3793,
+      "h": 148,
+      "text": "Featured Projects"
+    },
+    {
+      "tag": "h2",
+      "y": 4561,
+      "h": 24,
+      "text": "Capabilities"
+    },
+    {
+      "tag": "h3",
+      "y": 4958,
+      "h": 20,
+      "text": "Websites & Features"
+    },
+    {
+      "tag": "h3",
+      "y": 4958,
+      "h": 20,
+      "text": "Visual Branding"
+    },
+    {
+      "tag": "h3",
+      "y": 4958,
+      "h": 20,
+      "text": "IRL Experience Design"
+    },
+    {
+      "tag": "h3",
+      "y": 4958,
+      "h": 20,
+      "text": "Marketing Execution"
+    },
+    {
+      "tag": "h2",
+      "y": 5390,
+      "h": 24,
+      "text": "Contact"
+    },
+    {
+      "tag": "footer",
+      "y": 5866,
+      "h": 848,
+      "text": "Home Services Showcase (26) People Blog (29) Lab C"
+    },
+    {
+      "tag": "nav",
+      "y": 6668,
+      "h": 46,
+      "text": "HUMAN MACHINE"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 38
+  },
+  "mobile_outline": [
+    {
+      "tag": "nav",
+      "y": 4464,
+      "h": 36,
+      "text": "Menu"
+    },
+    {
+      "tag": "section",
+      "y": 543,
+      "h": 276,
+      "text": "A digital studio & branding powerhouse making cool"
+    },
+    {
+      "tag": "h1",
+      "y": 543,
+      "h": 196,
+      "text": "A digital studio & branding powerhouse making cool shit that performs"
+    },
+    {
+      "tag": "section",
+      "y": 891,
+      "h": 902,
+      "text": "Trusted by Visionaries"
+    },
+    {
+      "tag": "h2",
+      "y": 891,
+      "h": 20,
+      "text": "Trusted by Visionaries"
+    },
+    {
+      "tag": "h2",
+      "y": 1866,
+      "h": 108,
+      "text": "Featured Projects"
+    },
+    {
+      "tag": "h2",
+      "y": 3406,
+      "h": 20,
+      "text": "Capabilities"
+    },
+    {
+      "tag": "h3",
+      "y": 3779,
+      "h": 16,
+      "text": "Websites & Features"
+    },
+    {
+      "tag": "h3",
+      "y": 3779,
+      "h": 16,
+      "text": "Visual Branding"
+    },
+    {
+      "tag": "h3",
+      "y": 4044,
+      "h": 16,
+      "text": "IRL Experience Design"
+    },
+    {
+      "tag": "h3",
+      "y": 4044,
+      "h": 16,
+      "text": "Marketing Execution"
+    },
+    {
+      "tag": "h2",
+      "y": 4412,
+      "h": 20,
+      "text": "Contact"
+    },
+    {
+      "tag": "footer",
+      "y": 4676,
+      "h": 447,
+      "text": "Home Services Showcase (26) People Blog (29) Conta"
+    },
+    {
+      "tag": "nav",
+      "y": 5077,
+      "h": 46,
+      "text": "HUMAN MACHINE"
+    }
+  ]
+}

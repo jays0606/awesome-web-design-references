@@ -1,0 +1,118 @@
+{
+ "id": "fora-travel",
+ "reviewed_at": "2026-09-25",
+ "section_sequence": [
+  {
+   "order": 1,
+   "section": "Hero",
+   "what_it_does": "Floating white rounded nav (links left, centred wordmark, dark CTA right) over a pale sky; centred serif headline, subline, dark + light CTAs; rounded video card with a monogram play button below."
+  },
+  {
+   "order": 2,
+   "section": "Press strip",
+   "what_it_does": "Beach-photo band with a single TIME '100 Most Influential Companies' badge."
+  },
+  {
+   "order": 3,
+   "section": "A better equation in travel",
+   "what_it_does": "Text left, three-circle Venn (Advisors/Travelers/Suppliers) with label cards right, inside a soft gradient card."
+  },
+  {
+   "order": 4,
+   "section": "Technology that makes your business bigger",
+   "what_it_does": "Left list of 6 product areas with icons; right large card with a hotel search mock that fills with priced results."
+  },
+  {
+   "order": 5,
+   "section": "Advisor testimonial",
+   "what_it_does": "Serif quote carousel with arrows and a progress bar."
+  },
+  {
+   "order": 6,
+   "section": "From first booking to full-scale business",
+   "what_it_does": "Three staggered cards (Start/Scale/Operate) climbing a dotted diagonal path."
+  },
+  {
+   "order": 7,
+   "section": "Partnerships",
+   "what_it_does": "Text left, 3x2 grid of partner hotel/cruise logos right."
+  },
+  {
+   "order": 8,
+   "section": "Industry quote",
+   "what_it_does": "Centred serif quote from a partner executive with portrait."
+  },
+  {
+   "order": 9,
+   "section": "Better travel starts with a Fora Advisor",
+   "what_it_does": "Card with heading/CTA and three numbered steps (Plan/Book/Experience better) linked by a dotted line."
+  },
+  {
+   "order": 10,
+   "section": "About Fora",
+   "what_it_does": "Full-bleed event photo with overlay heading, paragraph and READ MORE."
+  },
+  {
+   "order": 11,
+   "section": "Travel by Fora",
+   "what_it_does": "Full-bleed landscape with a handwritten script signature and a thin arch outline."
+  },
+  {
+   "order": 12,
+   "section": "Footer",
+   "what_it_does": "Destination tabs with link grid, then monogram + link columns, newsletter, social, legal."
+  }
+ ],
+ "motion": [
+  {
+   "where": "hero",
+   "trigger": "load",
+   "observed": "No visible change across t=0-8s; cookie bar present from the first frame.",
+   "evidence": "desktop-intro.jpg"
+  },
+  {
+   "where": "Partnerships logo grid",
+   "trigger": "autoplay",
+   "observed": "Logos differ in every capture (e.g. Peninsula/Voyages/Raffles in scroll, Rosewood/Viking/1 Hotels in full page, Four Seasons/Proper/Relais on mobile): the grid cycles logos.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Technology panel",
+   "trigger": "autoplay",
+   "observed": "Search mock goes from empty field to 'Paris, France' with priced hotel rows (La Clef Tour Eiffel, The Hoxton...) - a scripted booking demo; the panel is empty in mobile-full.",
+   "evidence": "desktop-scroll.jpg"
+  },
+  {
+   "where": "Better travel starts... steps",
+   "trigger": "scroll",
+   "observed": "Numbered step cards visible in scroll frames and mobile-full are absent in desktop-full.jpg (empty card): reveal-on-enter.",
+   "evidence": "desktop-full.jpg"
+  },
+  {
+   "where": "Advisor testimonial",
+   "trigger": "autoplay",
+   "observed": "Progress bar under the quote suggests a timed carousel; only one slide observed.",
+   "evidence": "desktop-scroll.jpg"
+  }
+ ],
+ "reduced_motion": "No visible difference in the hero; running_animations 2 normal vs 0 reduced.",
+ "mobile": "At 393px the floating pill nav becomes a plain sticky bar with a large wordmark + hamburger. The headline goes left-aligned over 3 lines, CTAs become full-width stacked blocks, and the video card goes full-bleed. The Venn stacks above its three label cards, the tech list becomes an accordion (Booking Platform open), the testimonial drops its arrows but keeps the progress bar, and the diagonal cards and numbered steps become vertical timelines. The partner grid is 2 columns, and the footer turns destination tabs into a single link list before 2-column link groups.",
+ "adaptable_ideas": [
+  "Floating inset nav card sharing the content column width, so nav and hero media edges align.",
+  "Warm off-white + muted brown palette with one serif for headings and a clean sans for UI: premium without imagery doing all the work.",
+  "Visualise a business model as a simple diagram (Venn, staggered path) instead of icon-feature grids.",
+  "End with two full-bleed emotional photo bands (people, landscape) right before a dense utility footer."
+ ],
+ "capture_issues": [
+  "Cookie consent bar overlays the bottom of every desktop and mobile frame.",
+  "Reveal-on-enter content (numbered steps) missing from desktop-full.jpg; tech demo panel empty in mobile-full.jpg.",
+  "Sticky mobile header is painted mid-footer in mobile-full.jpg."
+ ],
+ "not_verified": [
+  "Nav menus and hover",
+  "Video playback in the hero card",
+  "Carousel arrows",
+  "Accordion open states on mobile",
+  "Footer destination tabs"
+ ]
+}

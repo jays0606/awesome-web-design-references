@@ -1,0 +1,440 @@
+{
+  "id": "anthropic",
+  "url": "https://www.anthropic.com/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 3408,
+    "running_animations": 0,
+    "globals": [
+      "gsap",
+      "ScrollTrigger",
+      "Webflow"
+    ],
+    "videos": 1,
+    "canvases": 0,
+    "sticky_or_fixed": 3
+  },
+  "scroll_frames": 10,
+  "desktop_outline": [
+    {
+      "tag": "nav",
+      "y": 2514,
+      "h": 68,
+      "text": "Research Policy Commitments Learn News Try Claude "
+    },
+    {
+      "tag": "nav",
+      "y": 2570,
+      "h": 18,
+      "text": ""
+    },
+    {
+      "tag": "nav",
+      "y": 2566,
+      "h": 18,
+      "text": ""
+    },
+    {
+      "tag": "header",
+      "y": 68,
+      "h": 390,
+      "text": "AI research and products that put safety at the fr"
+    },
+    {
+      "tag": "h1",
+      "y": 219,
+      "h": 179,
+      "text": "AI research and products that put safety at the frontier AI research and products that put"
+    },
+    {
+      "tag": "section",
+      "y": 458,
+      "h": 762,
+      "text": "Claude Opus 5.5 :Claude: Opus 5.5 Our most capable"
+    },
+    {
+      "tag": "h2",
+      "y": 713,
+      "h": 110,
+      "text": "Claude Opus 5.5 :Claude: Opus 5.5"
+    },
+    {
+      "tag": "h2",
+      "y": 1311,
+      "h": 18,
+      "text": "Latest releases"
+    },
+    {
+      "tag": "h3",
+      "y": 1392,
+      "h": 18,
+      "text": "Introducing Opus 5.5"
+    },
+    {
+      "tag": "h3",
+      "y": 1392,
+      "h": 49,
+      "text": "Introducing Fable 5.1 and Mythos 5.1"
+    },
+    {
+      "tag": "h3",
+      "y": 1392,
+      "h": 18,
+      "text": "Introducing Sonnet 5"
+    },
+    {
+      "tag": "section",
+      "y": 1919,
+      "h": 514,
+      "text": "At Anthropic, we build AI to serve humanity’s long"
+    },
+    {
+      "tag": "h2",
+      "y": 2010,
+      "h": 80,
+      "text": "At Anthropic, we build AI to serve humanity’s long-term well-being."
+    },
+    {
+      "tag": "h2",
+      "y": 2090,
+      "h": 18,
+      "text": "‍"
+    },
+    {
+      "tag": "h3",
+      "y": 2031,
+      "h": 12,
+      "text": "Claude Science"
+    },
+    {
+      "tag": "h3",
+      "y": 2087,
+      "h": 12,
+      "text": "Core views on AI safety"
+    },
+    {
+      "tag": "h3",
+      "y": 2142,
+      "h": 12,
+      "text": "Anthropic’s Responsible Scaling Policy"
+    },
+    {
+      "tag": "h3",
+      "y": 2197,
+      "h": 12,
+      "text": "Anthropic Academy: Build and Learn with Claude"
+    },
+    {
+      "tag": "h3",
+      "y": 2253,
+      "h": 12,
+      "text": "Anthropic’s Economic Index"
+    },
+    {
+      "tag": "h3",
+      "y": 2308,
+      "h": 12,
+      "text": "Claude’s Constitution"
+    },
+    {
+      "tag": "footer",
+      "y": 2433,
+      "h": 981,
+      "text": "Footer © 2026 Anthropic PBC Products Claude Claude"
+    },
+    {
+      "tag": "h2",
+      "y": 2433,
+      "h": 1,
+      "text": "Footer"
+    },
+    {
+      "tag": "nav",
+      "y": 2509,
+      "h": 829,
+      "text": "© 2026 Anthropic PBC Products Claude Claude Code C"
+    },
+    {
+      "tag": "section",
+      "y": 2509,
+      "h": 829,
+      "text": "Products Claude Claude Code Claude Code for Enterp"
+    },
+    {
+      "tag": "h3",
+      "y": 2509,
+      "h": 9,
+      "text": "Products"
+    },
+    {
+      "tag": "h3",
+      "y": 3004,
+      "h": 9,
+      "text": "Models"
+    },
+    {
+      "tag": "section",
+      "y": 2509,
+      "h": 829,
+      "text": "Solutions AI agents Code modernization Coding Comm"
+    },
+    {
+      "tag": "h3",
+      "y": 2509,
+      "h": 9,
+      "text": "Solutions"
+    },
+    {
+      "tag": "h3",
+      "y": 3033,
+      "h": 9,
+      "text": "Claude Platform"
+    },
+    {
+      "tag": "section",
+      "y": 2509,
+      "h": 829,
+      "text": "Resources Blog Claude partner network Community Co"
+    },
+    {
+      "tag": "h3",
+      "y": 2509,
+      "h": 9,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 2975,
+      "h": 9,
+      "text": "Programs"
+    },
+    {
+      "tag": "h3",
+      "y": 3096,
+      "h": 9,
+      "text": "Help and security"
+    },
+    {
+      "tag": "section",
+      "y": 2509,
+      "h": 829,
+      "text": "Company Anthropic Careers Leadership Policy Econom"
+    },
+    {
+      "tag": "h3",
+      "y": 2509,
+      "h": 9,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 2975,
+      "h": 9,
+      "text": "Terms and policies"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 58,
+      "h": 511,
+      "text": "AI research and products that put safety at the fr"
+    },
+    {
+      "tag": "h1",
+      "y": 147,
+      "h": 163,
+      "text": "AI research and products that put safety at the frontier AI research and products that put"
+    },
+    {
+      "tag": "section",
+      "y": 569,
+      "h": 558,
+      "text": "Claude Opus 5.5 :Claude: Opus 5.5 Our most capable"
+    },
+    {
+      "tag": "h2",
+      "y": 741,
+      "h": 91,
+      "text": "Claude Opus 5.5 :Claude: Opus 5.5"
+    },
+    {
+      "tag": "h2",
+      "y": 1183,
+      "h": 18,
+      "text": "Latest releases"
+    },
+    {
+      "tag": "h3",
+      "y": 1257,
+      "h": 18,
+      "text": "Introducing Opus 5.5"
+    },
+    {
+      "tag": "h3",
+      "y": 1743,
+      "h": 49,
+      "text": "Introducing Fable 5.1 and Mythos 5.1"
+    },
+    {
+      "tag": "h3",
+      "y": 2311,
+      "h": 18,
+      "text": "Introducing Sonnet 5"
+    },
+    {
+      "tag": "section",
+      "y": 2741,
+      "h": 713,
+      "text": "At Anthropic, we build AI to serve humanity’s long"
+    },
+    {
+      "tag": "h2",
+      "y": 2797,
+      "h": 80,
+      "text": "At Anthropic, we build AI to serve humanity’s long-term well-being."
+    },
+    {
+      "tag": "h2",
+      "y": 2877,
+      "h": 18,
+      "text": "‍"
+    },
+    {
+      "tag": "h3",
+      "y": 2939,
+      "h": 12,
+      "text": "Claude Science"
+    },
+    {
+      "tag": "h3",
+      "y": 3014,
+      "h": 12,
+      "text": "Core views on AI safety"
+    },
+    {
+      "tag": "h3",
+      "y": 3090,
+      "h": 12,
+      "text": "Anthropic’s Responsible Scaling Policy"
+    },
+    {
+      "tag": "h3",
+      "y": 3165,
+      "h": 34,
+      "text": "Anthropic Academy: Build and Learn with Claude"
+    },
+    {
+      "tag": "h3",
+      "y": 3263,
+      "h": 12,
+      "text": "Anthropic’s Economic Index"
+    },
+    {
+      "tag": "h3",
+      "y": 3338,
+      "h": 12,
+      "text": "Claude’s Constitution"
+    },
+    {
+      "tag": "footer",
+      "y": 3454,
+      "h": 3189,
+      "text": "Footer Products Claude Claude Code Claude Code for"
+    },
+    {
+      "tag": "h2",
+      "y": 3454,
+      "h": 1,
+      "text": "Footer"
+    },
+    {
+      "tag": "nav",
+      "y": 3502,
+      "h": 3092,
+      "text": "Products Claude Claude Code Claude Code for Enterp"
+    },
+    {
+      "tag": "section",
+      "y": 3582,
+      "h": 638,
+      "text": "Products Claude Claude Code Claude Code for Enterp"
+    },
+    {
+      "tag": "h3",
+      "y": 3582,
+      "h": 9,
+      "text": "Products"
+    },
+    {
+      "tag": "h3",
+      "y": 4059,
+      "h": 9,
+      "text": "Models"
+    },
+    {
+      "tag": "section",
+      "y": 4248,
+      "h": 811,
+      "text": "Solutions AI agents Code modernization Coding Comm"
+    },
+    {
+      "tag": "h3",
+      "y": 4248,
+      "h": 9,
+      "text": "Solutions"
+    },
+    {
+      "tag": "h3",
+      "y": 4754,
+      "h": 9,
+      "text": "Claude Platform"
+    },
+    {
+      "tag": "section",
+      "y": 5087,
+      "h": 654,
+      "text": "Resources Blog Claude partner network Community Co"
+    },
+    {
+      "tag": "h3",
+      "y": 5087,
+      "h": 9,
+      "text": "Resources"
+    },
+    {
+      "tag": "h3",
+      "y": 5535,
+      "h": 9,
+      "text": "Programs"
+    },
+    {
+      "tag": "h3",
+      "y": 5637,
+      "h": 9,
+      "text": "Help and security"
+    },
+    {
+      "tag": "section",
+      "y": 5769,
+      "h": 724,
+      "text": "Company Anthropic Careers Leadership Policy Econom"
+    },
+    {
+      "tag": "h3",
+      "y": 5769,
+      "h": 9,
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "y": 6217,
+      "h": 9,
+      "text": "Terms and policies"
+    }
+  ]
+}

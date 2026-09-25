@@ -48,15 +48,27 @@ Playwright, a browser, or an animation analyzer. It uses whichever browser tools
 your agent already has to inspect selected sites: scrolling, navigation, state
 changes, responsive layouts, and motion where supported.
 
-**The current collection is a visual discovery library, not a completed deep
-analysis of every site.** All 17 new captures cover one desktop state. Full-page
-structure, mobile journeys, keyboard interactions, and animation behavior have
-not been systematically audited. Live inspection should fill the relevant gaps
-for the project at hand; unavailable checks must remain marked as untested.
+**Each of the 17 captures now has an evidence bundle** in `evidence/2026-09-25/`:
+desktop and mobile full pages, an intro timeline, a scroll-frame strip, a scroll
+recording, a reduced-motion frame, a heading outline, and a reviewed
+`analysis.json` with the section sequence, observed motion, mobile order and
+untested areas. Hover, menus, keyboard and click paths are still not audited.
+Regenerate or extend bundles with [`tools/capture/`](tools/capture/README.md).
 
 ## Optional skill installation
 
-Using the third-party Skills CLI:
+**Claude Code (CLI or Desktop), no Node required.** Type these in the Claude Code
+prompt box, not a terminal:
+
+```text
+/plugin marketplace add jays0606/awesome-web-design-references
+/plugin install reference-led-design@awesome-web-design-references
+```
+
+Then run `/reload-plugins` or start a new session. The skill appears as
+`reference-led-design:reference-led-design` in the `/` menu.
+
+**Other agents** (Codex, Cursor and others) via the third-party Skills CLI:
 
 ```sh
 npx skills add jays0606/awesome-web-design-references --skill reference-led-design

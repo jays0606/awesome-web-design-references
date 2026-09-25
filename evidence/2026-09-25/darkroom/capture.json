@@ -1,0 +1,384 @@
+{
+  "id": "darkroom",
+  "url": "https://darkroom.engineering/",
+  "captured_at": "2026-09-25",
+  "notes": [],
+  "tech": {
+    "page_height": 8609,
+    "running_animations": 0,
+    "globals": [
+      "lenis"
+    ],
+    "videos": 4,
+    "canvases": 0,
+    "sticky_or_fixed": 11
+  },
+  "scroll_frames": 12,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 7687,
+      "h": 22,
+      "text": "DARKROOM.ENGINEERING WORK ABOUT CONTACT"
+    },
+    {
+      "tag": "nav",
+      "y": 7687,
+      "h": 22,
+      "text": "WORK ABOUT CONTACT"
+    },
+    {
+      "tag": "section",
+      "y": 227,
+      "h": 294,
+      "text": "WHERE THINGS GET DEVELOPED [ DARKROOM ], NOUN A LI"
+    },
+    {
+      "tag": "h1",
+      "y": 227,
+      "h": 177,
+      "text": "WHERE THINGS GET DEVELOPED"
+    },
+    {
+      "tag": "section",
+      "y": 641,
+      "h": 2700,
+      "text": "Oreo & BTS Looped Ibicash"
+    },
+    {
+      "tag": "h2",
+      "y": 3245,
+      "h": 96,
+      "text": "Oreo & BTS"
+    },
+    {
+      "tag": "h2",
+      "y": 3245,
+      "h": 96,
+      "text": "Looped"
+    },
+    {
+      "tag": "h2",
+      "y": 3245,
+      "h": 96,
+      "text": "Ibicash"
+    },
+    {
+      "tag": "section",
+      "y": 3365,
+      "h": 84,
+      "text": "A SMALL SAMPLE, JUST THREE BUILDS WE LIKED FOR DIF"
+    },
+    {
+      "tag": "section",
+      "y": 3649,
+      "h": 239,
+      "text": "WHAT CLIENTS SAY “NOTHING YOU GUYS WERE EXCEPTIONA"
+    },
+    {
+      "tag": "h2",
+      "y": 3649,
+      "h": 113,
+      "text": "WHAT CLIENTS SAY"
+    },
+    {
+      "tag": "section",
+      "y": 4088,
+      "h": 923,
+      "text": "TOOLS WE BUILD AND USE. NOW YOURS TOO. OPEN-SOURCE"
+    },
+    {
+      "tag": "h2",
+      "y": 4088,
+      "h": 209,
+      "text": "TOOLS WE BUILD AND USE. NOW YOURS TOO."
+    },
+    {
+      "tag": "section",
+      "y": 5211,
+      "h": 326,
+      "text": "WE BRING BRANDS AND INTERFACES TO LIFE WITH CODE T"
+    },
+    {
+      "tag": "h2",
+      "y": 5211,
+      "h": 209,
+      "text": "WE BRING BRANDS AND INTERFACES TO LIFE WITH CODE THAT RUNS SMOOTH AND SCALES RIGHT."
+    },
+    {
+      "tag": "section",
+      "y": 5657,
+      "h": 237,
+      "text": "STUDIO CAPABILITIES SERVICES FRONT-END DEVELOPMENT"
+    },
+    {
+      "tag": "h2",
+      "y": 5656,
+      "h": 1,
+      "text": "STUDIO CAPABILITIES"
+    },
+    {
+      "tag": "h3",
+      "y": 5657,
+      "h": 12,
+      "text": "SERVICES"
+    },
+    {
+      "tag": "h3",
+      "y": 5657,
+      "h": 12,
+      "text": "CLIENTS"
+    },
+    {
+      "tag": "h3",
+      "y": 5657,
+      "h": 12,
+      "text": "TECHNOLOGIES"
+    },
+    {
+      "tag": "h3",
+      "y": 5657,
+      "h": 12,
+      "text": "AWARDS / FEATURES"
+    },
+    {
+      "tag": "section",
+      "y": 6094,
+      "h": 179,
+      "text": "ACTIVITY LOG A RUNNING LOG OF WHAT WE'RE SHIPPING."
+    },
+    {
+      "tag": "h2",
+      "y": 6094,
+      "h": 113,
+      "text": "ACTIVITY LOG"
+    },
+    {
+      "tag": "footer",
+      "y": 7709,
+      "h": 22,
+      "text": "BECOME AN OPEN SOURCE SPONSOR"
+    },
+    {
+      "tag": "footer",
+      "y": 7731,
+      "h": 878,
+      "text": "LET'S TALK → ARG 01:52 AM CET 06:52 AM WET 05:52 A"
+    },
+    {
+      "tag": "section",
+      "y": 7747,
+      "h": 284,
+      "text": "LET'S TALK → ARG 01:52 AM CET 06:52 AM WET 05:52 A"
+    },
+    {
+      "tag": "nav",
+      "y": 7779,
+      "h": 140,
+      "text": "NAV HOME WORK ABOUT CONTACT"
+    },
+    {
+      "tag": "nav",
+      "y": 7779,
+      "h": 252,
+      "text": "OPEN SOURCE ALL OSS PROJECTS SATUS LENIS HAMO TEMP"
+    },
+    {
+      "tag": "nav",
+      "y": 7779,
+      "h": 140,
+      "text": "SOCIAL GITHUB X (TWITTER) INSTAGRAM LINKEDIN"
+    },
+    {
+      "tag": "nav",
+      "y": 7779,
+      "h": 168,
+      "text": "INSPIRATION IMPORTANT VIDEO A MEANINGFUL SONG GREA"
+    },
+    {
+      "tag": "section",
+      "y": 8306,
+      "h": 287,
+      "text": "©2026 DARKROOM.ENGINEERING ALL RIGHTS RESERVED"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 0
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 7382,
+      "h": 29,
+      "text": "DARKROOM.ENGINEERING"
+    },
+    {
+      "tag": "section",
+      "y": 233,
+      "h": 441,
+      "text": "WHERE THINGS GET DEVELOPED [ DARKROOM ], NOUN A LI"
+    },
+    {
+      "tag": "h1",
+      "y": 233,
+      "h": 194,
+      "text": "WHERE THINGS GET DEVELOPED"
+    },
+    {
+      "tag": "section",
+      "y": 758,
+      "h": 1977,
+      "text": "Oreo & BTS Looped Ibicash"
+    },
+    {
+      "tag": "h2",
+      "y": 2674,
+      "h": 60,
+      "text": "Oreo & BTS"
+    },
+    {
+      "tag": "h2",
+      "y": 2674,
+      "h": 60,
+      "text": "Looped"
+    },
+    {
+      "tag": "h2",
+      "y": 2674,
+      "h": 60,
+      "text": "Ibicash"
+    },
+    {
+      "tag": "section",
+      "y": 2760,
+      "h": 133,
+      "text": "A SMALL SAMPLE, JUST THREE BUILDS WE LIKED FOR DIF"
+    },
+    {
+      "tag": "section",
+      "y": 3019,
+      "h": 431,
+      "text": "WHAT CLIENTS SAY “NOTHING YOU GUYS WERE EXCEPTIONA"
+    },
+    {
+      "tag": "h2",
+      "y": 3019,
+      "h": 78,
+      "text": "WHAT CLIENTS SAY"
+    },
+    {
+      "tag": "section",
+      "y": 3576,
+      "h": 953,
+      "text": "TOOLS WE BUILD AND USE. NOW YOURS TOO. OPEN-SOURCE"
+    },
+    {
+      "tag": "h2",
+      "y": 3576,
+      "h": 207,
+      "text": "TOOLS WE BUILD AND USE. NOW YOURS TOO."
+    },
+    {
+      "tag": "section",
+      "y": 4702,
+      "h": 509,
+      "text": "WE BRING BRANDS AND INTERFACES TO LIFE WITH CODE T"
+    },
+    {
+      "tag": "h2",
+      "y": 4702,
+      "h": 320,
+      "text": "WE BRING BRANDS AND INTERFACES TO LIFE WITH CODE THAT RUNS SMOOTH AND SCALES RIGHT."
+    },
+    {
+      "tag": "section",
+      "y": 5337,
+      "h": 461,
+      "text": "STUDIO CAPABILITIES SERVICES FRONT-END DEVELOPMENT"
+    },
+    {
+      "tag": "h2",
+      "y": 5336,
+      "h": 1,
+      "text": "STUDIO CAPABILITIES"
+    },
+    {
+      "tag": "h3",
+      "y": 5337,
+      "h": 10,
+      "text": "SERVICES"
+    },
+    {
+      "tag": "h3",
+      "y": 5337,
+      "h": 10,
+      "text": "CLIENTS"
+    },
+    {
+      "tag": "h3",
+      "y": 5573,
+      "h": 10,
+      "text": "TECHNOLOGIES"
+    },
+    {
+      "tag": "h3",
+      "y": 5573,
+      "h": 10,
+      "text": "AWARDS / FEATURES"
+    },
+    {
+      "tag": "section",
+      "y": 5924,
+      "h": 159,
+      "text": "ACTIVITY LOG A RUNNING LOG OF WHAT WE'RE SHIPPING."
+    },
+    {
+      "tag": "h2",
+      "y": 5924,
+      "h": 87,
+      "text": "ACTIVITY LOG"
+    },
+    {
+      "tag": "footer",
+      "y": 7440,
+      "h": 630,
+      "text": "LET'S TALK → ARG 01:53 AM CET 06:53 AM WET 05:53 A"
+    },
+    {
+      "tag": "section",
+      "y": 7449,
+      "h": 587,
+      "text": "LET'S TALK → ARG 01:53 AM CET 06:53 AM WET 05:53 A"
+    },
+    {
+      "tag": "nav",
+      "y": 7591,
+      "h": 140,
+      "text": "NAV HOME WORK ABOUT CONTACT"
+    },
+    {
+      "tag": "nav",
+      "y": 7591,
+      "h": 258,
+      "text": "OPEN SOURCE ALL OSS PROJECTS SATUS LENIS HAMO TEMP"
+    },
+    {
+      "tag": "nav",
+      "y": 7866,
+      "h": 140,
+      "text": "SOCIAL GITHUB X (TWITTER) INSTAGRAM LINKEDIN"
+    },
+    {
+      "tag": "nav",
+      "y": 7866,
+      "h": 170,
+      "text": "INSPIRATION IMPORTANT VIDEO A MEANINGFUL SONG GREA"
+    },
+    {
+      "tag": "section",
+      "y": 8043,
+      "h": 18,
+      "text": "©2026 DARKROOM.ENGINEERING ALL RIGHTS RESERVED"
+    }
+  ]
+}

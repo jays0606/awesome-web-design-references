@@ -1,0 +1,414 @@
+{
+  "id": "clerk",
+  "url": "https://clerk.com/",
+  "captured_at": "2026-09-25",
+  "notes": [
+    "mobile full page cropped at 14000px"
+  ],
+  "tech": {
+    "page_height": 7666,
+    "running_animations": 3,
+    "globals": [],
+    "videos": 0,
+    "canvases": 2,
+    "sticky_or_fixed": 2
+  },
+  "scroll_frames": 11,
+  "desktop_outline": [
+    {
+      "tag": "header",
+      "y": 6774,
+      "h": 42,
+      "text": "Products Docs Changelog Company AI Pricing Sign in"
+    },
+    {
+      "tag": "nav",
+      "y": 6785,
+      "h": 20,
+      "text": "Products Docs Changelog Company AI Pricing"
+    },
+    {
+      "tag": "h1",
+      "y": 218,
+      "h": 144,
+      "text": "More than authentication, Complete User Management"
+    },
+    {
+      "tag": "h2",
+      "y": 928,
+      "h": 24,
+      "text": "Clerk Components"
+    },
+    {
+      "tag": "h3",
+      "y": 1225,
+      "h": 49,
+      "text": "USER AUTHENTICATION"
+    },
+    {
+      "tag": "h3",
+      "y": 1518,
+      "h": 57,
+      "text": "MULTI-TENANCY"
+    },
+    {
+      "tag": "h3",
+      "y": 1575,
+      "h": 57,
+      "text": "BILLING"
+    },
+    {
+      "tag": "h2",
+      "y": 870,
+      "h": 24,
+      "text": "Account"
+    },
+    {
+      "tag": "h2",
+      "y": 872,
+      "h": 20,
+      "text": "Profile details"
+    },
+    {
+      "tag": "h2",
+      "y": 1389,
+      "h": 23,
+      "text": "Create Organization"
+    },
+    {
+      "tag": "h1",
+      "y": 610,
+      "h": 24,
+      "text": "Join the waitlist"
+    },
+    {
+      "tag": "h1",
+      "y": 610,
+      "h": 24,
+      "text": "Thanks for joining the waitlist"
+    },
+    {
+      "tag": "h1",
+      "y": 1074,
+      "h": 24,
+      "text": "Create your account"
+    },
+    {
+      "tag": "h1",
+      "y": 1732,
+      "h": 24,
+      "text": "Sign in to your account"
+    },
+    {
+      "tag": "h2",
+      "y": 710,
+      "h": 24,
+      "text": "Organization"
+    },
+    {
+      "tag": "h2",
+      "y": 712,
+      "h": 20,
+      "text": "General details"
+    },
+    {
+      "tag": "h1",
+      "y": 1312,
+      "h": 23,
+      "text": "Choose an account"
+    },
+    {
+      "tag": "h2",
+      "y": 1989,
+      "h": 24,
+      "text": "User authentication"
+    },
+    {
+      "tag": "h3",
+      "y": 2406,
+      "h": 24,
+      "text": "Multifactor Authentication"
+    },
+    {
+      "tag": "h3",
+      "y": 2534,
+      "h": 24,
+      "text": "Fraud and Abuse Prevention"
+    },
+    {
+      "tag": "h3",
+      "y": 3210,
+      "h": 24,
+      "text": "Advanced security"
+    },
+    {
+      "tag": "h3",
+      "y": 2266,
+      "h": 24,
+      "text": "Session Management"
+    },
+    {
+      "tag": "h3",
+      "y": 2942,
+      "h": 24,
+      "text": "Social Sign-On"
+    },
+    {
+      "tag": "h3",
+      "y": 3210,
+      "h": 24,
+      "text": "Bot Detection"
+    },
+    {
+      "tag": "h3",
+      "y": 2406,
+      "h": 24,
+      "text": "Email and SMS one-time passcodes"
+    },
+    {
+      "tag": "h3",
+      "y": 2534,
+      "h": 24,
+      "text": "Magic Links"
+    },
+    {
+      "tag": "h3",
+      "y": 3210,
+      "h": 24,
+      "text": "Passwords"
+    },
+    {
+      "tag": "h3",
+      "y": 3338,
+      "h": 24,
+      "text": "API Keys"
+    },
+    {
+      "tag": "h3",
+      "y": 3338,
+      "h": 24,
+      "text": "Clerk CLI"
+    },
+    {
+      "tag": "h2",
+      "y": 3894,
+      "h": 24,
+      "text": "Multi-tenancy"
+    },
+    {
+      "tag": "h3",
+      "y": 4155,
+      "h": 24,
+      "text": "Custom roles and permissions"
+    },
+    {
+      "tag": "h3",
+      "y": 4295,
+      "h": 24,
+      "text": "Auto-join"
+    },
+    {
+      "tag": "h3",
+      "y": 4563,
+      "h": 24,
+      "text": "Invitations"
+    },
+    {
+      "tag": "h3",
+      "y": 4155,
+      "h": 24,
+      "text": "Organization UI Components"
+    },
+    {
+      "tag": "h2",
+      "y": 4876,
+      "h": 24,
+      "text": "Billing"
+    },
+    {
+      "tag": "h2",
+      "y": 5677,
+      "h": 24,
+      "text": "Frameworks"
+    },
+    {
+      "tag": "h2",
+      "y": 5677,
+      "h": 24,
+      "text": "Integrations"
+    },
+    {
+      "tag": "footer",
+      "y": 7253,
+      "h": 413,
+      "text": "Product Authentication Multi-tenancy Billing CLI A"
+    }
+  ],
+  "reduced_motion": {
+    "running_animations": 5
+  },
+  "mobile_outline": [
+    {
+      "tag": "header",
+      "y": 13735,
+      "h": 42,
+      "text": "Sign in Sign up"
+    },
+    {
+      "tag": "h1",
+      "y": 170,
+      "h": 144,
+      "text": "More than authentication, Complete User Management"
+    },
+    {
+      "tag": "h2",
+      "y": 951,
+      "h": 24,
+      "text": "Clerk Components"
+    },
+    {
+      "tag": "h3",
+      "y": 1831,
+      "h": 49,
+      "text": "USER AUTHENTICATION"
+    },
+    {
+      "tag": "h3",
+      "y": 2124,
+      "h": 57,
+      "text": "MULTI-TENANCY"
+    },
+    {
+      "tag": "h3",
+      "y": 2181,
+      "h": 57,
+      "text": "BILLING"
+    },
+    {
+      "tag": "h2",
+      "y": 2503,
+      "h": 24,
+      "text": "User authentication"
+    },
+    {
+      "tag": "h3",
+      "y": 3004,
+      "h": 24,
+      "text": "Multifactor Authentication"
+    },
+    {
+      "tag": "h3",
+      "y": 3132,
+      "h": 24,
+      "text": "Fraud and Abuse Prevention"
+    },
+    {
+      "tag": "h3",
+      "y": 3848,
+      "h": 24,
+      "text": "Advanced security"
+    },
+    {
+      "tag": "h3",
+      "y": 3996,
+      "h": 24,
+      "text": "Session Management"
+    },
+    {
+      "tag": "h3",
+      "y": 4732,
+      "h": 24,
+      "text": "Social Sign-On"
+    },
+    {
+      "tag": "h3",
+      "y": 5020,
+      "h": 24,
+      "text": "Bot Detection"
+    },
+    {
+      "tag": "h3",
+      "y": 5308,
+      "h": 24,
+      "text": "Email and SMS one-time passcodes"
+    },
+    {
+      "tag": "h3",
+      "y": 5436,
+      "h": 24,
+      "text": "Magic Links"
+    },
+    {
+      "tag": "h3",
+      "y": 6152,
+      "h": 24,
+      "text": "Passwords"
+    },
+    {
+      "tag": "h3",
+      "y": 6300,
+      "h": 24,
+      "text": "API Keys"
+    },
+    {
+      "tag": "h3",
+      "y": 6608,
+      "h": 24,
+      "text": "Clerk CLI"
+    },
+    {
+      "tag": "h2",
+      "y": 7184,
+      "h": 24,
+      "text": "Multi-tenancy"
+    },
+    {
+      "tag": "h3",
+      "y": 7777,
+      "h": 24,
+      "text": "Custom roles and permissions"
+    },
+    {
+      "tag": "h3",
+      "y": 7649,
+      "h": 24,
+      "text": "Auto-join"
+    },
+    {
+      "tag": "h3",
+      "y": 8453,
+      "h": 24,
+      "text": "Invitations"
+    },
+    {
+      "tag": "h3",
+      "y": 8581,
+      "h": 24,
+      "text": "Organization UI Components"
+    },
+    {
+      "tag": "h2",
+      "y": 9213,
+      "h": 24,
+      "text": "Billing"
+    },
+    {
+      "tag": "h2",
+      "y": 10592,
+      "h": 24,
+      "text": "Frameworks"
+    },
+    {
+      "tag": "h2",
+      "y": 11431,
+      "h": 24,
+      "text": "Integrations"
+    },
+    {
+      "tag": "footer",
+      "y": 13447,
+      "h": 939,
+      "text": "Product Authentication Multi-tenancy Billing CLI A"
+    }
+  ]
+}

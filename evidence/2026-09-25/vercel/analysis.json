@@ -1,0 +1,85 @@
+{
+  "id": "vercel",
+  "reviewed_at": "2026-09-25",
+  "section_sequence": [
+    {
+      "order": 1,
+      "section": "sticky nav + announcement",
+      "what_it_does": "Off-white bar: logo, 4 links, Get a Demo / Log In outlined and black Sign Up; below it a single centered event line with 'Get your ticket' link."
+    },
+    {
+      "order": 2,
+      "section": "hero",
+      "what_it_does": "Three-column composition across the full width: two-line H1 + pill CTAs far left, large black triangle with soft glow center, three short audience lines far right; lots of empty space above and below."
+    },
+    {
+      "order": 3,
+      "section": "logo strip",
+      "what_it_does": "Seven customer logos spaced evenly edge to edge at the bottom of the first viewport."
+    },
+    {
+      "order": 4,
+      "section": "customer showcase (pinned)",
+      "what_it_does": "Scroll-driven stack of use cases (Notion, Zapier, Mintlify): headline left, live-looking product screenshot centered, stat sentence + 'Features' list right."
+    },
+    {
+      "order": 5,
+      "section": "recently shipped",
+      "what_it_does": "Bento: one tall left card with line illustration (agent framework) and two stacked right cards (Passport with black ID graphic, Containers with terminal log)."
+    },
+    {
+      "order": 6,
+      "section": "closing CTA",
+      "what_it_does": "Centered 'Built by you, or your agents' with Deploy now pill and an 'Onboard your agent' copy command."
+    },
+    {
+      "order": 7,
+      "section": "footer",
+      "what_it_does": "Dense 6-column sitemap in two tiers (products, then company/legal/social), small logo and a blue mono 'All systems normal' status line with theme toggles."
+    }
+  ],
+  "motion": [
+    {
+      "where": "hero",
+      "trigger": "load",
+      "observed": "No visible change between t=0, 0.7, 1.8, 3.5 and 8s; the triangle, glow and copy stay static.",
+      "evidence": "desktop-intro.jpg"
+    },
+    {
+      "where": "customer showcase",
+      "trigger": "scroll-linked",
+      "observed": "Headline, screenshot and right-hand stat swap per customer while the section stays in place; the next headline slides up as the previous screenshot scrolls off.",
+      "evidence": "desktop-scroll.mp4"
+    },
+    {
+      "where": "customer showcase",
+      "trigger": "scroll-linked",
+      "observed": "In desktop-full.jpg the area after Notion is a ~2000px blank gap, consistent with a pinned track whose content only renders in one state (inference).",
+      "evidence": "desktop-scroll.jpg"
+    },
+    {
+      "where": "mobile hero subline",
+      "trigger": "autoplay",
+      "observed": "The monospace subline reads 'To ship apps andrhkbeah' in mobile-hero.jpg and 'To ship apps and agents' in mobile-scroll.jpg: text scrambles and then resolves, cycling the three desktop lines (inferred from stills).",
+      "evidence": "mobile-hero.jpg"
+    }
+  ],
+  "reduced_motion": "Triangle renders flat with no soft glow/shadow and no halo circle, versus the blurred shadow in the normal hero; everything else identical. capture.json running_animations = 0 in both modes.",
+  "mobile": "Nav becomes logo + two-line hamburger and stays pinned. The hero recenters into one column: announcement, big glowing triangle on top, centered two-line H1, a single scrambling monospace subline instead of the three right-column lines, then full-width stacked pill buttons. The logo strip becomes a horizontally cropped row. The customer showcase stacks headline, screenshot, stat and feature list per customer; Recently shipped goes single-column with the Passport and Containers cards angled; the footer becomes 2 columns.",
+  "adaptable_ideas": [
+    "Spread a hero across three far-apart columns (claim / emblem / audience list) so whitespace, not a container, defines the composition.",
+    "On narrow screens collapse a static list of audience lines into one rotating typed line in a monospace face, keeping the idea without the width.",
+    "Customer proof as a pinned three-slot layout (headline / real product screenshot / stat + features) that swaps per customer on scroll.",
+    "End with a one-line centered CTA plus a copyable command, then a status line in the footer as a quiet credibility signal."
+  ],
+  "capture_issues": [
+    "desktop-full.jpg and mobile-full.jpg both show a large blank region where the pinned customer showcase sits; the Zapier and Mintlify states appear only in the scroll strips.",
+    "The fixed nav is missing from the top of both full-page captures and is stamped over the footer instead (desktop outline y=5030).",
+    "The last recorded frames of desktop-scroll.mp4 switch to a grey panel with a small page thumbnail (appears to be the capture switching viewports, not site behaviour)."
+  ],
+  "not_verified": [
+    "Products/Resources mega-menus and hover states",
+    "'Onboard your agent' copy action and ticket link",
+    "Whether the triangle glow animates or reacts to pointer on desktop"
+  ]
+}
