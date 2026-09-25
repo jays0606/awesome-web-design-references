@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "curated_by": "VibeRick / Jaeho",
+  "published_snapshot": "2026-09-25",
+  "description": "Personal preferences, not objective ranking. Historical captures; live sites may differ.",
+  "references": [
+    {
+      "id": "29cm",
+      "name": "29cm",
+      "url": "https://www.29cm.co.kr/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/",
+      "status": "featured historical screenshot reviewed",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false,
+      "style": "차분한 브랜드·설명 중심",
+      "why": "넉넉한 여백, 굵은 제목과 짧은 설명의 대비",
+      "suitable_for": "브랜드 소개, 컨설팅, 글 중심 서비스",
+      "prompt": "큰 제목과 여유 있는 문장 배치를 참고하고 내 브랜드 색과 사진을 사용해줘.",
+      "screenshot": "screenshots/anthropic-2026-09-06.png",
+      "avoid": "로고·원문·사진·제품 화면의 자산 복제. 실제 사이트를 측정하지 않고 수치나 성능을 일반화하지 않기."
+    },
+    {
+      "id": "arc-browser",
+      "name": "arc-browser",
+      "url": "https://arc.net/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "basement-studio",
+      "name": "basement-studio",
+      "url": "https://basement.studio/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "clerk",
+      "name": "clerk",
+      "url": "https://clerk.com/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "url": "https://cursor.com/",
+      "status": "featured historical screenshot reviewed",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false,
+      "style": "간결한 제품 소개",
+      "why": "짧은 가치 설명과 바로 이어지는 제품 화면",
+      "suitable_for": "앱·SaaS·AI 도구 소개",
+      "prompt": "짧은 소개 다음에 내 제품 화면을 크게 보여줘. 다운로드 버튼을 무작정 복제하지 말고 내 서비스의 행동으로 바꿔줘.",
+      "screenshot": "screenshots/cursor-2026-09-06.png",
+      "avoid": "로고·원문·사진·제품 화면의 자산 복제. 실제 사이트를 측정하지 않고 수치나 성능을 일반화하지 않기."
+    },
+    {
+      "id": "darkroom",
+      "name": "darkroom",
+      "url": "https://darkroom.engineering/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "family-co",
+      "name": "family-co",
+      "url": "https://family.co/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "fora-travel",
+      "name": "fora-travel",
+      "url": "https://www.foratravel.com/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "illoca-unseen",
+      "name": "illoca-unseen",
+      "url": "https://illoca.unseen.co/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "linear",
+      "name": "linear",
+      "url": "https://linear.app/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "mobbin-mcp",
+      "name": "mobbin-mcp",
+      "url": "https://mobbin.com/mcp",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "resend",
+      "name": "resend",
+      "url": "https://resend.com/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "rive",
+      "name": "rive",
+      "url": "https://rive.app/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "stripe",
+      "name": "stripe",
+      "url": "https://stripe.com/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "teenage-engineering",
+      "name": "teenage-engineering",
+      "url": "https://teenage.engineering/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "toss",
+      "name": "Toss",
+      "url": "https://toss.im/",
+      "status": "featured historical screenshot reviewed",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false,
+      "style": "한글·생활 이미지 중심",
+      "why": "짧고 큰 한글 문구와 넓은 생활 이미지",
+      "suitable_for": "한국어 서비스·일상 브랜드",
+      "prompt": "큰 한글 제목과 생활 이미지의 대비를 참고해줘. 좁은 화면의 줄바꿈은 우리 문구로 직접 확인해줘.",
+      "screenshot": "screenshots/toss-2026-09-06.png",
+      "avoid": "로고·원문·사진·제품 화면의 자산 복제. 실제 사이트를 측정하지 않고 수치나 성능을 일반화하지 않기."
+    },
+    {
+      "id": "vercel",
+      "name": "vercel",
+      "url": "https://vercel.com/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    },
+    {
+      "id": "wearedirect",
+      "name": "wearedirect",
+      "url": "https://wearedirect.co/",
+      "status": "link-only historical candidate",
+      "captured_at": "2026-09-06",
+      "current_site_rechecked": false
+    }
+  ]
+}
