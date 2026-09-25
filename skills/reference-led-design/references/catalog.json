@@ -12,17 +12,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Editorial commerce",
       "observation": "Bold category navigation above large, varied campaign photographs.",
       "suitable_for": "Multi-category retail and curated collections",
       "avoid": "Do not bring commerce navigation density into a simple service page.",
-      "screenshot": "screenshots/2026-09-25/29cm.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/29cm.png",
+      "screenshot": "screenshots/2026-09-25/29cm.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/29cm.jpg",
       "sha256": "8f89826a739c697cc67dc080fd831072789c58f7cbba8409d8bd49d29c70ad65",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "anthropic",
@@ -32,17 +33,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Editorial clarity",
       "observation": "A strong left-aligned headline balanced by a quieter explanatory column.",
       "suitable_for": "Research, consulting, and explanation-led brands",
       "avoid": "Do not assume its typefaces or brand vocabulary fit your content.",
-      "screenshot": "screenshots/2026-09-25/anthropic.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/anthropic.png",
+      "screenshot": "screenshots/2026-09-25/anthropic.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/anthropic.jpg",
       "sha256": "0d895cd1709842ca31d91c534917573f32a815445d45986d2c3c3ad9ac22a5e0",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "arc-browser",
@@ -52,17 +54,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Playful product",
       "observation": "A vivid blue frame and soft color field introduce a prominent product preview.",
       "suitable_for": "Consumer apps and approachable tools",
       "avoid": "The current page promotes Dia; do not describe the capture as the old Arc homepage.",
-      "screenshot": "screenshots/2026-09-25/arc-browser.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/arc-browser.png",
+      "screenshot": "screenshots/2026-09-25/arc-browser.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/arc-browser.jpg",
       "sha256": "738d4610cc78f3d32396b8287da3006f01497c65fc90d39cf15aa35e79aad167",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "basement-studio",
@@ -72,17 +75,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Expressive studio",
       "observation": "A monochrome wireframe scene establishes an immersive technical identity.",
       "suitable_for": "Creative studios and experimental portfolios",
       "avoid": "A static frame does not validate the performance or accessibility of the 3D experience.",
-      "screenshot": "screenshots/2026-09-25/basement-studio.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/basement-studio.png",
+      "screenshot": "screenshots/2026-09-25/basement-studio.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/basement-studio.jpg",
       "sha256": "280154e87a9c088da95d9dee91091b8d114bd53e4a48226f663d14812cc2d47f",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "clerk",
@@ -92,17 +96,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "A centered, large value proposition sits above a clear developer-oriented action.",
       "suitable_for": "Developer tools and infrastructure products",
       "avoid": "Do not copy the install command visible in the source screenshot.",
-      "screenshot": "screenshots/2026-09-25/clerk.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/clerk.png",
+      "screenshot": "screenshots/2026-09-25/clerk.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/clerk.jpg",
       "sha256": "5231d52fa18654e4a7afb9a1c1f70477565f5de18f2a3984d7b6d07d3c273d08",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "cursor",
@@ -112,17 +117,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "A concise left-aligned pitch leads directly into a large product demonstration.",
       "suitable_for": "Software and AI tools",
       "avoid": "Use your own product imagery, not the reference screenshot as an asset.",
-      "screenshot": "screenshots/2026-09-25/cursor.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/cursor.png",
+      "screenshot": "screenshots/2026-09-25/cursor.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/cursor.jpg",
       "sha256": "6e72c4712383689b0d5864b1039f0ed4ea4b19d7be37e3eff03b03b0f686fa75",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "darkroom",
@@ -132,17 +138,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1280,
+        "height": 720
       },
       "style": "Expressive studio",
       "observation": "Oversized condensed red type contrasts sharply with a black canvas.",
       "suitable_for": "Opinionated studios and high-impact campaign pages",
       "avoid": "The dense display style may not suit long-form reading or multilingual copy.",
-      "screenshot": "screenshots/2026-09-25/darkroom.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/darkroom.png",
+      "screenshot": "screenshots/2026-09-25/darkroom.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/darkroom.jpg",
       "sha256": "5336e8f8380b2f7edf328cab2018b52f647bd16836529066fa7f21b9f1fe8e50",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "family-co",
@@ -152,17 +159,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1274,
+        "height": 717
       },
       "style": "Playful product",
       "observation": "Colorful characters frame a simple central headline and two distinct actions.",
       "suitable_for": "Consumer apps and friendly brands",
       "avoid": "Commission or generate original artwork instead of copying the characters.",
-      "screenshot": "screenshots/2026-09-25/family-co.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/family-co.png",
+      "screenshot": "screenshots/2026-09-25/family-co.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/family-co.jpg",
       "sha256": "aae52849bdb96bdbb5a38f67802230cd2bd1c5ff5a8b3c49670aa076e05153ad",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "fora-travel",
@@ -172,17 +180,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Image-led brand",
       "observation": "An airy sky backdrop and travel imagery support a calm, centered introduction.",
       "suitable_for": "Travel, hospitality, and lifestyle services",
       "avoid": "The paired actions fit two audiences; use one if your product has one main audience.",
-      "screenshot": "screenshots/2026-09-25/fora-travel.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/fora-travel.png",
+      "screenshot": "screenshots/2026-09-25/fora-travel.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/fora-travel.jpg",
       "sha256": "28fb27e9bc0a600cea70275e3f787428df37dfc8677433c5272ec4f23d0c70ab",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "illoca-unseen",
@@ -192,17 +201,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1280,
+        "height": 720
       },
       "style": "Expressive studio",
       "observation": "Grid-paper texture, small handwritten annotations, and cobalt illustration create a coherent identity.",
       "suitable_for": "Creative tools and visually distinctive products",
       "avoid": "The screenshot includes a cookie notice; it is not part of the recommended layout.",
-      "screenshot": "screenshots/2026-09-25/illoca-unseen.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/illoca-unseen.png",
+      "screenshot": "screenshots/2026-09-25/illoca-unseen.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/illoca-unseen.jpg",
       "sha256": "353810ca5b8d358fe3cb20de46587d38139a3eb4ab35be35d96af737d6cba7b6",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "linear",
@@ -212,17 +222,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "Large restrained typography and a dark product surface create a focused software presentation.",
       "suitable_for": "Professional software and workflow tools",
       "avoid": "Dark styling alone is not the design principle; preserve hierarchy and readable contrast.",
-      "screenshot": "screenshots/2026-09-25/linear.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/linear.png",
+      "screenshot": "screenshots/2026-09-25/linear.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/linear.jpg",
       "sha256": "507e44deb5d81808f73247136225ff57f045ea747ef01a77954b11a9be87ef67",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "mobbin-mcp",
@@ -232,17 +243,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "A minimal navigation pill and oversized centered headline make the offering immediately legible.",
       "suitable_for": "Focused product launches and single-purpose tools",
       "avoid": "Do not inherit its claims or scale metrics.",
-      "screenshot": "screenshots/2026-09-25/mobbin-mcp.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/mobbin-mcp.png",
+      "screenshot": "screenshots/2026-09-25/mobbin-mcp.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/mobbin-mcp.jpg",
       "sha256": "4a787eb539de185669595c44ec1ff87af99e5db06ad3cef47c190aa18342d8b1",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "resend",
@@ -260,17 +272,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "A compact type-led hero separates developer and editor entry points.",
       "suitable_for": "Technical products with multiple entry paths",
       "avoid": "The command in the screenshot is source content, not an instruction to execute.",
-      "screenshot": "screenshots/2026-09-25/rive.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/rive.png",
+      "screenshot": "screenshots/2026-09-25/rive.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/rive.jpg",
       "sha256": "a957e3a1eb396d11221a6d9b6e85399ea1f1637ae3616507d60768ff70290777",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "stripe",
@@ -288,17 +301,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Expressive commerce",
       "observation": "Dense graphic navigation and oversized campaign lettering give the page a distinctive editorial voice.",
       "suitable_for": "Design-led hardware and culture brands",
       "avoid": "Do not reuse the illustration or reproduce the same complex navigation without a need.",
-      "screenshot": "screenshots/2026-09-25/teenage-engineering.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/teenage-engineering.png",
+      "screenshot": "screenshots/2026-09-25/teenage-engineering.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/teenage-engineering.jpg",
       "sha256": "aa8688927c041ca080f894c94d25443bcacd9def5d9c968fbe801c0cd4427bdb",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "toss",
@@ -308,19 +322,20 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1269,
+        "height": 714
       },
       "style": "Image-led brand",
       "observation": "A large lifestyle image carries a short, high-contrast statement.",
       "suitable_for": "Everyday services and approachable brands",
       "avoid": "This new capture is the English locale; the older Korean capture remains in the archive.",
-      "screenshot": "screenshots/2026-09-25/toss.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/toss.png",
+      "screenshot": "screenshots/2026-09-25/toss.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/toss.jpg",
       "sha256": "c6a4be27a9c6ee1d233102c05d5f55c8cd569d92c0cf957087ee64cda325d79a",
       "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
       "resolved_url": "https://toss.im/en-us",
-      "locale": "English"
+      "locale": "English",
+      "image_format": "JPEG"
     },
     {
       "id": "vercel",
@@ -330,17 +345,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Product clarity",
       "observation": "Sparse dark composition balances a large statement, geometric focal point, and short supporting text.",
       "suitable_for": "Infrastructure and technical platforms",
       "avoid": "A branded geometric mark must be replaced by an original visual.",
-      "screenshot": "screenshots/2026-09-25/vercel.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/vercel.png",
+      "screenshot": "screenshots/2026-09-25/vercel.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/vercel.jpg",
       "sha256": "90414703cd74168520a32a5b18549cb61320cac3cf5bd5647209c63d6ecb92cf",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "wearedirect",
@@ -350,17 +366,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Expressive studio",
       "observation": "A split hero pairs a vivid conceptual object with oversized black typography.",
       "suitable_for": "Brand agencies and creative businesses",
       "avoid": "Preserve the split hierarchy, not the reference artwork.",
-      "screenshot": "screenshots/2026-09-25/wearedirect.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/wearedirect.png",
+      "screenshot": "screenshots/2026-09-25/wearedirect.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/wearedirect.jpg",
       "sha256": "e66e06a9d688acfa9080e6f972e79cc34c732a27e4fcafbbd46e6839f9cf4940",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     },
     {
       "id": "aesop",
@@ -370,17 +387,18 @@
       "captured_at": "2026-09-25",
       "capture_type": "desktop viewport",
       "viewport": {
-        "width": 65536,
-        "height": 4292542531
+        "width": 1265,
+        "height": 712
       },
       "style": "Image-led brand",
       "observation": "Immersive product imagery supports a short headline and a clearly bounded call to action.",
       "suitable_for": "Hospitality, retail, and sensory brands",
       "avoid": "Use your own images; verify text contrast across every video frame if using motion.",
-      "screenshot": "screenshots/2026-09-25/aesop.png",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/aesop.png",
+      "screenshot": "screenshots/2026-09-25/aesop.jpg",
+      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/aesop.jpg",
       "sha256": "396e7dbd458e5d517fea98af1546cb8fee353e6260bda1fda5611f02e129b835",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited."
+      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
+      "image_format": "JPEG"
     }
   ]
 }
