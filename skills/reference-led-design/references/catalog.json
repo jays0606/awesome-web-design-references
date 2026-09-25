@@ -511,34 +511,6 @@
         "mobile": "not-audited",
         "motion": "not-audited"
       }
-    },
-    {
-      "id": "aesop",
-      "name": "Aesop",
-      "url": "https://www.aesop.com/",
-      "status": "captured-and-visually-reviewed",
-      "captured_at": "2026-09-25",
-      "capture_type": "desktop viewport",
-      "viewport": {
-        "width": 1265,
-        "height": 712
-      },
-      "style": "Image-led brand",
-      "observation": "Immersive product imagery supports a short headline and a clearly bounded call to action.",
-      "suitable_for": "Hospitality, retail, and sensory brands",
-      "avoid": "Use your own images; verify text contrast across every video frame if using motion.",
-      "screenshot": "screenshots/2026-09-25/aesop.jpg",
-      "screenshot_url": "https://raw.githubusercontent.com/jays0606/awesome-web-design-references/main/screenshots/2026-09-25/aesop.jpg",
-      "sha256": "396e7dbd458e5d517fea98af1546cb8fee353e6260bda1fda5611f02e129b835",
-      "limitations": "One desktop state; mobile behavior, interaction quality, performance and conversion outcomes not audited.",
-      "image_format": "JPEG",
-      "analysis_coverage": {
-        "desktop_still": "reviewed",
-        "full_page": "not-audited",
-        "interactions": "not-audited",
-        "mobile": "not-audited",
-        "motion": "not-audited"
-      }
     }
   ]
 }

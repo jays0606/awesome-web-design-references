@@ -8,7 +8,7 @@ Maintained by **Jaeho / VibeRick**. Start with a visual direction, understand wh
 
 ## What is included
 
-- **18 desktop screenshots captured and visually reviewed on September 25, 2026.**
+- **17 desktop screenshots captured and visually reviewed on September 25, 2026.**
 - Original observations, suitable use cases, and cautions for each captured example.
 - Three English workflows: **Ideate**, **Improve**, and **Review**.
 - An optional `reference-led-design` skill using the open Agent Skills format.
@@ -22,7 +22,7 @@ Two additional candidates are recorded without a new public screenshot because a
 |---|---|---|
 | Editorial clarity | Anthropic | Research, consulting, explanation-led brands |
 | Product clarity | Cursor, Linear, Clerk, Vercel, Mobbin MCP, Rive | Software and technical products |
-| Image-led brands | Aesop, Fora, Toss | Hospitality, lifestyle, everyday services |
+| Image-led brands | Fora, Toss | Hospitality, lifestyle, everyday services |
 | Playful products | Family, Arc / Dia | Approachable consumer products |
 | Expressive studios and commerce | Basement, Darkroom, Illoca, Direct, 29CM, Teenage Engineering | Distinctive creative and retail identities |
 
@@ -49,7 +49,7 @@ your agent already has to inspect selected sites: scrolling, navigation, state
 changes, responsive layouts, and motion where supported.
 
 **The current collection is a visual discovery library, not a completed deep
-analysis of every site.** All 18 new captures cover one desktop state. Full-page
+analysis of every site.** All 17 new captures cover one desktop state. Full-page
 structure, mobile journeys, keyboard interactions, and animation behavior have
 not been systematically audited. Live inspection should fill the relevant gaps
 for the project at hand; unavailable checks must remain marked as untested.

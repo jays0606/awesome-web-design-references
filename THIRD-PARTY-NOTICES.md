@@ -19,7 +19,6 @@ Screenshots below were captured on 2026-09-25 as public desktop reference states
 - `screenshots/2026-09-25/toss.jpg` — https://toss.im/
 - `screenshots/2026-09-25/vercel.jpg` — https://vercel.com/
 - `screenshots/2026-09-25/wearedirect.jpg` — https://wearedirect.co/
-- `screenshots/2026-09-25/aesop.jpg` — https://www.aesop.com/
 
 ## Historical archive
 
